@@ -6,16 +6,313 @@
   "parts": [
     {
       "part_number": 1,
-      "title": "Cambridge 21 Test 4 Listening Part 1",
+      "title": "Part 1",
       "audio_file": "C21T4P1.mp3",
-      "passage": "<p>Passage content for Cambridge 21 Test 4 Listening. Loaded from archive.</p>",
+      "passage": "<h3>PART 1</h3><p>Questions 1-10<br>Complete the form below.<br>Write ONE WORD ONLY for each answer.</p>",
       "questions": [
         {
           "id": 1,
           "type": "fill_in_the_blank",
           "instruction": "Write ONE WORD ONLY for each answer.",
-          "content": "<p>Sample extracted question 1: <input type='text' data-qid='1' class='ielts-input' /></p>",
-          "answer": ""
+          "content": "Name: Martyn <input type='text' data-qid='1' class='ielts-input' />",
+          "answer": "Leigh"
+        },
+        {
+          "id": 2,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "Today's journey to Broadbeach town centre: used his <input type='text' data-qid='2' class='ielts-input' />",
+          "answer": "motorbike"
+        },
+        {
+          "id": 3,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "Purpose of today's trip: has visited the <input type='text' data-qid='3' class='ielts-input' />",
+          "answer": "hairdresser"
+        },
+        {
+          "id": 4,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "looking for a new <input type='text' data-qid='4' class='ielts-input' />",
+          "answer": "suit"
+        },
+        {
+          "id": 5,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "collecting <input type='text' data-qid='5' class='ielts-input' /> (after repair)",
+          "answer": "laptop"
+        },
+        {
+          "id": 6,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "Preferred day for shopping: <input type='text' data-qid='6' class='ielts-input' />",
+          "answer": "Monday"
+        },
+        {
+          "id": 7,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "Opinions about shopping in the town centre: Finds the service in shops is excellent. Thinks there are too many places selling <input type='text' data-qid='7' class='ielts-input' />",
+          "answer": "coffee"
+        },
+        {
+          "id": 8,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "Would like more places to buy <input type='text' data-qid='8' class='ielts-input' />",
+          "answer": "books"
+        },
+        {
+          "id": 9,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "Opinions about new out-of-town Shopping Centre: Likes the <input type='text' data-qid='9' class='ielts-input' /> best",
+          "answer": "plants"
+        },
+        {
+          "id": 10,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "Believes the <input type='text' data-qid='10' class='ielts-input' /> is unnecessary",
+          "answer": "cinema"
+        }
+      ]
+    },
+    {
+      "part_number": 2,
+      "title": "Part 2",
+      "audio_file": "C21T4P2.1.mp3",
+      "passage": "<h3>PART 2</h3><p>Questions 11-20</p>",
+      "questions": [
+        {
+          "id": 11,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.",
+          "content": "In which TWO areas of the business exhibition did James Craig promote his company last year?<br>A. the Digital Marketing Centre<br>B. the TalkCon Zone<br>C. the Breakout area<br>D. the Business Village<br>E. the Business Connections Zone<br><input type='text' data-qid='11' class='ielts-input' />",
+          "answer": "C"
+        },
+        {
+          "id": 12,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.",
+          "content": "In which TWO areas of the business exhibition did James Craig promote his company last year? (Second choice)<br><input type='text' data-qid='12' class='ielts-input' />",
+          "answer": "E"
+        },
+        {
+          "id": 13,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.",
+          "content": "Which TWO facts are given about discounts on popular brands available to exhibitors?<br>A. They are available to all members of exhibiting companies.<br>B. They can be used for both food and clothing.<br>C. They only apply if people spend at least £400.<br>D. They can be used by family members.<br>E. The percentage saved is always the same.<br><input type='text' data-qid='13' class='ielts-input' />",
+          "answer": "A"
+        },
+        {
+          "id": 14,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.",
+          "content": "Which TWO facts are given about discounts on popular brands available to exhibitors? (Second choice)<br><input type='text' data-qid='14' class='ielts-input' />",
+          "answer": "B"
+        },
+        {
+          "id": 15,
+          "type": "multiple_choice",
+          "instruction": "Which topic will each of the following speakers focus on? Choose SIX answers from the box and write the correct letter, A-G, next to Questions 15-20.\nTopics:\nA Supporting job seekers\nB Dealing with personal problems\nC Effects of an unexpectedly rapid expansion\nD A global range of business experiences\nE Coping with financial set-backs\nF Developing a company in response to changing markets\nG Combining business success with contributions to charities",
+          "content": "15 Jim Clowrie <input type='text' data-qid='15' class='ielts-input' />",
+          "answer": "C"
+        },
+        {
+          "id": 16,
+          "type": "multiple_choice",
+          "instruction": "Which topic will each of the following speakers focus on? Choose SIX answers from the box and write the correct letter, A-G, next to Questions 15-20.",
+          "content": "16 David France <input type='text' data-qid='16' class='ielts-input' />",
+          "answer": "G"
+        },
+        {
+          "id": 17,
+          "type": "multiple_choice",
+          "instruction": "Which topic will each of the following speakers focus on? Choose SIX answers from the box and write the correct letter, A-G, next to Questions 15-20.",
+          "content": "17 Oliver Stanton <input type='text' data-qid='17' class='ielts-input' />",
+          "answer": "D"
+        },
+        {
+          "id": 18,
+          "type": "multiple_choice",
+          "instruction": "Which topic will each of the following speakers focus on? Choose SIX answers from the box and write the correct letter, A-G, next to Questions 15-20.",
+          "content": "18 Francesca Heptonstall <input type='text' data-qid='18' class='ielts-input' />",
+          "answer": "A"
+        },
+        {
+          "id": 19,
+          "type": "multiple_choice",
+          "instruction": "Which topic will each of the following speakers focus on? Choose SIX answers from the box and write the correct letter, A-G, next to Questions 15-20.",
+          "content": "19 Salman Khan <input type='text' data-qid='19' class='ielts-input' />",
+          "answer": "F"
+        },
+        {
+          "id": 20,
+          "type": "multiple_choice",
+          "instruction": "Which topic will each of the following speakers focus on? Choose SIX answers from the box and write the correct letter, A-G, next to Questions 15-20.",
+          "content": "20 Annie Craven <input type='text' data-qid='20' class='ielts-input' />",
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "part_number": 3,
+      "title": "Part 3",
+      "audio_file": "C21T4P3.1.mp3",
+      "passage": "<h3>PART 3</h3><p>Questions 21-30</p>",
+      "questions": [
+        {
+          "id": 21,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "21 Which aspect of their presentation are Mia and Leo both concerned about?<br>A. meeting the deadline<br>B. finding suitable examples<br>C. including original ideas<br><input type='text' data-qid='21' class='ielts-input' />",
+          "answer": "B"
+        },
+        {
+          "id": 22,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "22 The students decide to focus their assignment on housing for<br>A. family groups.<br>B. old people.<br>C. single people.<br><input type='text' data-qid='22' class='ielts-input' />",
+          "answer": "A"
+        },
+        {
+          "id": 23,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "23 The students agree that demand for accommodation in urban areas should be met by<br>A. repurposing offices and factories.<br>B. constructing tall buildings.<br>C. developing creative ideas for smaller homes.<br><input type='text' data-qid='23' class='ielts-input' />",
+          "answer": "B"
+        },
+        {
+          "id": 24,
+          "type": "multiple_choice",
+          "instruction": "What opinion is given about each of the following developments? Choose SEVEN answers from the box and write the correct letter, A-I, next to Questions 24-30.\nOpinions:\nA This could cause unnecessary anxiety.\nB This would be especially beneficial for city residents.\nC This would be challenging for young people.\nD This would have environmental benefits.\nE This could encourage creativity.\nF This could lead to social problems.\nG This could enable retired people to share a project.\nH This would help some people but cause problems for others.\nI This would suit both existing and new members of a household.",
+          "content": "24 use of roof space for gardens <input type='text' data-qid='24' class='ielts-input' />",
+          "answer": "B"
+        },
+        {
+          "id": 25,
+          "type": "multiple_choice",
+          "instruction": "What opinion is given about each of the following developments?",
+          "content": "25 shared working spaces <input type='text' data-qid='25' class='ielts-input' />",
+          "answer": "E"
+        },
+        {
+          "id": 26,
+          "type": "multiple_choice",
+          "instruction": "What opinion is given about each of the following developments?",
+          "content": "26 moveable internal walls <input type='text' data-qid='26' class='ielts-input' />",
+          "answer": "I"
+        },
+        {
+          "id": 27,
+          "type": "multiple_choice",
+          "instruction": "What opinion is given about each of the following developments?",
+          "content": "27 smart mirrors in bathrooms <input type='text' data-qid='27' class='ielts-input' />",
+          "answer": "A"
+        },
+        {
+          "id": 28,
+          "type": "multiple_choice",
+          "instruction": "What opinion is given about each of the following developments?",
+          "content": "28 bike sheds with charging points <input type='text' data-qid='28' class='ielts-input' />",
+          "answer": "D"
+        },
+        {
+          "id": 29,
+          "type": "multiple_choice",
+          "instruction": "What opinion is given about each of the following developments?",
+          "content": "29 restriction of cars to certain areas <input type='text' data-qid='29' class='ielts-input' />",
+          "answer": "H"
+        },
+        {
+          "id": 30,
+          "type": "multiple_choice",
+          "instruction": "What opinion is given about each of the following developments?",
+          "content": "30 communal vegetable plots <input type='text' data-qid='30' class='ielts-input' />",
+          "answer": "G"
+        }
+      ]
+    },
+    {
+      "part_number": 4,
+      "title": "Part 4",
+      "audio_file": "C21T4P4.mp3",
+      "passage": "<h3>PART 4</h3><p>Questions 31-40<br>Complete the notes below.<br>Write ONE WORD ONLY for each answer.</p>",
+      "questions": [
+        {
+          "id": 31,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "Surgery impacts patients because they may experience discomfort or unwelcome changes to their <input type='text' data-qid='31' class='ielts-input' />.",
+          "answer": "routine"
+        },
+        {
+          "id": 32,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "A study reviewed data from about 100 <input type='text' data-qid='32' class='ielts-input' /> and found that listening to music improved hospital patients' sense of wellbeing.",
+          "answer": "trials"
+        },
+        {
+          "id": 33,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "The patients in the study all listened to music with a <input type='text' data-qid='33' class='ielts-input' /> effect.",
+          "answer": "calming"
+        },
+        {
+          "id": 34,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "The music was mostly played through music <input type='text' data-qid='34' class='ielts-input' />.",
+          "answer": "pillows"
+        },
+        {
+          "id": 35,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "Patients reported an absence or low levels of <input type='text' data-qid='35' class='ielts-input' />.",
+          "answer": "anxiety"
+        },
+        {
+          "id": 36,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "Medical records confirmed that patients who were played music in hospital needed less <input type='text' data-qid='36' class='ielts-input' /> than those who weren't played music.",
+          "answer": "medication"
+        },
+        {
+          "id": 37,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "The best results were achieved when patients were played music while they were <input type='text' data-qid='37' class='ielts-input' />.",
+          "answer": "awake"
+        },
+        {
+          "id": 38,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "The study concluded that playing music was effective because it served as a <input type='text' data-qid='38' class='ielts-input' />.",
+          "answer": "distraction"
+        },
+        {
+          "id": 39,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "The researchers recommend playing either music or sounds from <input type='text' data-qid='39' class='ielts-input' /> to all surgical patients.",
+          "answer": "nature"
+        },
+        {
+          "id": 40,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "A future study will investigate the best <input type='text' data-qid='40' class='ielts-input' /> for the music.",
+          "answer": "volume"
         }
       ]
     }

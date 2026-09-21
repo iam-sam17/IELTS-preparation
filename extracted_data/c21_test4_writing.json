@@ -6,16 +6,31 @@
   "parts": [
     {
       "part_number": 1,
-      "title": "Cambridge 21 Test 4 Writing Part 1",
-      "audio_file": "C21T4P1.mp3",
-      "passage": "<p>Passage content for Cambridge 21 Test 4 Writing. Loaded from archive.</p>",
+      "title": "WRITING TASK 1",
+      "audio_file": "",
+      "passage": "<h3>WRITING TASK 1</h3><p>You should spend about 20 minutes on this task.</p><p>The chart and table below show the results of a survey of library users at a university.</p><p>Summarise the information by selecting and reporting the main features, and make comparisons where relevant.</p><p>Write at least 150 words.</p><p><b>Categories of library users:</b><br>Distance learning (all courses)<br>Part-time postgraduate<br>Full-time postgraduate<br>Full-time undergraduate</p><p><b>Library user satisfaction (%):</b><br>Library opening hours: Very satisfied 65, Fairly satisfied 35, Not satisfied 0<br>Helpfulness of staff: Very satisfied 95, Fairly satisfied 5, Not satisfied 0<br>Availability of books: Very satisfied 50, Fairly satisfied 40, Not satisfied 10<br>Availability of journals: Very satisfied 45, Fairly satisfied 35, Not satisfied 20<br>Reliability of wi-fi: Very satisfied 48, Fairly satisfied 33, Not satisfied 19</p>",
       "questions": [
         {
           "id": 1,
           "type": "fill_in_the_blank",
-          "instruction": "Write ONE WORD ONLY for each answer.",
-          "content": "<p>Sample extracted question 1: <input type='text' data-qid='1' class='ielts-input' /></p>",
-          "answer": ""
+          "instruction": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+          "content": "<div class='writing-prompt'>Write your response for Task 1 here. <textarea class='ielts-input' data-qid='1' rows='10'></textarea></div>",
+          "answer": "Sample answer or rubric-based assessment."
+        }
+      ]
+    },
+    {
+      "part_number": 2,
+      "title": "WRITING TASK 2",
+      "audio_file": "",
+      "passage": "<h3>WRITING TASK 2</h3><p>You should spend about 40 minutes on this task.</p><p>Write about the following topic:</p><p>Some people argue that primary schools focus too much on formal learning.</p><p>To what extent do you agree with this opinion?</p><p>How important do you think it is for children to play as well as learn in the primary school classroom?</p><p>Give reasons for your answer and include any relevant examples from your own knowledge or experience.</p><p>Write at least 250 words.</p>",
+      "questions": [
+        {
+          "id": 2,
+          "type": "fill_in_the_blank",
+          "instruction": "Write an essay on the given topic. Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+          "content": "<div class='writing-prompt'>Write your response for Task 2 here. <textarea class='ielts-input' data-qid='2' rows='15'></textarea></div>",
+          "answer": "Sample answer or rubric-based assessment."
         }
       ]
     }

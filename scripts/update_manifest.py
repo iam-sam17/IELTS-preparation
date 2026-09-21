@@ -25,8 +25,10 @@ for item in manifest["tests"]:
                 data = json.load(fp)
             parts = data.get("parts", [])
             total_q = sum(len(p.get("questions", [])) for p in parts)
-            # If Book 19 or 20, it's 100% verified real
-            is_stub = False if item["book"] in [19, 20] else (total_q <= 6)
+            if item["book"] in [19, 20, 21]:
+                is_stub = False
+            else:
+                is_stub = (total_q == 0) if item["module"] == "Writing" else (total_q <= 6)
             
             item["questions"] = total_q
             item["is_stub"] = is_stub

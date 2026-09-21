@@ -6,16 +6,31 @@
   "parts": [
     {
       "part_number": 1,
-      "title": "Cambridge 21 Test 1 Writing Part 1",
-      "audio_file": "C21T1P1.1.mp3",
-      "passage": "<p>Passage content for Cambridge 21 Test 1 Writing. Loaded from archive.</p>",
+      "title": "Task 1",
+      "audio_file": "",
+      "passage": "<h3>WRITING TASK 1</h3><p>You should spend about 20 minutes on this task.</p><p>The graph below gives information about the number of jobs in four sectors of the economy in the US between 1960 and 2020.</p><p>Summarise the information by selecting and reporting the main features, and make comparisons where relevant.</p><p>Write at least 150 words.</p><p><strong>Number of jobs in four sectors of the economy in the US, 1960-2020</strong></p><p>Sectors included: Manufacturing, Retail, Agriculture, Healthcare.</p><p>Years covered: 1960, 1980, 2000, 2020.</p>",
       "questions": [
         {
           "id": 1,
           "type": "fill_in_the_blank",
-          "instruction": "Write ONE WORD ONLY for each answer.",
-          "content": "<p>Sample extracted question 1: <input type='text' data-qid='1' class='ielts-input' /></p>",
-          "answer": ""
+          "instruction": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+          "content": "<textarea class='ielts-writing-input' data-qid='1'></textarea>",
+          "answer": "Model answer not applicable for writing tasks."
+        }
+      ]
+    },
+    {
+      "part_number": 2,
+      "title": "Task 2",
+      "audio_file": "",
+      "passage": "<h3>WRITING TASK 2</h3><p>You should spend about 40 minutes on this task.</p><p>Write about the following topic:</p><p>The best way to provide enough homes in large cities is to build tall apartment blocks.</p><p>To what extent do you agree or disagree with this statement?</p><p>Give reasons for your answer and include any relevant examples from your own knowledge or experience.</p><p>Write at least 250 words.</p>",
+      "questions": [
+        {
+          "id": 2,
+          "type": "fill_in_the_blank",
+          "instruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+          "content": "<textarea class='ielts-writing-input' data-qid='2'></textarea>",
+          "answer": "Model answer not applicable for writing tasks."
         }
       ]
     }
