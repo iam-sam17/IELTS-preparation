@@ -14,91 +14,91 @@
           "id": 1,
           "type": "fill_in_the_blank",
           "instruction": "Complete the table below. Choose ONE WORD ONLY from the passage for each answer.",
-          "content": "Humans: similar brain patterns were observed when active and sleeping <input type='text' data-qid='1' class='ielts-input' />",
+          "content": "\n<div class='notes-completion'>\n    <table border=\"1\" cellpadding=\"5\" style=\"border-collapse: collapse; width: 100%;\">\n        <thead>\n            <tr>\n                <th colspan=\"3\" style=\"text-align: center; font-size: 1.2em; background-color: #f5f5f5;\">Research into sleep and dreaming</th>\n            </tr>\n            <tr>\n                <th></th>\n                <th>Research findings</th>\n                <th>Comment</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>Humans</td>\n                <td><ul><li>humans experience REM sleep and non-REM sleep</li><li>in REM sleep, the eyes and muscles move</li></ul></td>\n                <td></td>\n            </tr>\n            <tr>\n                <td><strong>1</strong> <input type=\"text\" data-qid=\"1\" class=\"ielts-input\" style=\"width:100px;\"></td>\n                <td><ul><li>similar brain patterns were observed when active and sleeping</li></ul></td>\n                <td>indicative of dreaming</td>\n            </tr>\n            <tr>\n                <td>Pigeons</td>\n                <td><ul><li>when sleeping, pigeons displayed activity in parts of the brain that deal with <strong>2</strong> <input type=\"text\" data-qid=\"2\" class=\"ielts-input\" style=\"width:100px;\"> input</li></ul></td>\n                <td>may have been dreaming of flying</td>\n            </tr>\n            <tr>\n                <td>Whales and dolphins</td>\n                <td><ul><li>still have <strong>3</strong> <input type=\"text\" data-qid=\"3\" class=\"ielts-input\" style=\"width:100px;\"> their brain awake when they sleep</li><li>don't experience REM sleep, as this could affect their sensitivity to <strong>4</strong> <input type=\"text\" data-qid=\"4\" class=\"ielts-input\" style=\"width:100px;\"></li></ul></td>\n                <td>their dreams are probably not very <strong>5</strong> <input type=\"text\" data-qid=\"5\" class=\"ielts-input\" style=\"width:100px;\"></td>\n            </tr>\n        </tbody>\n    </table>\n</div>\n",
           "answer": "rats"
         },
         {
           "id": 2,
           "type": "fill_in_the_blank",
           "instruction": "Complete the table below. Choose ONE WORD ONLY from the passage for each answer.",
-          "content": "Pigeons: when sleeping, pigeons displayed activity in parts of the brain that deal with <input type='text' data-qid='2' class='ielts-input' /> input",
+          "content": "",
           "answer": "visual"
         },
         {
           "id": 3,
           "type": "fill_in_the_blank",
           "instruction": "Complete the table below. Choose ONE WORD ONLY from the passage for each answer.",
-          "content": "Whales and dolphins: still have <input type='text' data-qid='3' class='ielts-input' /> their brain awake when they sleep",
+          "content": "",
           "answer": "half"
         },
         {
           "id": 4,
           "type": "fill_in_the_blank",
           "instruction": "Complete the table below. Choose ONE WORD ONLY from the passage for each answer.",
-          "content": "Whales and dolphins: don't experience REM sleep, as this could affect their sensitivity to <input type='text' data-qid='4' class='ielts-input' />",
+          "content": "",
           "answer": "temperature"
         },
         {
           "id": 5,
           "type": "fill_in_the_blank",
           "instruction": "Complete the table below. Choose ONE WORD ONLY from the passage for each answer.",
-          "content": "Whales and dolphins: their dreams are probably not very <input type='text' data-qid='5' class='ielts-input' />",
+          "content": "",
           "answer": "vivid"
         },
         {
           "id": 6,
           "type": "true_false_not_given",
           "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
-          "content": "6. Dreaming about past experiences helps us to create lasting memories of them.",
+          "content": "6. Dreaming about past experiences helps us to create lasting memories of them. <select data-qid='6' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='TRUE'>TRUE</option><option value='FALSE'>FALSE</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "TRUE"
         },
         {
           "id": 7,
           "type": "true_false_not_given",
           "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
-          "content": "7. It is now possible to tell what type of dream a dog is having.",
+          "content": "7. It is now possible to tell what type of dream a dog is having. <select data-qid='7' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='TRUE'>TRUE</option><option value='FALSE'>FALSE</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "FALSE"
         },
         {
           "id": 8,
           "type": "true_false_not_given",
           "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
-          "content": "8. David Scheel's documentary was influential on other research into the sleeping patterns of octopuses.",
+          "content": "8. David Scheel's documentary was influential on other research into the sleeping patterns of octopuses. <select data-qid='8' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='TRUE'>TRUE</option><option value='FALSE'>FALSE</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "NOT GIVEN"
         },
         {
           "id": 9,
           "type": "true_false_not_given",
           "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
-          "content": "9. While it was asleep, the octopus called Costello reacted as if it was hunting.",
+          "content": "9. While it was asleep, the octopus called Costello reacted as if it was hunting. <select data-qid='9' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='TRUE'>TRUE</option><option value='FALSE'>FALSE</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "FALSE"
         },
         {
           "id": 10,
           "type": "true_false_not_given",
           "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
-          "content": "10. Scheel believes more research into octopuses' dreams should be carried out.",
+          "content": "10. Scheel believes more research into octopuses' dreams should be carried out. <select data-qid='10' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='TRUE'>TRUE</option><option value='FALSE'>FALSE</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "TRUE"
         },
         {
           "id": 11,
           "type": "true_false_not_given",
           "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
-          "content": "11. We may soon be able to share the dreams of other human beings.",
+          "content": "11. We may soon be able to share the dreams of other human beings. <select data-qid='11' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='TRUE'>TRUE</option><option value='FALSE'>FALSE</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "FALSE"
         },
         {
           "id": 12,
           "type": "true_false_not_given",
           "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
-          "content": "12. Hearing may be an important part of the dreams of some animals.",
+          "content": "12. Hearing may be an important part of the dreams of some animals. <select data-qid='12' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='TRUE'>TRUE</option><option value='FALSE'>FALSE</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "NOT GIVEN"
         },
         {
           "id": 13,
           "type": "true_false_not_given",
           "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
-          "content": "13. Interest in the reasons why humans dream has increased greatly in recent times.",
+          "content": "13. Interest in the reasons why humans dream has increased greatly in recent times. <select data-qid='13' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='TRUE'>TRUE</option><option value='FALSE'>FALSE</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "NOT GIVEN"
         }
       ]
@@ -275,28 +275,28 @@
           "id": 36,
           "type": "yes_no_not_given",
           "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?",
-          "content": "36. Stuart Russell's proposals regarding the use of AI are impractical.",
+          "content": "36. Stuart Russell's proposals regarding the use of AI are impractical. <select data-qid='36' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='YES'>YES</option><option value='NO'>NO</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "NO"
         },
         {
           "id": 37,
           "type": "yes_no_not_given",
           "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?",
-          "content": "37. Rodney Brooks' view has attracted unfair criticism from supporters of AI.",
+          "content": "37. Rodney Brooks' view has attracted unfair criticism from supporters of AI. <select data-qid='37' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='YES'>YES</option><option value='NO'>NO</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "NOT GIVEN"
         },
         {
           "id": 38,
           "type": "yes_no_not_given",
           "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?",
-          "content": "38. Nowadays, the need to protect AI systems is always taken into account when they are set up.",
+          "content": "38. Nowadays, the need to protect AI systems is always taken into account when they are set up. <select data-qid='38' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='YES'>YES</option><option value='NO'>NO</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "NO"
         },
         {
           "id": 39,
           "type": "yes_no_not_given",
           "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?",
-          "content": "39. In order to benefit from AI and minimise the harms, we have to explore people's concerns about its use.",
+          "content": "39. In order to benefit from AI and minimise the harms, we have to explore people's concerns about its use. <select data-qid='39' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='YES'>YES</option><option value='NO'>NO</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "YES"
         },
         {

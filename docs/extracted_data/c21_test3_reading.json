@@ -63,42 +63,42 @@
           "id": 8,
           "type": "true_false_not_given",
           "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
-          "content": "Today, numbers of saiga are distributed evenly across four nations in Central Asia: Kazakhstan, Russia, Mongolia and Uzbekistan.",
+          "content": "Today, numbers of saiga are distributed evenly across four nations in Central Asia: Kazakhstan, Russia, Mongolia and Uzbekistan. <select data-qid='8' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='TRUE'>TRUE</option><option value='FALSE'>FALSE</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "FALSE"
         },
         {
           "id": 9,
           "type": "true_false_not_given",
           "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
-          "content": "For most of the 20th century, the population of saiga were falling.",
+          "content": "For most of the 20th century, the population of saiga were falling. <select data-qid='9' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='TRUE'>TRUE</option><option value='FALSE'>FALSE</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "FALSE"
         },
         {
           "id": 10,
           "type": "true_false_not_given",
           "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
-          "content": "Efforts to protect rhinos in Africa had a significant effect on saiga populations.",
+          "content": "Efforts to protect rhinos in Africa had a significant effect on saiga populations. <select data-qid='10' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='TRUE'>TRUE</option><option value='FALSE'>FALSE</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "TRUE"
         },
         {
           "id": 11,
           "type": "true_false_not_given",
           "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
-          "content": "Unpredictable fluctuations in climate are threatening the wildlife of Central Asia more than in other parts of the world.",
+          "content": "Unpredictable fluctuations in climate are threatening the wildlife of Central Asia more than in other parts of the world. <select data-qid='11' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='TRUE'>TRUE</option><option value='FALSE'>FALSE</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "NOT GIVEN"
         },
         {
           "id": 12,
           "type": "true_false_not_given",
           "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
-          "content": "The Altyn Dala Conservation Initiative was formed for the benefit of a number of different animals.",
+          "content": "The Altyn Dala Conservation Initiative was formed for the benefit of a number of different animals. <select data-qid='12' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='TRUE'>TRUE</option><option value='FALSE'>FALSE</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "TRUE"
         },
         {
           "id": 13,
           "type": "true_false_not_given",
           "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
-          "content": "The Altyn Dala Conservation Initiative's recognition as a World Restoration Flagship project attracted additional international funding for the scheme.",
+          "content": "The Altyn Dala Conservation Initiative's recognition as a World Restoration Flagship project attracted additional international funding for the scheme. <select data-qid='13' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='TRUE'>TRUE</option><option value='FALSE'>FALSE</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "NOT GIVEN"
         }
       ]
@@ -113,35 +113,35 @@
           "id": 14,
           "type": "true_false_not_given",
           "instruction": "Do the following statements agree with the information given in Reading Passage 2?",
-          "content": "The population of Dar es Salaam is rising more rapidly than was previously predicted.",
+          "content": "The population of Dar es Salaam is rising more rapidly than was previously predicted. <select data-qid='14' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='TRUE'>TRUE</option><option value='FALSE'>FALSE</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "NOT GIVEN"
         },
         {
           "id": 15,
           "type": "true_false_not_given",
           "instruction": "Do the following statements agree with the information given in Reading Passage 2?",
-          "content": "Most of the residents of Dar es Salaam live in high-rise blocks on the edge of the city.",
+          "content": "Most of the residents of Dar es Salaam live in high-rise blocks on the edge of the city. <select data-qid='15' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='TRUE'>TRUE</option><option value='FALSE'>FALSE</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "FALSE"
         },
         {
           "id": 16,
           "type": "true_false_not_given",
           "instruction": "Do the following statements agree with the information given in Reading Passage 2?",
-          "content": "Residents have been consulted about their views on the suburban rail line in Dar es Salaam.",
+          "content": "Residents have been consulted about their views on the suburban rail line in Dar es Salaam. <select data-qid='16' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='TRUE'>TRUE</option><option value='FALSE'>FALSE</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "NOT GIVEN"
         },
         {
           "id": 17,
           "type": "true_false_not_given",
           "instruction": "Do the following statements agree with the information given in Reading Passage 2?",
-          "content": "The majority of the present residential development in Dar es Salaam is unplanned.",
+          "content": "The majority of the present residential development in Dar es Salaam is unplanned. <select data-qid='17' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='TRUE'>TRUE</option><option value='FALSE'>FALSE</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "TRUE"
         },
         {
           "id": 18,
           "type": "true_false_not_given",
           "instruction": "Do the following statements agree with the information given in Reading Passage 2?",
-          "content": "Dar es Salaam's authorities have decided to follow the public transport plan adopted by a large number of African cities.",
+          "content": "Dar es Salaam's authorities have decided to follow the public transport plan adopted by a large number of African cities. <select data-qid='18' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='TRUE'>TRUE</option><option value='FALSE'>FALSE</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "FALSE"
         },
         {
@@ -268,42 +268,42 @@
           "id": 35,
           "type": "yes_no_not_given",
           "instruction": "Do the following statements agree with the views of the writer in Reading Passage 3?",
-          "content": "It seems likely that the Neanderthals' cave paintings were the first examples of artwork ever created.",
+          "content": "It seems likely that the Neanderthals' cave paintings were the first examples of artwork ever created. <select data-qid='35' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='YES'>YES</option><option value='NO'>NO</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "NO"
         },
         {
           "id": 36,
           "type": "yes_no_not_given",
           "instruction": "Do the following statements agree with the views of the writer in Reading Passage 3?",
-          "content": "It is very rare to find prehistoric artwork carved onto shells.",
+          "content": "It is very rare to find prehistoric artwork carved onto shells. <select data-qid='36' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='YES'>YES</option><option value='NO'>NO</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "NOT GIVEN"
         },
         {
           "id": 37,
           "type": "yes_no_not_given",
           "instruction": "Do the following statements agree with the views of the writer in Reading Passage 3?",
-          "content": "The methods which the researchers used to examine the Rising Star cave system were rather unconventional.",
+          "content": "The methods which the researchers used to examine the Rising Star cave system were rather unconventional. <select data-qid='37' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='YES'>YES</option><option value='NO'>NO</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "NOT GIVEN"
         },
         {
           "id": 38,
           "type": "yes_no_not_given",
           "instruction": "Do the following statements agree with the views of the writer in Reading Passage 3?",
-          "content": "It is unclear how old the etchings in the Rising Star cave system are.",
+          "content": "It is unclear how old the etchings in the Rising Star cave system are. <select data-qid='38' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='YES'>YES</option><option value='NO'>NO</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "YES"
         },
         {
           "id": 39,
           "type": "yes_no_not_given",
           "instruction": "Do the following statements agree with the views of the writer in Reading Passage 3?",
-          "content": "The means used to publicise the findings from the Rising Star cave system added to the controversy that surrounds them.",
+          "content": "The means used to publicise the findings from the Rising Star cave system added to the controversy that surrounds them. <select data-qid='39' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='YES'>YES</option><option value='NO'>NO</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "YES"
         },
         {
           "id": 40,
           "type": "yes_no_not_given",
           "instruction": "Do the following statements agree with the views of the writer in Reading Passage 3?",
-          "content": "The size of H. naledi brains is a key factor in the question of whether these hominins were able to produce art.",
+          "content": "The size of H. naledi brains is a key factor in the question of whether these hominins were able to produce art. <select data-qid='40' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='YES'>YES</option><option value='NO'>NO</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "NO"
         }
       ]

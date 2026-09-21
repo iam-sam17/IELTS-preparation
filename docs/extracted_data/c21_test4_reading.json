@@ -14,49 +14,49 @@
           "id": 1,
           "type": "true_false_not_given",
           "instruction": "Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE, or NOT GIVEN.",
-          "content": "Water hyacinth was introduced as a decorative plant in east Africa.",
+          "content": "Water hyacinth was introduced as a decorative plant in east Africa. <select data-qid='1' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='TRUE'>TRUE</option><option value='FALSE'>FALSE</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "TRUE"
         },
         {
           "id": 2,
           "type": "true_false_not_given",
           "instruction": "Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE, or NOT GIVEN.",
-          "content": "Fishermen took some water hyacinth plants to Lake Victoria.",
+          "content": "Fishermen took some water hyacinth plants to Lake Victoria. <select data-qid='2' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='TRUE'>TRUE</option><option value='FALSE'>FALSE</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "FALSE"
         },
         {
           "id": 3,
           "type": "true_false_not_given",
           "instruction": "Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE, or NOT GIVEN.",
-          "content": "It is now difficult to force boats through the thick water hyacinth on Lake Victoria.",
+          "content": "It is now difficult to force boats through the thick water hyacinth on Lake Victoria. <select data-qid='3' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='TRUE'>TRUE</option><option value='FALSE'>FALSE</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "TRUE"
         },
         {
           "id": 4,
           "type": "true_false_not_given",
           "instruction": "Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE, or NOT GIVEN.",
-          "content": "Chemicals produced by the water hyacinth plants are affecting the numbers of fish in Lake Victoria.",
+          "content": "Chemicals produced by the water hyacinth plants are affecting the numbers of fish in Lake Victoria. <select data-qid='4' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='TRUE'>TRUE</option><option value='FALSE'>FALSE</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "NOT GIVEN"
         },
         {
           "id": 5,
           "type": "true_false_not_given",
           "instruction": "Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE, or NOT GIVEN.",
-          "content": "Cooking with charcoal has been proved to be even worse for people's health than cooking with wood.",
+          "content": "Cooking with charcoal has been proved to be even worse for people's health than cooking with wood. <select data-qid='5' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='TRUE'>TRUE</option><option value='FALSE'>FALSE</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "NOT GIVEN"
         },
         {
           "id": 6,
           "type": "true_false_not_given",
           "instruction": "Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE, or NOT GIVEN.",
-          "content": "People found it impossible to remove much water hyacinth from Lake Victoria.",
+          "content": "People found it impossible to remove much water hyacinth from Lake Victoria. <select data-qid='6' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='TRUE'>TRUE</option><option value='FALSE'>FALSE</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "FALSE"
         },
         {
           "id": 7,
           "type": "true_false_not_given",
           "instruction": "Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE, or NOT GIVEN.",
-          "content": "Scientists started investigating the possibility of using water hyacinth to generate biogas in the last century.",
+          "content": "Scientists started investigating the possibility of using water hyacinth to generate biogas in the last century. <select data-qid='7' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='TRUE'>TRUE</option><option value='FALSE'>FALSE</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "TRUE"
         },
         {
@@ -155,28 +155,28 @@
           "id": 20,
           "type": "yes_no_not_given",
           "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 2? Write YES, NO, or NOT GIVEN.",
-          "content": "Ten-year-old Indian schoolchildren tend to perform better in literacy tests than in numeracy tests.",
+          "content": "Ten-year-old Indian schoolchildren tend to perform better in literacy tests than in numeracy tests. <select data-qid='20' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='YES'>YES</option><option value='NO'>NO</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "NO"
         },
         {
           "id": 21,
           "type": "yes_no_not_given",
           "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 2? Write YES, NO, or NOT GIVEN.",
-          "content": "Tsimpli had problems convincing some female students to take part in the study.",
+          "content": "Tsimpli had problems convincing some female students to take part in the study. <select data-qid='21' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='YES'>YES</option><option value='NO'>NO</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "NOT GIVEN"
         },
         {
           "id": 22,
           "type": "yes_no_not_given",
           "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 2? Write YES, NO, or NOT GIVEN.",
-          "content": "Tsimpli and her team wanted to know if there is a connection between poor academic performance and being taught in an unfamiliar language.",
+          "content": "Tsimpli and her team wanted to know if there is a connection between poor academic performance and being taught in an unfamiliar language. <select data-qid='22' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='YES'>YES</option><option value='NO'>NO</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "YES"
         },
         {
           "id": 23,
           "type": "yes_no_not_given",
           "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 2? Write YES, NO, or NOT GIVEN.",
-          "content": "The researchers have decided against investigating the impact teaching methodology may have on learning outcomes.",
+          "content": "The researchers have decided against investigating the impact teaching methodology may have on learning outcomes. <select data-qid='23' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='YES'>YES</option><option value='NO'>NO</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "NO"
         },
         {
@@ -254,28 +254,28 @@
           "id": 33,
           "type": "yes_no_not_given",
           "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO, or NOT GIVEN.",
-          "content": "The assumption today that people in the past knew very little about geography is correct.",
+          "content": "The assumption today that people in the past knew very little about geography is correct. <select data-qid='33' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='YES'>YES</option><option value='NO'>NO</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "NO"
         },
         {
           "id": 34,
           "type": "yes_no_not_given",
           "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO, or NOT GIVEN.",
-          "content": "Plato was criticised for saying the world was shaped like a leather ball.",
+          "content": "Plato was criticised for saying the world was shaped like a leather ball. <select data-qid='34' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='YES'>YES</option><option value='NO'>NO</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "NOT GIVEN"
         },
         {
           "id": 35,
           "type": "yes_no_not_given",
           "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO, or NOT GIVEN.",
-          "content": "The globe made by Crates of Mallus was an accurate representation of the known world.",
+          "content": "The globe made by Crates of Mallus was an accurate representation of the known world. <select data-qid='35' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='YES'>YES</option><option value='NO'>NO</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "NOT GIVEN"
         },
         {
           "id": 36,
           "type": "yes_no_not_given",
           "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO, or NOT GIVEN.",
-          "content": "Bellerby assumed he would have few problems locating a well-made globe.",
+          "content": "Bellerby assumed he would have few problems locating a well-made globe. <select data-qid='36' class='ielts-input' style='margin-left: 10px;'><option value=''></option><option value='YES'>YES</option><option value='NO'>NO</option><option value='NOT GIVEN'>NOT GIVEN</option></select>",
           "answer": "YES"
         },
         {
