@@ -6,16 +6,313 @@
   "parts": [
     {
       "part_number": 1,
-      "title": "Cambridge 19 Test 4 Listening Part 1",
+      "title": "Questions 1-10",
       "audio_file": "T4 P1 [@cambridge_library].mp3",
-      "passage": "<p>Passage content for Cambridge 19 Test 4 Listening. Loaded from archive.</p>",
+      "passage": "",
       "questions": [
         {
           "id": 1,
           "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Name of supervisor: <input type='text' data-qid='1' class='ielts-input' />",
+          "answer": "Kaeden"
+        },
+        {
+          "id": 2,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Where to leave coat and bag: use <input type='text' data-qid='2' class='ielts-input' /> in staffroom",
+          "answer": "locker(s)"
+        },
+        {
+          "id": 3,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "See Tiffany in HR: to give <input type='text' data-qid='3' class='ielts-input' /> number",
+          "answer": "passport"
+        },
+        {
+          "id": 4,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "to collect <input type='text' data-qid='4' class='ielts-input' />",
+          "answer": "uniform"
+        },
+        {
+          "id": 5,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Location of HR office: on <input type='text' data-qid='5' class='ielts-input' /> floor",
+          "answer": "third / 3rd"
+        },
+        {
+          "id": 6,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Supervisor's mobile number: <input type='text' data-qid='6' class='ielts-input' />",
+          "answer": "0412 665 903"
+        },
+        {
+          "id": 7,
+          "type": "fill_in_the_blank",
           "instruction": "Write ONE WORD ONLY for each answer.",
-          "content": "<p>Sample extracted question 1: <input type='text' data-qid='1' class='ielts-input' /></p>",
-          "answer": ""
+          "content": "Bakery section - Task 1: Check sell-by dates - Task 2: Change price labels - Notes: Use <input type='text' data-qid='7' class='ielts-input' /> labels",
+          "answer": "yellow"
+        },
+        {
+          "id": 8,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "Sushi takeaway counter - Task 1: Re-stock with <input type='text' data-qid='8' class='ielts-input' /> boxes if needed - Task 2: Wipe preparation area and clean the sink - Notes: Do not clean any knives",
+          "answer": "plastic"
+        },
+        {
+          "id": 9,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "Meat and fish counters - Task 1: Clean the serving area, including the weighing scales - Task 2: Collect <input type='text' data-qid='9' class='ielts-input' /> for the fish from the cold-room - Notes: Must wear special <input type='text' data-qid='10' class='ielts-input' />",
+          "answer": "ice"
+        },
+        {
+          "id": 10,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "Meat and fish counters - Task 1: Clean the serving area, including the weighing scales - Task 2: Collect 9 for the fish from the cold-room - Notes: Must wear special <input type='text' data-qid='10' class='ielts-input' />",
+          "answer": "gloves"
+        }
+      ]
+    },
+    {
+      "part_number": 2,
+      "title": "Questions 11-20",
+      "audio_file": "T4 P2 [@cambridge_library].mp3",
+      "passage": "",
+      "questions": [
+        {
+          "id": 11,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.",
+          "content": "Which TWO problems with some training programmes for new runners does Liz mention?<br><label><input type='checkbox' name='q11' value='A'> A. There is a risk of serious injury.</label><br><label><input type='checkbox' name='q11' value='B'> B. They are unsuitable for certain age groups.</label><br><label><input type='checkbox' name='q11' value='C'> C. They are unsuitable for people with health issues.</label><br><label><input type='checkbox' name='q11' value='D'> D. It is difficult to stay motivated.</label><br><label><input type='checkbox' name='q11' value='E'> E. There is a lack of individual support.</label>",
+          "answer": "C, E"
+        },
+        {
+          "id": 12,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.",
+          "content": "Which TWO problems with some training programmes for new runners does Liz mention? (Second part)",
+          "answer": "C, E"
+        },
+        {
+          "id": 13,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.",
+          "content": "Which TWO tips does Liz recommend for new runners?<br><label><input type='checkbox' name='q13' value='A'> A. doing two runs a week</label><br><label><input type='checkbox' name='q13' value='B'> B. running in the evening</label><br><label><input type='checkbox' name='q13' value='C'> C. going on runs with a friend</label><br><label><input type='checkbox' name='q13' value='D'> D. listening to music during runs</label><br><label><input type='checkbox' name='q13' value='E'> E. running very slowly</label>",
+          "answer": "A, D"
+        },
+        {
+          "id": 14,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.",
+          "content": "Which TWO tips does Liz recommend for new runners? (Second part)",
+          "answer": "A, D"
+        },
+        {
+          "id": 15,
+          "type": "multiple_choice",
+          "instruction": "Write the correct letter, A, B, or C next to Questions 15-18. Reasons: A. a lack of confidence, B. a dislike of running, C. a lack of time",
+          "content": "Ceri <input type='text' data-qid='15' class='ielts-input' />",
+          "answer": "A"
+        },
+        {
+          "id": 16,
+          "type": "multiple_choice",
+          "instruction": "Write the correct letter, A, B, or C next to Questions 15-18. Reasons: A. a lack of confidence, B. a dislike of running, C. a lack of time",
+          "content": "James <input type='text' data-qid='16' class='ielts-input' />",
+          "answer": "B"
+        },
+        {
+          "id": 17,
+          "type": "multiple_choice",
+          "instruction": "Write the correct letter, A, B, or C next to Questions 15-18. Reasons: A. a lack of confidence, B. a dislike of running, C. a lack of time",
+          "content": "Leo <input type='text' data-qid='17' class='ielts-input' />",
+          "answer": "C"
+        },
+        {
+          "id": 18,
+          "type": "multiple_choice",
+          "instruction": "Write the correct letter, A, B, or C next to Questions 15-18. Reasons: A. a lack of confidence, B. a dislike of running, C. a lack of time",
+          "content": "Mark <input type='text' data-qid='18' class='ielts-input' />",
+          "answer": "A"
+        },
+        {
+          "id": 19,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "What does Liz say about running her first marathon?<br><label><input type='radio' name='q19' value='A'> A. It had always been her ambition.</label><br><label><input type='radio' name='q19' value='B'> B. Her husband persuaded her to do it.</label><br><label><input type='radio' name='q19' value='C'> C. She nearly gave up before the end.</label>",
+          "answer": "C"
+        },
+        {
+          "id": 20,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "Liz says new runners should sign up for a race<br><label><input type='radio' name='q20' value='A'> A. every six months.</label><br><label><input type='radio' name='q20' value='B'> B. within a few weeks of taking up running.</label><br><label><input type='radio' name='q20' value='C'> C. after completing several practice runs.</label>",
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "part_number": 3,
+      "title": "Questions 21-30",
+      "audio_file": "T4 P3 [@cambridge_library].mp3",
+      "passage": "",
+      "questions": [
+        {
+          "id": 21,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "Kieran thinks the packing advice given by Jane's grandfather is<br><label><input type='radio' name='q21' value='A'> A. common sense.</label><br><label><input type='radio' name='q21' value='B'> B. hard to follow.</label><br><label><input type='radio' name='q21' value='C'> C. over-protective.</label>",
+          "answer": "A"
+        },
+        {
+          "id": 22,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "How does Jane feel about the books her grandfather has given her?<br><label><input type='radio' name='q22' value='A'> A. They are not worth keeping.</label><br><label><input type='radio' name='q22' value='B'> B. They should go to a collector.</label><br><label><input type='radio' name='q22' value='C'> C. They have sentimental value for her.</label>",
+          "answer": "C"
+        },
+        {
+          "id": 23,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "Jane and Kieran agree that hardback books should be<br><label><input type='radio' name='q23' value='A'> A. put out on display.</label><br><label><input type='radio' name='q23' value='B'> B. given as gifts to visitors.</label><br><label><input type='radio' name='q23' value='C'> C. more attractively designed.</label>",
+          "answer": "A"
+        },
+        {
+          "id": 24,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "While talking about taking a book from a shelf, Jane<br><label><input type='radio' name='q24' value='A'> A. describes the mistakes other people make doing it.</label><br><label><input type='radio' name='q24' value='B'> B. reflects on a significant childhood experience.</label><br><label><input type='radio' name='q24' value='C'> C. explains why some books are easier to remove than others.</label>",
+          "answer": "B"
+        },
+        {
+          "id": 25,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "What do Jane and Kieran suggest about new books?<br><label><input type='radio' name='q25' value='A'> A. Their parents liked buying them as presents.</label><br><label><input type='radio' name='q25' value='B'> B. They would like to buy more of them.</label><br><label><input type='radio' name='q25' value='C'> C. Not everyone can afford them.</label>",
+          "answer": "C"
+        },
+        {
+          "id": 26,
+          "type": "multiple_choice",
+          "instruction": "Choose FIVE answers from the box and write the correct letter, A-G, next to Questions 26-30. Location of books: A. near the entrance, B. in the attic, C. at the back of the shop, D. on a high shelf, E. near the stairs, F. in a specially designed space, G. within the café",
+          "content": "rare books <input type='text' data-qid='26' class='ielts-input' />",
+          "answer": "D"
+        },
+        {
+          "id": 27,
+          "type": "multiple_choice",
+          "instruction": "Choose FIVE answers from the box and write the correct letter, A-G, next to Questions 26-30. Location of books: A. near the entrance, B. in the attic, C. at the back of the shop, D. on a high shelf, E. near the stairs, F. in a specially designed space, G. within the café",
+          "content": "children's books <input type='text' data-qid='27' class='ielts-input' />",
+          "answer": "F"
+        },
+        {
+          "id": 28,
+          "type": "multiple_choice",
+          "instruction": "Choose FIVE answers from the box and write the correct letter, A-G, next to Questions 26-30. Location of books: A. near the entrance, B. in the attic, C. at the back of the shop, D. on a high shelf, E. near the stairs, F. in a specially designed space, G. within the café",
+          "content": "unwanted books <input type='text' data-qid='28' class='ielts-input' />",
+          "answer": "A"
+        },
+        {
+          "id": 29,
+          "type": "multiple_choice",
+          "instruction": "Choose FIVE answers from the box and write the correct letter, A-G, next to Questions 26-30. Location of books: A. near the entrance, B. in the attic, C. at the back of the shop, D. on a high shelf, E. near the stairs, F. in a specially designed space, G. within the café",
+          "content": "requested books <input type='text' data-qid='29' class='ielts-input' />",
+          "answer": "C"
+        },
+        {
+          "id": 30,
+          "type": "multiple_choice",
+          "instruction": "Choose FIVE answers from the box and write the correct letter, A-G, next to Questions 26-30. Location of books: A. near the entrance, B. in the attic, C. at the back of the shop, D. on a high shelf, E. near the stairs, F. in a specially designed space, G. within the café",
+          "content": "coursebooks <input type='text' data-qid='30' class='ielts-input' />",
+          "answer": "G"
+        }
+      ]
+    },
+    {
+      "part_number": 4,
+      "title": "Questions 31-40",
+      "audio_file": "T4 P4 [@cambridge_library].mp3",
+      "passage": "",
+      "questions": [
+        {
+          "id": 31,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "Reforestation projects should: <br>- include a range of tree species<br>- not include invasive species because of possible <input type='text' data-qid='31' class='ielts-input' /> with native species",
+          "answer": "competition"
+        },
+        {
+          "id": 32,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "aim to capture carbon, protect the environment and provide sustainable sources of <input type='text' data-qid='32' class='ielts-input' /> for local people",
+          "answer": "food"
+        },
+        {
+          "id": 33,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "use tree seeds with a high genetic diversity to increase resistance to <input type='text' data-qid='33' class='ielts-input' /> and climate change",
+          "answer": "disease"
+        },
+        {
+          "id": 34,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "plant trees on previously forested land which is in a bad condition, not select land which is being used for <input type='text' data-qid='34' class='ielts-input' />",
+          "answer": "agriculture"
+        },
+        {
+          "id": 35,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "Large-scale reforestation projects: <br>- Base planning decisions on information from accurate <input type='text' data-qid='35' class='ielts-input' />.",
+          "answer": "maps"
+        },
+        {
+          "id": 36,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "Drones are useful for identifying areas in Brazil which are endangered by keeping <input type='text' data-qid='36' class='ielts-input' /> and illegal logging.",
+          "answer": "cattle"
+        },
+        {
+          "id": 37,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "Lampang Province, Northern Thailand<br>- A forest was restored in an area damaged by mining.<br>- A variety of native fig trees were planted, which are important for<br>  - supporting many wildlife species<br>  - increasing the <input type='text' data-qid='37' class='ielts-input' /> of recovery by attracting animals and birds, e.g., <input type='text' data-qid='38' class='ielts-input' /> were soon attracted to the area.",
+          "answer": "speed"
+        },
+        {
+          "id": 38,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "Lampang Province, Northern Thailand<br>- A forest was restored in an area damaged by mining.<br>- A variety of native fig trees were planted, which are important for<br>  - supporting many wildlife species<br>  - increasing the 37 of recovery by attracting animals and birds, e.g., <input type='text' data-qid='38' class='ielts-input' /> were soon attracted to the area.",
+          "answer": "monkeys"
+        },
+        {
+          "id": 39,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "Involving local communities<br>- Destruction of mangrove forests in Madagascar made it difficult for people to make a living from <input type='text' data-qid='39' class='ielts-input' />.",
+          "answer": "fishing"
+        },
+        {
+          "id": 40,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "The mangrove reforestation project:<br>  - provided employment for local people<br>  - restored a healthy ecosystem<br>  - protects against the higher risk of <input type='text' data-qid='40' class='ielts-input' />",
+          "answer": "flooding"
         }
       ]
     }

@@ -6,16 +6,31 @@
   "parts": [
     {
       "part_number": 1,
-      "title": "Cambridge 19 Test 2 Writing Part 1",
-      "audio_file": "T2 P1 [@cambridge_library].mp3",
-      "passage": "<p>Passage content for Cambridge 19 Test 2 Writing. Loaded from archive.</p>",
+      "title": "WRITING TASK 1",
+      "audio_file": "",
+      "passage": "<p>You should spend about 20 minutes on this task.</p><p>The maps give the information about the improvement of the Porth Harbour from 2000 to today.</p><p>Summarize the information by selecting and reporting the main features, and make comparisons where relevant.</p><p>Write at least 150 words.</p>",
       "questions": [
         {
           "id": 1,
           "type": "fill_in_the_blank",
-          "instruction": "Write ONE WORD ONLY for each answer.",
-          "content": "<p>Sample extracted question 1: <input type='text' data-qid='1' class='ielts-input' /></p>",
-          "answer": ""
+          "instruction": "Write at least 150 words.",
+          "content": "<textarea data-qid='1' class='ielts-input' rows='10' cols='50'></textarea>",
+          "answer": "Sample answer provided in model answers"
+        }
+      ]
+    },
+    {
+      "part_number": 2,
+      "title": "WRITING TASK 2",
+      "audio_file": "",
+      "passage": "<p>You should spend about 40 minutes on this task.</p><p>Write about the following topic:</p><div class='prompt-box'><p><strong>The working week should be shorter and workers should have a longer weekend.</strong></p><p><strong>Do you agree or disagree?</strong></p></div><p>Give reasons for your answer and include any relevant examples from your own knowledge or experience.</p><p>Write at least 250 words.</p>",
+      "questions": [
+        {
+          "id": 2,
+          "type": "fill_in_the_blank",
+          "instruction": "Write at least 250 words.",
+          "content": "<textarea data-qid='2' class='ielts-input' rows='15' cols='50'></textarea>",
+          "answer": "Sample answer provided in model answers"
         }
       ]
     }

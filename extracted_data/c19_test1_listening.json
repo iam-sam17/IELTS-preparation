@@ -6,16 +6,16 @@
   "parts": [
     {
       "part_number": 1,
-      "title": "PART 1",
+      "title": "Hinchingbrooke Country Park",
       "audio_file": "T1 P1 [@cambridge_library].mp3",
-      "passage": "<h3>Hinchingbrooke Country Park</h3><p>Area: 110 hectares<br>Habitats: wetland, grassland and woodland<br>Wetland: lakes, ponds and a <input type='text' data-qid='2' class='ielts-input' /><br>Wildlife includes birds, insects and animals<br><br><b>Subjects studied in educational visits include</b><br>Science: Children look at <input type='text' data-qid='3' class='ielts-input' /> about plants, etc.<br>Geography: includes learning to use a <input type='text' data-qid='4' class='ielts-input' /> and compass<br>History: changes in land use<br>Leisure and tourism: mostly concentrates on the park’s <input type='text' data-qid='5' class='ielts-input' /><br>Music: Children make <input type='text' data-qid='6' class='ielts-input' /> with natural materials, and experiment with rhythm and speed.<br><br><b>Benefits of outdoor educational visits</b><br>They give children a feeling of <input type='text' data-qid='7' class='ielts-input' /> that they may not have elsewhere.<br>Children learn new <input type='text' data-qid='8' class='ielts-input' /> and gain self-confidence.<br><br><b>Practical issues</b><br>Cost per child: £<input type='text' data-qid='9' class='ielts-input' /><br>Adults, such as <input type='text' data-qid='10' class='ielts-input' />, free</p>",
+      "passage": "<h3>Hinchingbrooke Country Park</h3><p>Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.</p>",
       "questions": [
         {
           "id": 1,
           "type": "fill_in_the_blank",
           "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
           "content": "Area: <input type='text' data-qid='1' class='ielts-input' /> hectares",
-          "answer": "110"
+          "answer": "69"
         },
         {
           "id": 2,
@@ -29,7 +29,7 @@
           "type": "fill_in_the_blank",
           "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
           "content": "Science: Children look at <input type='text' data-qid='3' class='ielts-input' /> about plants, etc.",
-          "answer": "booklets"
+          "answer": "data"
         },
         {
           "id": 4,
@@ -42,15 +42,15 @@
           "id": 5,
           "type": "fill_in_the_blank",
           "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
-          "content": "Leisure and tourism: mostly concentrates on the park’s <input type='text' data-qid='5' class='ielts-input' />",
-          "answer": "cafe"
+          "content": "Leisure and tourism: mostly concentrates on the park's <input type='text' data-qid='5' class='ielts-input' />",
+          "answer": "visitors"
         },
         {
           "id": 6,
           "type": "fill_in_the_blank",
           "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
-          "content": "Music: Children make <input type='text' data-qid='6' class='ielts-input' /> with natural materials",
-          "answer": "instruments"
+          "content": "Music: Children make <input type='text' data-qid='6' class='ielts-input' /> with natural materials, and experiment with rhythm and speed.",
+          "answer": "sounds"
         },
         {
           "id": 7,
@@ -70,21 +70,21 @@
           "id": 9,
           "type": "fill_in_the_blank",
           "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
-          "content": "Cost per child: £ <input type='text' data-qid='9' class='ielts-input' />",
-          "answer": "4.50"
+          "content": "Cost per child: £<input type='text' data-qid='9' class='ielts-input' />",
+          "answer": "4.95"
         },
         {
           "id": 10,
           "type": "fill_in_the_blank",
           "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
           "content": "Adults, such as <input type='text' data-qid='10' class='ielts-input' />, free",
-          "answer": "teachers"
+          "answer": "leaders"
         }
       ]
     },
     {
       "part_number": 2,
-      "title": "PART 2",
+      "title": "Stanthorpe Twinning Association",
       "audio_file": "T1 P2 [@cambridge_library].mp3",
       "passage": "<h3>Stanthorpe Twinning Association</h3>",
       "questions": [
@@ -92,184 +92,184 @@
           "id": 11,
           "type": "multiple_choice",
           "instruction": "Choose the correct letter, A, B or C.",
-          "content": "During the visit to Malatte, in France, members especially enjoyed<br><label><input type='radio' name='q11' value='A'> A. going to a theme park.</label><br><label><input type='radio' name='q11' value='B'> B. experiencing a river trip.</label><br><label><input type='radio' name='q11' value='C'> C. visiting a cheese factory.</label>",
+          "content": "<p>During the visit to Malatte, in France, members especially enjoyed</p><label><input type='radio' name='q11' value='A'> A. going to a theme park.</label><br><label><input type='radio' name='q11' value='B'> B. experiencing a river trip.</label><br><label><input type='radio' name='q11' value='C'> C. visiting a cheese factory.</label>",
           "answer": "B"
         },
         {
           "id": 12,
           "type": "multiple_choice",
           "instruction": "Choose the correct letter, A, B or C.",
-          "content": "What will happen in Stanthorpe to mark the 25th anniversary of the Twinning Association?<br><label><input type='radio' name='q12' value='A'> A. A tree will be planted.</label><br><label><input type='radio' name='q12' value='B'> B. A garden seat will be bought.</label><br><label><input type='radio' name='q12' value='C'> C. A footbridge will be built.</label>",
-          "answer": "C"
+          "content": "<p>What will happen in Stanthorpe to mark the 25th anniversary of the Twinning Association?</p><label><input type='radio' name='q12' value='A'> A. A tree will be planted.</label><br><label><input type='radio' name='q12' value='B'> B. A garden seat will be bought.</label><br><label><input type='radio' name='q12' value='C'> C. A footbridge will be built.</label>",
+          "answer": "A"
         },
         {
           "id": 13,
           "type": "multiple_choice",
           "instruction": "Choose the correct letter, A, B or C.",
-          "content": "Which event raised most funds this year?<br><label><input type='radio' name='q13' value='A'> A. the film show</label><br><label><input type='radio' name='q13' value='B'> B. the pancake evening</label><br><label><input type='radio' name='q13' value='C'> C. the cookery demonstration</label>",
-          "answer": "A"
+          "content": "<p>Which event raised most funds this year?</p><label><input type='radio' name='q13' value='A'> A. the film show</label><br><label><input type='radio' name='q13' value='B'> B. the pancake evening</label><br><label><input type='radio' name='q13' value='C'> C. the cookery demonstration</label>",
+          "answer": "B"
         },
         {
           "id": 14,
           "type": "multiple_choice",
           "instruction": "Choose the correct letter, A, B or C.",
-          "content": "For the first evening with the French visitors host families are advised to<br><label><input type='radio' name='q14' value='A'> A. take them for a walk round the town.</label><br><label><input type='radio' name='q14' value='B'> B. go to a local restaurant.</label><br><label><input type='radio' name='q14' value='C'> C. have a meal at home.</label>",
+          "content": "<p>For the first evening with the French visitors host families are advised to</p><label><input type='radio' name='q14' value='A'> A. take them for a walk round the town.</label><br><label><input type='radio' name='q14' value='B'> B. go to a local restaurant.</label><br><label><input type='radio' name='q14' value='C'> C. have a meal at home.</label>",
           "answer": "C"
         },
         {
           "id": 15,
           "type": "multiple_choice",
           "instruction": "Choose the correct letter, A, B or C.",
-          "content": "On Saturday evening there will be the chance to<br><label><input type='radio' name='q15' value='A'> A. listen to a concert.</label><br><label><input type='radio' name='q15' value='B'> B. watch a match.</label><br><label><input type='radio' name='q15' value='C'> C. take part in a competition.</label>",
-          "answer": "C"
+          "content": "<p>On Saturday evening there will be the chance to</p><label><input type='radio' name='q15' value='A'> A. listen to a concert.</label><br><label><input type='radio' name='q15' value='B'> B. watch a match.</label><br><label><input type='radio' name='q15' value='C'> C. take part in a competition.</label>",
+          "answer": "A"
         },
         {
           "id": 16,
           "type": "fill_in_the_blank",
-          "instruction": "Write the correct letter, A-H, next to Questions 16-20.",
+          "instruction": "Label the map below. Write the correct letter, A-H, next to Questions 16-20.",
           "content": "Farm shop <input type='text' data-qid='16' class='ielts-input' />",
-          "answer": "C"
+          "answer": "G"
         },
         {
           "id": 17,
           "type": "fill_in_the_blank",
-          "instruction": "Write the correct letter, A-H, next to Questions 16-20.",
+          "instruction": "Label the map below. Write the correct letter, A-H, next to Questions 16-20.",
           "content": "Disabled entry <input type='text' data-qid='17' class='ielts-input' />",
-          "answer": "H"
+          "answer": "C"
         },
         {
           "id": 18,
           "type": "fill_in_the_blank",
-          "instruction": "Write the correct letter, A-H, next to Questions 16-20.",
+          "instruction": "Label the map below. Write the correct letter, A-H, next to Questions 16-20.",
           "content": "Adventure playground <input type='text' data-qid='18' class='ielts-input' />",
-          "answer": "A"
+          "answer": "B"
         },
         {
           "id": 19,
           "type": "fill_in_the_blank",
-          "instruction": "Write the correct letter, A-H, next to Questions 16-20.",
+          "instruction": "Label the map below. Write the correct letter, A-H, next to Questions 16-20.",
           "content": "Kitchen gardens <input type='text' data-qid='19' class='ielts-input' />",
-          "answer": "E"
+          "answer": "D"
         },
         {
           "id": 20,
           "type": "fill_in_the_blank",
-          "instruction": "Write the correct letter, A-H, next to Questions 16-20.",
+          "instruction": "Label the map below. Write the correct letter, A-H, next to Questions 16-20.",
           "content": "The Temple of the Four Winds <input type='text' data-qid='20' class='ielts-input' />",
-          "answer": "F"
+          "answer": "A"
         }
       ]
     },
     {
       "part_number": 3,
-      "title": "PART 3",
+      "title": "Colin's Bread Reuse Project",
       "audio_file": "T1 P3 [@cambridge_library].mp3.mp3",
-      "passage": "<h3>Discussion on Bread Reuse and Food Trends</h3>",
+      "passage": "<h3>Colin's Bread Reuse Project</h3>",
       "questions": [
         {
           "id": 21,
           "type": "multiple_choice",
           "instruction": "Choose TWO letters, A-E.",
-          "content": "Which TWO things did Colin find most satisfying about his bread reuse project?<br><label><input type='checkbox' name='q21' value='A'> A. receiving support from local restaurants</label><br><label><input type='checkbox' name='q21' value='B'> B. finding a good way to prevent waste</label><br><label><input type='checkbox' name='q21' value='C'> C. overcoming problems in a basic process</label><br><label><input type='checkbox' name='q21' value='D'> D. experimenting with designs and colours</label><br><label><input type='checkbox' name='q21' value='E'> E. learning how to apply 3-D printing</label>",
-          "answer": "B, C"
+          "content": "<p>Which TWO things did Colin find most satisfying about his bread reuse project?</p><label><input type='checkbox' name='q21' value='A'> A. receiving support from local restaurants</label><br><label><input type='checkbox' name='q21' value='B'> B. finding a good way to prevent waste</label><br><label><input type='checkbox' name='q21' value='C'> C. overcoming problems in a basic process</label><br><label><input type='checkbox' name='q21' value='D'> D. experimenting with designs and colours</label><br><label><input type='checkbox' name='q21' value='E'> E. learning how to apply 3-D printing</label>",
+          "answer": "B"
         },
         {
           "id": 22,
           "type": "multiple_choice",
           "instruction": "Choose TWO letters, A-E.",
-          "content": "Which TWO things did Colin find most satisfying about his bread reuse project? (Second choice)<br><label><input type='checkbox' name='q22' value='A'> A. receiving support from local restaurants</label><br><label><input type='checkbox' name='q22' value='B'> B. finding a good way to prevent waste</label><br><label><input type='checkbox' name='q22' value='C'> C. overcoming problems in a basic process</label><br><label><input type='checkbox' name='q22' value='D'> D. experimenting with designs and colours</label><br><label><input type='checkbox' name='q22' value='E'> E. learning how to apply 3-D printing</label>",
-          "answer": "B, C"
+          "content": "<p>Which TWO things did Colin find most satisfying about his bread reuse project? (Second choice)</p><label><input type='checkbox' name='q22' value='A'> A. receiving support from local restaurants</label><br><label><input type='checkbox' name='q22' value='B'> B. finding a good way to prevent waste</label><br><label><input type='checkbox' name='q22' value='C'> C. overcoming problems in a basic process</label><br><label><input type='checkbox' name='q22' value='D'> D. experimenting with designs and colours</label><br><label><input type='checkbox' name='q22' value='E'> E. learning how to apply 3-D printing</label>",
+          "answer": "D"
         },
         {
           "id": 23,
           "type": "multiple_choice",
           "instruction": "Choose TWO letters, A-E.",
-          "content": "Which TWO ways do the students agree that touch-sensitive sensors for food labels could be developed in future?<br><label><input type='checkbox' name='q23' value='A'> A. for use on medical products</label><br><label><input type='checkbox' name='q23' value='B'> B. to show that food is no longer fit to eat</label><br><label><input type='checkbox' name='q23' value='C'> C. for use with drinks as well as foods</label><br><label><input type='checkbox' name='q23' value='D'> D. to provide applications for blind people</label><br><label><input type='checkbox' name='q23' value='E'> E. to indicate the weight of certain foods</label>",
-          "answer": "B, D"
+          "content": "<p>Which TWO ways do the students agree that touch-sensitive sensors for food labels could be developed in future?</p><label><input type='checkbox' name='q23' value='A'> A. for use on medical products</label><br><label><input type='checkbox' name='q23' value='B'> B. to show that food is no longer fit to eat</label><br><label><input type='checkbox' name='q23' value='C'> C. for use with drinks as well as foods</label><br><label><input type='checkbox' name='q23' value='D'> D. to provide applications for blind people</label><br><label><input type='checkbox' name='q23' value='E'> E. to indicate the weight of certain foods</label>",
+          "answer": "A"
         },
         {
           "id": 24,
           "type": "multiple_choice",
           "instruction": "Choose TWO letters, A-E.",
-          "content": "Which TWO ways do the students agree that touch-sensitive sensors for food labels could be developed in future? (Second choice)<br><label><input type='checkbox' name='q24' value='A'> A. for use on medical products</label><br><label><input type='checkbox' name='q24' value='B'> B. to show that food is no longer fit to eat</label><br><label><input type='checkbox' name='q24' value='C'> C. for use with drinks as well as foods</label><br><label><input type='checkbox' name='q24' value='D'> D. to provide applications for blind people</label><br><label><input type='checkbox' name='q24' value='E'> E. to indicate the weight of certain foods</label>",
-          "answer": "B, D"
+          "content": "<p>Which TWO ways do the students agree that touch-sensitive sensors for food labels could be developed in future? (Second choice)</p><label><input type='checkbox' name='q24' value='A'> A. for use on medical products</label><br><label><input type='checkbox' name='q24' value='B'> B. to show that food is no longer fit to eat</label><br><label><input type='checkbox' name='q24' value='C'> C. for use with drinks as well as foods</label><br><label><input type='checkbox' name='q24' value='D'> D. to provide applications for blind people</label><br><label><input type='checkbox' name='q24' value='E'> E. to indicate the weight of certain foods</label>",
+          "answer": "E"
         },
         {
           "id": 25,
           "type": "fill_in_the_blank",
           "instruction": "Choose SIX answers from the box and write the correct letter, A-H, next to Questions 25-30.",
           "content": "Use of local products <input type='text' data-qid='25' class='ielts-input' />",
-          "answer": "C"
+          "answer": "D"
         },
         {
           "id": 26,
           "type": "fill_in_the_blank",
           "instruction": "Choose SIX answers from the box and write the correct letter, A-H, next to Questions 25-30.",
           "content": "Reduction in unnecessary packaging <input type='text' data-qid='26' class='ielts-input' />",
-          "answer": "D"
+          "answer": "G"
         },
         {
           "id": 27,
           "type": "fill_in_the_blank",
           "instruction": "Choose SIX answers from the box and write the correct letter, A-H, next to Questions 25-30.",
           "content": "Gluten-free and lactose-free food <input type='text' data-qid='27' class='ielts-input' />",
-          "answer": "F"
+          "answer": "C"
         },
         {
           "id": 28,
           "type": "fill_in_the_blank",
           "instruction": "Choose SIX answers from the box and write the correct letter, A-H, next to Questions 25-30.",
           "content": "Use of branded products related to celebrity chefs <input type='text' data-qid='28' class='ielts-input' />",
-          "answer": "A"
+          "answer": "B"
         },
         {
           "id": 29,
           "type": "fill_in_the_blank",
           "instruction": "Choose SIX answers from the box and write the correct letter, A-H, next to Questions 25-30.",
           "content": "Development of 'ghost kitchens' for takeaway food <input type='text' data-qid='29' class='ielts-input' />",
-          "answer": "H"
+          "answer": "F"
         },
         {
           "id": 30,
           "type": "fill_in_the_blank",
           "instruction": "Choose SIX answers from the box and write the correct letter, A-H, next to Questions 25-30.",
           "content": "Use of mushrooms for common health concerns <input type='text' data-qid='30' class='ielts-input' />",
-          "answer": "E"
+          "answer": "H"
         }
       ]
     },
     {
       "part_number": 4,
-      "title": "PART 4",
+      "title": "Céide Fields",
       "audio_file": "T1 P4 [@cambridge_library].mp3",
-      "passage": "<h3>Céide Fields</h3><p>• an important Neolithic archaeological site in the northwest of Ireland<br><br><b>Discovery</b><br>• In the 1930s, a local teacher realised that stones beneath the bog surface were once <input type='text' data-qid='31' class='ielts-input' />.<br>• His <input type='text' data-qid='32' class='ielts-input' /> became an archaeologist and undertook an investigation of the site:<br>&nbsp;&nbsp;&nbsp;&nbsp;− a traditional method used by local people to dig for <input type='text' data-qid='33' class='ielts-input' /> was used to identify where stones were located<br>&nbsp;&nbsp;&nbsp;&nbsp;− carbon dating later proved the site was Neolithic.<br>• Items are well preserved in the bog because of a lack of <input type='text' data-qid='34' class='ielts-input' />.<br><br><b>Neolithic farmers</b><br>• Houses were <input type='text' data-qid='35' class='ielts-input' /> in shape and had a hole in the roof.<br>• Neolithic innovations include:<br>&nbsp;&nbsp;&nbsp;&nbsp;− cooking indoors<br>&nbsp;&nbsp;&nbsp;&nbsp;− pots used for storage and to make <input type='text' data-qid='36' class='ielts-input' />.<br>• Each field at Céide was large enough to support a big <input type='text' data-qid='37' class='ielts-input' />.<br>• The fields were probably used to restrict the grazing of animals – no evidence of structures to house them during <input type='text' data-qid='38' class='ielts-input' />.<br><br><b>Reasons for the decline in farming</b><br>• a decline in <input type='text' data-qid='39' class='ielts-input' /> quality<br>• an increase in <input type='text' data-qid='40' class='ielts-input' /></p>",
+      "passage": "<h3>Céide Fields</h3><p>Complete the notes below. Write ONE WORD ONLY for each answer.</p>",
       "questions": [
         {
           "id": 31,
           "type": "fill_in_the_blank",
           "instruction": "Write ONE WORD ONLY for each answer.",
-          "content": "stones beneath the bog surface were once <input type='text' data-qid='31' class='ielts-input' />.",
+          "content": "In the 1930s, a local teacher realised that stones beneath the bog surface were once <input type='text' data-qid='31' class='ielts-input' />.",
           "answer": "walls"
         },
         {
           "id": 32,
           "type": "fill_in_the_blank",
           "instruction": "Write ONE WORD ONLY for each answer.",
-          "content": "His <input type='text' data-qid='32' class='ielts-input' /> became an archaeologist",
+          "content": "His <input type='text' data-qid='32' class='ielts-input' /> became an archaeologist and undertook an investigation of the site:",
           "answer": "son"
         },
         {
           "id": 33,
           "type": "fill_in_the_blank",
           "instruction": "Write ONE WORD ONLY for each answer.",
-          "content": "dig for <input type='text' data-qid='33' class='ielts-input' /> was used to identify where stones were located",
-          "answer": "peat"
+          "content": "- a traditional method used by local people to dig for <input type='text' data-qid='33' class='ielts-input' /> was used to identify where stones were located",
+          "answer": "fuel"
         },
         {
           "id": 34,
           "type": "fill_in_the_blank",
           "instruction": "Write ONE WORD ONLY for each answer.",
-          "content": "Items are well preserved in the bog because of a lack of <input type='text' data-qid='34' class='ielts-input' />.",
+          "content": "- carbon dating later proved the site was Neolithic.\nItems are well preserved in the bog because of a lack of <input type='text' data-qid='34' class='ielts-input' />.",
           "answer": "oxygen"
         },
         {
@@ -283,8 +283,8 @@
           "id": 36,
           "type": "fill_in_the_blank",
           "instruction": "Write ONE WORD ONLY for each answer.",
-          "content": "pots used for storage and to make <input type='text' data-qid='36' class='ielts-input' />.",
-          "answer": "cheese"
+          "content": "Neolithic innovations include:\n- cooking indoors\n- pots used for storage and to make <input type='text' data-qid='36' class='ielts-input' />.",
+          "answer": "lamps"
         },
         {
           "id": 37,
@@ -297,7 +297,7 @@
           "id": 38,
           "type": "fill_in_the_blank",
           "instruction": "Write ONE WORD ONLY for each answer.",
-          "content": "no evidence of structures to house them during <input type='text' data-qid='38' class='ielts-input' />.",
+          "content": "The fields were probably used to restrict the grazing of animals - no evidence of structures to house them during <input type='text' data-qid='38' class='ielts-input' />.",
           "answer": "winter"
         },
         {

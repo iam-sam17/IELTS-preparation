@@ -6,16 +6,313 @@
   "parts": [
     {
       "part_number": 1,
-      "title": "Cambridge 19 Test 2 Listening Part 1",
+      "title": "Guitar Group",
       "audio_file": "T2 P1 [@cambridge_library].mp3",
-      "passage": "<p>Passage content for Cambridge 19 Test 2 Listening. Loaded from archive.</p>",
+      "passage": "<h3>Guitar Group</h3>",
       "questions": [
         {
           "id": 1,
           "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Coordinator: Gary <input type='text' data-qid='1' class='ielts-input' />",
+          "answer": "Mathieson"
+        },
+        {
+          "id": 2,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Level: <input type='text' data-qid='2' class='ielts-input' />",
+          "answer": "beginners"
+        },
+        {
+          "id": 3,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Place: the <input type='text' data-qid='3' class='ielts-input' />",
+          "answer": "college"
+        },
+        {
+          "id": 4,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "<input type='text' data-qid='4' class='ielts-input' /> Street",
+          "answer": "New"
+        },
+        {
+          "id": 5,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Time: Thursday morning at <input type='text' data-qid='5' class='ielts-input' />",
+          "answer": "11 / eleven (am)"
+        },
+        {
+          "id": 6,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Recommended website: 'The perfect <input type='text' data-qid='6' class='ielts-input' />'",
+          "answer": "instrument"
+        },
+        {
+          "id": 7,
+          "type": "fill_in_the_blank",
           "instruction": "Write ONE WORD ONLY for each answer.",
-          "content": "<p>Sample extracted question 1: <input type='text' data-qid='1' class='ielts-input' /></p>",
-          "answer": ""
+          "content": "5 minutes | tuning guitars | using an app or by <input type='text' data-qid='7' class='ielts-input' />",
+          "answer": "ear"
+        },
+        {
+          "id": 8,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "10 minutes | strumming chords using our thumbs | keeping time while the teacher is <input type='text' data-qid='8' class='ielts-input' />",
+          "answer": "clapping"
+        },
+        {
+          "id": 9,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "15 minutes | playing songs | often listening to a <input type='text' data-qid='9' class='ielts-input' /> of a song",
+          "answer": "recording"
+        },
+        {
+          "id": 10,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "10 minutes | playing single notes and simple tunes | playing together, then <input type='text' data-qid='10' class='ielts-input' />",
+          "answer": "alone"
+        }
+      ]
+    },
+    {
+      "part_number": 2,
+      "title": "Working as a lifeboat volunteer",
+      "audio_file": "T2 P2 [@cambridge_library].mp3",
+      "passage": "<h3>Working as a lifeboat volunteer</h3>",
+      "questions": [
+        {
+          "id": 11,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "<p>What made David leave London and move to Northsea?</p><label><input type='radio' name='q11' value='A'> A. He was eager to develop a hobby.</label><br><label><input type='radio' name='q11' value='B'> B. He wanted to work shorter hours.</label><br><label><input type='radio' name='q11' value='C'> C. He found his job in website design unsatisfying.</label>",
+          "answer": "A"
+        },
+        {
+          "id": 12,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "<p>The Lifeboat Institution in Northsea was built with money provided by</p><label><input type='radio' name='q12' value='A'> A. a local organisation.</label><br><label><input type='radio' name='q12' value='B'> B. a local resident.</label><br><label><input type='radio' name='q12' value='C'> C. the local council.</label>",
+          "answer": "B"
+        },
+        {
+          "id": 13,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "<p>In his health assessment, the doctor was concerned about the fact that David</p><label><input type='radio' name='q13' value='A'> A. might be colour blind.</label><br><label><input type='radio' name='q13' value='B'> B. was rather short-sighted.</label><br><label><input type='radio' name='q13' value='C'> C. had undergone eye surgery.</label>",
+          "answer": "A"
+        },
+        {
+          "id": 14,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "<p>After arriving at the lifeboat station, they aim to launch the boat within</p><label><input type='radio' name='q14' value='A'> A. five minutes.</label><br><label><input type='radio' name='q14' value='B'> B. six to eight minutes.</label><br><label><input type='radio' name='q14' value='C'> C. eight and a half minutes.</label>",
+          "answer": "B"
+        },
+        {
+          "id": 15,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "<p>As a 'helmsman', David has the responsibility of deciding</p><label><input type='radio' name='q15' value='A'> A. who will be the members of his crew.</label><br><label><input type='radio' name='q15' value='B'> B. what equipment it will be necessary to take.</label><br><label><input type='radio' name='q15' value='C'> C. if the lifeboat should be launched.</label>",
+          "answer": "C"
+        },
+        {
+          "id": 16,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "<p>As well as going out on the lifeboat, David</p><label><input type='radio' name='q16' value='A'> A. gives talks on safety at sea.</label><br><label><input type='radio' name='q16' value='B'> B. helps with fundraising.</label><br><label><input type='radio' name='q16' value='C'> C. recruits new volunteers.</label>",
+          "answer": "A"
+        },
+        {
+          "id": 17,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A–E.",
+          "content": "<p>Which TWO things does David say about the lifeboat volunteer training?</p><label><input type='checkbox' name='q17' value='A'> A. The residential course developed his leadership skills.</label><br><label><input type='checkbox' name='q17' value='B'> B. The training in use of ropes and knots was quite brief.</label><br><label><input type='checkbox' name='q17' value='C'> C. The training exercises have built up his mental strength.</label><br><label><input type='checkbox' name='q17' value='D'> D. The casualty care activities were particularly challenging for him.</label><br><label><input type='checkbox' name='q17' value='E'> E. The wave tank activities provided practice in survival techniques.</label>",
+          "answer": "C, E"
+        },
+        {
+          "id": 18,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A–E.",
+          "content": "<p>Which TWO things does David say about the lifeboat volunteer training?</p><label><input type='checkbox' name='q18' value='A'> A. The residential course developed his leadership skills.</label><br><label><input type='checkbox' name='q18' value='B'> B. The training in use of ropes and knots was quite brief.</label><br><label><input type='checkbox' name='q18' value='C'> C. The training exercises have built up his mental strength.</label><br><label><input type='checkbox' name='q18' value='D'> D. The casualty care activities were particularly challenging for him.</label><br><label><input type='checkbox' name='q18' value='E'> E. The wave tank activities provided practice in survival techniques.</label>",
+          "answer": "C, E"
+        },
+        {
+          "id": 19,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A–E.",
+          "content": "<p>Which TWO things does David find most motivating about the work he does?</p><label><input type='checkbox' name='q19' value='A'> A. working as part of a team</label><br><label><input type='checkbox' name='q19' value='B'> B. experiences when working in winter</label><br><label><input type='checkbox' name='q19' value='C'> C. being thanked by those he has helped</label><br><label><input type='checkbox' name='q19' value='D'> D. the fact that it keeps him fit</label><br><label><input type='checkbox' name='q19' value='E'> E. the chance to develop new equipment</label>",
+          "answer": "A, B"
+        },
+        {
+          "id": 20,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A–E.",
+          "content": "<p>Which TWO things does David find most motivating about the work he does?</p><label><input type='checkbox' name='q20' value='A'> A. working as part of a team</label><br><label><input type='checkbox' name='q20' value='B'> B. experiences when working in winter</label><br><label><input type='checkbox' name='q20' value='C'> C. being thanked by those he has helped</label><br><label><input type='checkbox' name='q20' value='D'> D. the fact that it keeps him fit</label><br><label><input type='checkbox' name='q20' value='E'> E. the chance to develop new equipment</label>",
+          "answer": "A, B"
+        }
+      ]
+    },
+    {
+      "part_number": 3,
+      "title": "Recycling Footwear Discussion",
+      "audio_file": "T2 P3 [@cambridge_library].mp3",
+      "passage": "<h3>Recycling Footwear Discussion</h3>",
+      "questions": [
+        {
+          "id": 21,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "<p>At first, Don thought the topic of recycling footwear might be too</p><label><input type='radio' name='q21' value='A'> A. limited in scope.</label><br><label><input type='radio' name='q21' value='B'> B. hard to research.</label><br><label><input type='radio' name='q21' value='C'> C. boring for listeners.</label>",
+          "answer": "A"
+        },
+        {
+          "id": 22,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "<p>When discussing trainers, Bella and Don disagree about</p><label><input type='radio' name='q22' value='A'> A. how popular they are among young people.</label><br><label><input type='radio' name='q22' value='B'> B. how suitable they are for school.</label><br><label><input type='radio' name='q22' value='C'> C. how quickly they wear out.</label>",
+          "answer": "B"
+        },
+        {
+          "id": 23,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "<p>Bella says that she sometimes recycles shoes because</p><label><input type='radio' name='q23' value='A'> A. they no longer fit.</label><br><label><input type='radio' name='q23' value='B'> B. she no longer likes them.</label><br><label><input type='radio' name='q23' value='C'> C. they are no longer in fashion.</label>",
+          "answer": "B"
+        },
+        {
+          "id": 24,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "<p>What did the article say that confused Don?</p><label><input type='radio' name='q24' value='A'> A. Public consumption of footwear has risen.</label><br><label><input type='radio' name='q24' value='B'> B. Less footwear is recycled now than in the past.</label><br><label><input type='radio' name='q24' value='C'> C. People dispose of more footwear than they used to.</label>",
+          "answer": "B"
+        },
+        {
+          "id": 25,
+          "type": "multiple_choice",
+          "instruction": "Choose FOUR answers from the box and write the correct letter, A–F, next to Questions 25–28.",
+          "content": "<p>Reasons:</p><p>A one shoe was missing<br>B the colour of one shoe had faded<br>C one shoe had a hole in it<br>D the shoes were brand new<br>E the shoes were too dirty<br>F the stitching on the shoes was broken</p><p>the high-heeled shoes <input type='text' data-qid='25' class='ielts-input' /></p>",
+          "answer": "E"
+        },
+        {
+          "id": 26,
+          "type": "multiple_choice",
+          "instruction": "Choose FOUR answers from the box and write the correct letter, A–F, next to Questions 25–28.",
+          "content": "<p>the ankle boots <input type='text' data-qid='26' class='ielts-input' /></p>",
+          "answer": "B"
+        },
+        {
+          "id": 27,
+          "type": "multiple_choice",
+          "instruction": "Choose FOUR answers from the box and write the correct letter, A–F, next to Questions 25–28.",
+          "content": "<p>the baby shoes <input type='text' data-qid='27' class='ielts-input' /></p>",
+          "answer": "A"
+        },
+        {
+          "id": 28,
+          "type": "multiple_choice",
+          "instruction": "Choose FOUR answers from the box and write the correct letter, A–F, next to Questions 25–28.",
+          "content": "<p>the trainers <input type='text' data-qid='28' class='ielts-input' /></p>",
+          "answer": "C"
+        },
+        {
+          "id": 29,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "<p>Why did the project to make 'new' shoes out of old shoes fail?</p><label><input type='radio' name='q29' value='A'> A. People believed the 'new' pairs of shoes were unhygienic.</label><br><label><input type='radio' name='q29' value='B'> B. There were not enough good parts to use in the old shoes.</label><br><label><input type='radio' name='q29' value='C'> C. The shoes in the 'new' pairs were not completely alike.</label>",
+          "answer": "C"
+        },
+        {
+          "id": 30,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "<p>Bella and Don agree that they can present their topic</p><label><input type='radio' name='q30' value='A'> A. from a new angle.</label><br><label><input type='radio' name='q30' value='B'> B. with relevant images.</label><br><label><input type='radio' name='q30' value='C'> C. in a straightforward way.</label>",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "part_number": 4,
+      "title": "Tardigrades",
+      "audio_file": "T2 P4 [@cambridge_library].mp3",
+      "passage": "<h3>Tardigrades</h3>",
+      "questions": [
+        {
+          "id": 31,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "also known as water 'bears' (due to how they <input type='text' data-qid='31' class='ielts-input' />) and 'moss piglets'",
+          "answer": "move"
+        },
+        {
+          "id": 32,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "a <input type='text' data-qid='32' class='ielts-input' /> round body and four pairs of legs",
+          "answer": "short"
+        },
+        {
+          "id": 33,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "claws or <input type='text' data-qid='33' class='ielts-input' /> for gripping",
+          "answer": "discs"
+        },
+        {
+          "id": 34,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "body filled with a liquid that carries both <input type='text' data-qid='34' class='ielts-input' /> and blood",
+          "answer": "oxygen"
+        },
+        {
+          "id": 35,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "mouth shaped like a <input type='text' data-qid='35' class='ielts-input' /> with teeth called stylets",
+          "answer": "tube"
+        },
+        {
+          "id": 36,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "very resilient and can exist in very low or high <input type='text' data-qid='36' class='ielts-input' />",
+          "answer": "temperatures"
+        },
+        {
+          "id": 37,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "A type of <input type='text' data-qid='37' class='ielts-input' /> ensures their DNA is not damaged.",
+          "answer": "protein"
+        },
+        {
+          "id": 38,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "Research is underway to find out how many days they can stay alive in <input type='text' data-qid='38' class='ielts-input' />.",
+          "answer": "space"
+        },
+        {
+          "id": 39,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "consume liquids, e.g., those found in moss or <input type='text' data-qid='39' class='ielts-input' />",
+          "answer": "seaweed"
+        },
+        {
+          "id": 40,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "They are not considered to be <input type='text' data-qid='40' class='ielts-input' />.",
+          "answer": "endangered"
         }
       ]
     }
