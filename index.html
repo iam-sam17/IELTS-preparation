@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CD-IELTS Preparation Hub - Launching Simulator...</title>
+    <meta http-equiv="refresh" content="0; url=cd-ielts-simulator/index.html">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: 'Inter', sans-serif;
+            background: #0f172a;
+            color: #f8fafc;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            background: #1e293b;
+            border: 1px solid #334155;
+            border-radius: 16px;
+            padding: 40px 30px;
+            max-width: 500px;
+            width: 100%;
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.5);
+        }
+        .spinner {
+            width: 48px;
+            height: 48px;
+            border: 4px solid #334155;
+            border-top-color: #3b82f6;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 20px;
+        }
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        h1 { font-size: 1.5rem; margin-bottom: 10px; color: #ffffff; }
+        p { color: #94a3b8; font-size: 0.95rem; margin-bottom: 25px; line-height: 1.5; }
+        .btn {
+            display: inline-block;
+            background: #2563eb;
+            color: #ffffff;
+            padding: 12px 24px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: background 0.2s ease;
+        }
+        .btn:hover { background: #1d4ed8; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="spinner"></div>
+        <h1>CD-IELTS Preparation Hub</h1>
+        <p>Launching the full authentic Computer-Delivered IELTS simulator loaded with Cambridge 15–21...</p>
+        <a href="cd-ielts-simulator/index.html" class="btn">Enter Simulator Now ➜</a>
+    </div>
+    <script>
+        window.location.replace("cd-ielts-simulator/index.html");
+    </script>
+</body>
+</html>

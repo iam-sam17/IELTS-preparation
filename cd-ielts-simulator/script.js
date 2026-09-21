@@ -114,7 +114,7 @@ document.addEventListener('DOMContentLoaded', () => {
         showSoundCheckModal();
     }
 
-    // --- FETCH TEST DATA ---
+    // --- FETCH TEST DATA (GITHUB & LOCAL MULTI-TIER) ---
     async function loadModuleData(mod) {
         if (moduleCache[mod]) {
             testData = moduleCache[mod];
@@ -122,9 +122,15 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
 
+        const fileName = `c${book}_test${test}_${mod}.json`;
+        const GITHUB_REPO = 'iam-sam17/IELTS-preparation';
+        const GITHUB_BRANCH = 'main';
+
         const dataSources = [
-            `../extracted_data/c${book}_test${test}_${mod}.json`,
-            `data/c${book}_test${test}_${mod}.json`,
+            `https://cdn.jsdelivr.net/gh/${GITHUB_REPO}@${GITHUB_BRANCH}/extracted_data/${fileName}`,
+            `https://raw.githubusercontent.com/${GITHUB_REPO}/${GITHUB_BRANCH}/extracted_data/${fileName}`,
+            `../extracted_data/${fileName}`,
+            `data/${fileName}`,
             `data/c${book}_test${test}.json`
         ];
 
@@ -217,16 +223,29 @@ document.addEventListener('DOMContentLoaded', () => {
         } else if (currentModule === 'listening') {
             const audioElem = document.getElementById('listening-audio');
             if (part.audio_file) {
-                let audioSrc = part.audio_file;
-                if (!audioSrc.startsWith('http') && !audioSrc.startsWith('/') && !audioSrc.startsWith('../')) {
-                    const bookNum = parseInt(book, 10);
-                    const bookFolder = bookNum < 10 ? `Cambridge IELTS 0${bookNum}` : `Cambridge IELTS ${bookNum}`;
-                    audioSrc = `../${bookFolder}/${audioSrc}`;
-                }
-                audioElem.src = audioSrc;
+                const bookNum = parseInt(book, 10);
+                const bookFolder = bookNum < 10 ? `Cambridge IELTS 0${bookNum}` : `Cambridge IELTS ${bookNum}`;
+                const GITHUB_REPO = 'iam-sam17/IELTS-preparation';
+                const GITHUB_BRANCH = 'main';
+
+                const encodedFolder = encodeURIComponent(bookFolder);
+                const encodedFile = encodeURI(part.audio_file);
+                
+                const sources = [
+                    `https://raw.githubusercontent.com/${GITHUB_REPO}/${GITHUB_BRANCH}/${encodedFolder}/${encodedFile}`,
+                    `https://cdn.jsdelivr.net/gh/${GITHUB_REPO}@${GITHUB_BRANCH}/${encodedFolder}/${encodedFile}`,
+                    `../${bookFolder}/${part.audio_file}`,
+                    'data/listening.mp3'
+                ];
+
+                let srcIdx = 0;
+                audioElem.src = sources[srcIdx];
                 audioElem.onerror = () => {
-                    console.warn(`Could not load audio from ${audioSrc}, falling back to default listening audio.`);
-                    audioElem.src = 'data/listening.mp3';
+                    srcIdx++;
+                    if (srcIdx < sources.length) {
+                        console.warn(`Audio error, falling back to source ${srcIdx}: ${sources[srcIdx]}`);
+                        audioElem.src = sources[srcIdx];
+                    }
                 };
             }
             const questionsContainer = document.getElementById('listening-questions-content');
