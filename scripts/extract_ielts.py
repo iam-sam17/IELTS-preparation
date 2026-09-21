@@ -252,16 +252,8 @@ def find_relevant_pages(pages_data, test_num, module):
 
 
 def _rate_limit_wait():
-    """FIX 4: Enforce max 13 API calls per 60s."""
-    global _api_call_times
-    now = time.time()
-    _api_call_times = [t for t in _api_call_times if now - t < _RATE_LIMIT_WINDOW]
-    if len(_api_call_times) >= _RATE_LIMIT_CALLS:
-        oldest = _api_call_times[0]
-        wait = _RATE_LIMIT_WINDOW - (now - oldest) + 2
-        print(f"  Rate limit: waiting {wait:.1f}s...")
-        time.sleep(wait)
-    _api_call_times.append(time.time())
+    """Rate limiting disabled by user request (using new API key per run)."""
+    pass
 
 
 def extract_with_gemini(api_key, book_num, test_num, module, pdf_path, pages_data, audio_files):
