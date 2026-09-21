@@ -6,17 +6,33 @@
   "parts": [
     {
       "part_number": 1,
-      "title": "Task 1",
+      "title": "Writing Task 1",
       "audio_file": "",
-      "passage": "<p><strong>IELTS Academic Writing Task 1</strong></p><p><em>(The specific prompt for Writing Task 1 from Cambridge IELTS Book 15 Test 3 was not provided in the input text. Please provide the actual task description to generate this section accurately.)</em></p><p>You should spend about 20 minutes on this task.</p><p>Summarise the information by selecting and reporting the main features, and make comparisons where relevant.</p><p>Write at least 150 words.</p>",
-      "questions": []
+      "passage": "<h3>WRITING TASK 1</h3><p>You should spend about 20 minutes on this task.</p><p>The diagram below shows how instant noodles are manufactured.</p><p>Summarise the information by selecting and reporting the main features, and make comparisons where relevant.</p><p>Write at least 150 words.</p>",
+      "questions": [
+        {
+          "id": 1,
+          "type": "fill_in_the_blank",
+          "instruction": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+          "content": "<input type='text' data-qid='1' class='ielts-input' />",
+          "answer": "Model answer provided externally."
+        }
+      ]
     },
     {
       "part_number": 2,
-      "title": "Task 2",
+      "title": "Writing Task 2",
       "audio_file": "",
-      "passage": "<p><strong>IELTS Academic Writing Task 2</strong></p><p><em>(The specific prompt for Writing Task 2 from Cambridge IELTS Book 15 Test 3 was not provided in the input text. Please provide the actual task description to generate this section accurately.)</em></p><p>You should spend about 40 minutes on this task.</p><p>Write about the following topic:</p><p>Discuss both these views and give your own opinion.</p><p>Give reasons for your answer and include any relevant examples from your own knowledge or experience.</p><p>Write at least 250 words.</p>",
-      "questions": []
+      "passage": "<h3>WRITING TASK 2</h3><p>You should spend about 40 minutes on this task.</p><p>Write about the following topic:</p><p>Some people say that advertising is extremely successful at persuading us to buy things. Other people think that advertising is so common that we no longer pay attention to it.</p><p>Discuss both these views and give your own opinion.</p><p>Give reasons for your answer and include any relevant examples from your own knowledge or experience.</p><p>Write at least 250 words.</p>",
+      "questions": [
+        {
+          "id": 2,
+          "type": "fill_in_the_blank",
+          "instruction": "Discuss both these views and give your own opinion. Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+          "content": "<input type='text' data-qid='2' class='ielts-input' />",
+          "answer": "Model answer provided externally."
+        }
+      ]
     }
   ]
 }

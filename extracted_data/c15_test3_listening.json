@@ -6,16 +6,313 @@
   "parts": [
     {
       "part_number": 1,
-      "title": "Cambridge 15 Test 3 Listening Part 1",
-      "audio_file": null,
-      "passage": "<p>Passage content for Cambridge 15 Test 3 Listening. Loaded from archive.</p>",
+      "title": "Employment Agency: Possible Jobs",
+      "audio_file": "ielts15_test3_audio1.m4a",
+      "passage": "<h3>PART 1</h3><p>Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.</p><h3>Employment Agency: Possible Jobs</h3><p><strong>First Job</strong><br>Administrative assistant in a company that produces <input type='text' data-qid='1' class='ielts-input' /> (North London)<br>Responsibilities<br>- data entry<br>- go to <input type='text' data-qid='2' class='ielts-input' /> and take notes<br>- general admin<br>- management of <input type='text' data-qid='3' class='ielts-input' /><br>Requirements<br>- good computer skills including spreadsheets<br>- good interpersonal skills<br>- attention to <input type='text' data-qid='4' class='ielts-input' /><br>Experience<br>- need a minimum of <input type='text' data-qid='5' class='ielts-input' /> of experience of teleconferencing</p><p><strong>Second Job</strong><br>Warehouse assistant in South London<br>Responsibilities<br>- stock management<br>- managing <input type='text' data-qid='6' class='ielts-input' /><br>Requirements<br>- ability to work with numbers<br>- good computer skills<br>- very organised and <input type='text' data-qid='7' class='ielts-input' /><br>- good communication skills<br>- used to working in a <input type='text' data-qid='8' class='ielts-input' /><br>- able to cope with items that are <input type='text' data-qid='9' class='ielts-input' /><br>Need experience of<br>- driving in London<br>- warehouse work<br>- <input type='text' data-qid='10' class='ielts-input' /> service</p>",
       "questions": [
         {
           "id": 1,
           "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Administrative assistant in a company that produces <input type='text' data-qid='1' class='ielts-input' /> (North London)",
+          "answer": "furniture"
+        },
+        {
+          "id": 2,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "go to <input type='text' data-qid='2' class='ielts-input' /> and take notes",
+          "answer": "meetings"
+        },
+        {
+          "id": 3,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "management of <input type='text' data-qid='3' class='ielts-input' />",
+          "answer": "diary"
+        },
+        {
+          "id": 4,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "attention to <input type='text' data-qid='4' class='ielts-input' />",
+          "answer": "detail"
+        },
+        {
+          "id": 5,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "need a minimum of <input type='text' data-qid='5' class='ielts-input' /> of experience of teleconferencing",
+          "answer": "1 year"
+        },
+        {
+          "id": 6,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "managing <input type='text' data-qid='6' class='ielts-input' />",
+          "answer": "deliveries"
+        },
+        {
+          "id": 7,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "very organised and <input type='text' data-qid='7' class='ielts-input' />",
+          "answer": "tidy"
+        },
+        {
+          "id": 8,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "used to working in a <input type='text' data-qid='8' class='ielts-input' />",
+          "answer": "team"
+        },
+        {
+          "id": 9,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "able to cope with items that are <input type='text' data-qid='9' class='ielts-input' />",
+          "answer": "heavy"
+        },
+        {
+          "id": 10,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "<input type='text' data-qid='10' class='ielts-input' /> service",
+          "answer": "customer"
+        }
+      ]
+    },
+    {
+      "part_number": 2,
+      "title": "Street Play Scheme",
+      "audio_file": "ielts15_test3_audio2.m4a",
+      "passage": "<h3>PART 2</h3><p><strong>Questions 11-16</strong><br>Choose the correct letter, A, B or C.</p><p><strong>Questions 17 and 18</strong><br>Choose TWO letters, A-E.<br>Which TWO benefits for children does Alice think are the most important?<br>A increased physical activity<br>B increased sense of independence<br>C opportunity to learn new games<br>D opportunity to be part of a community<br>E opportunity to make new friends</p><p><strong>Questions 19 and 20</strong><br>Choose TWO letters, A-E.<br>Which TWO results of the King Street experiment surprised Alice?<br>A more shoppers<br>B improved safety<br>C less air pollution<br>D more relaxed atmosphere<br>E less noise pollution</p>",
+      "questions": [
+        {
+          "id": 11,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "When did the Street Play Scheme first take place?<br>A. two years ago<br>B. three years ago<br>C. six years ago",
+          "answer": "B"
+        },
+        {
+          "id": 12,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "How often is Beechwood Road closed to traffic now?<br>A. once a week<br>B. on Saturdays and Sundays<br>C. once a month",
+          "answer": "A"
+        },
+        {
+          "id": 13,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "Who is responsible for closing the road?<br>A. a council official<br>B. the police<br>C. local wardens",
+          "answer": "C"
+        },
+        {
+          "id": 14,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "Residents who want to use their cars<br>A. have to park in another street.<br>B. must drive very slowly.<br>C. need permission from a warden.",
+          "answer": "B"
+        },
+        {
+          "id": 15,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "Alice says that Street Play Schemes are most needed in<br>A. wealthy areas.<br>B. quiet suburban areas.<br>C. areas with heavy traffic.",
+          "answer": "C"
+        },
+        {
+          "id": 16,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "What has been the reaction of residents who are not parents?<br>A. Many of them were unhappy at first.<br>B. They like seeing children play in the street.<br>C. They are surprised by the lack of noise.",
+          "answer": "B"
+        },
+        {
+          "id": 17,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.",
+          "content": "Which TWO benefits for children does Alice think are the most important?",
+          "answer": "B, D"
+        },
+        {
+          "id": 18,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.",
+          "content": "Which TWO benefits for children does Alice think are the most important? (Second choice)",
+          "answer": "B, D"
+        },
+        {
+          "id": 19,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.",
+          "content": "Which TWO results of the King Street experiment surprised Alice?",
+          "answer": "A, E"
+        },
+        {
+          "id": 20,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.",
+          "content": "Which TWO results of the King Street experiment surprised Alice? (Second choice)",
+          "answer": "A, E"
+        }
+      ]
+    },
+    {
+      "part_number": 3,
+      "title": "Analysing Items in Newspapers",
+      "audio_file": "ielts15_test3_audio3.m4a",
+      "passage": "<h3>PART 3</h3><p><strong>Questions 21-30</strong><br>Complete the notes below.<br>Write ONE WORD ONLY for each answer.</p><p><strong>What Hazel should analyse about items in newspapers:</strong><br>- what <input type='text' data-qid='21' class='ielts-input' /> the item is on<br>- the <input type='text' data-qid='22' class='ielts-input' /> of the item, including the headline<br>- any <input type='text' data-qid='23' class='ielts-input' /> accompanying the item<br>- the <input type='text' data-qid='24' class='ielts-input' /> of the item, e.g. what's made prominent<br>- the writer's main <input type='text' data-qid='25' class='ielts-input' /><br>- the <input type='text' data-qid='26' class='ielts-input' /> the writer may make about the reader</p><p><strong>What does Hazel decide to do about each of the following types of articles?</strong><br>Write the correct letter, A, B or C, next to Questions 27-30.<br>A - She will definitely look for a suitable article.<br>B - She may look for a suitable article.<br>C - She definitely won't look for an article.</p><p><strong>Types of articles</strong><br>27. national news item <input type='text' data-qid='27' class='ielts-input' /><br>28. editorial <input type='text' data-qid='28' class='ielts-input' /><br>29. human interest <input type='text' data-qid='29' class='ielts-input' /><br>30. arts <input type='text' data-qid='30' class='ielts-input' /></p>",
+      "questions": [
+        {
+          "id": 21,
+          "type": "fill_in_the_blank",
           "instruction": "Write ONE WORD ONLY for each answer.",
-          "content": "<p>Sample extracted question 1: <input type='text' data-qid='1' class='ielts-input' /></p>",
-          "answer": ""
+          "content": "what <input type='text' data-qid='21' class='ielts-input' /> the item is on",
+          "answer": "page"
+        },
+        {
+          "id": 22,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "the <input type='text' data-qid='22' class='ielts-input' /> of the item, including the headline",
+          "answer": "size"
+        },
+        {
+          "id": 23,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "any <input type='text' data-qid='23' class='ielts-input' /> accompanying the item",
+          "answer": "graphic"
+        },
+        {
+          "id": 24,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "the <input type='text' data-qid='24' class='ielts-input' /> of the item, e.g. what's made prominent",
+          "answer": "structure"
+        },
+        {
+          "id": 25,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "the writer's main <input type='text' data-qid='25' class='ielts-input' />",
+          "answer": "purpose"
+        },
+        {
+          "id": 26,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "the <input type='text' data-qid='26' class='ielts-input' /> the writer may make about the reader",
+          "answer": "assumption"
+        },
+        {
+          "id": 27,
+          "type": "fill_in_the_blank",
+          "instruction": "Write the correct letter, A, B or C.",
+          "content": "national news item <input type='text' data-qid='27' class='ielts-input' />",
+          "answer": "A"
+        },
+        {
+          "id": 28,
+          "type": "fill_in_the_blank",
+          "instruction": "Write the correct letter, A, B or C.",
+          "content": "editorial <input type='text' data-qid='28' class='ielts-input' />",
+          "answer": "C"
+        },
+        {
+          "id": 29,
+          "type": "fill_in_the_blank",
+          "instruction": "Write the correct letter, A, B or C.",
+          "content": "human interest <input type='text' data-qid='29' class='ielts-input' />",
+          "answer": "C"
+        },
+        {
+          "id": 30,
+          "type": "fill_in_the_blank",
+          "instruction": "Write the correct letter, A, B or C.",
+          "content": "arts <input type='text' data-qid='30' class='ielts-input' />",
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "part_number": 4,
+      "title": "Early history of keeping clean",
+      "audio_file": "ielts15_test3_audio4.m4a",
+      "passage": "<h3>PART 4</h3><p><strong>Questions 31-40</strong><br>Complete the notes below.<br>Write ONE WORD ONLY for each answer.</p><h3>Early history of keeping clean</h3><p><strong>Prehistoric times:</strong><br>- water was used to wash off <input type='text' data-qid='31' class='ielts-input' /></p><p><strong>Ancient Babylon:</strong><br>- soap-like material found in <input type='text' data-qid='32' class='ielts-input' /> cylinders</p><p><strong>Ancient Greece:</strong><br>- people cleaned themselves with sand and other substances<br>- used a strigil - scraper made of <input type='text' data-qid='33' class='ielts-input' /><br>- washed clothes in streams</p><p><strong>Ancient Germany and Gaul:</strong><br>- used soap to colour their <input type='text' data-qid='34' class='ielts-input' /></p><p><strong>Ancient Rome:</strong><br>- animal fat, ashes and clay mixed through action of rain, used for washing clothes<br>- from about 312 BC, water carried to Roman <input type='text' data-qid='35' class='ielts-input' /> by aqueducts</p><p><strong>Europe in Middle Ages:</strong><br>- decline in bathing contributed to occurrence of <input type='text' data-qid='36' class='ielts-input' /><br>- <input type='text' data-qid='37' class='ielts-input' /> began to be added to soap</p><p><strong>Europe from 17th century:</strong><br>- 1600s: cleanliness and bathing started becoming usual<br>- 1791: Leblanc invented a way of making soda ash from <input type='text' data-qid='38' class='ielts-input' /><br>- early 1800s: Chevreul turned soapmaking into a <input type='text' data-qid='39' class='ielts-input' /><br>- from 1800s, there was no longer a <input type='text' data-qid='40' class='ielts-input' /> on soap</p>",
+      "questions": [
+        {
+          "id": 31,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "water was used to wash off <input type='text' data-qid='31' class='ielts-input' />",
+          "answer": "mud"
+        },
+        {
+          "id": 32,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "soap-like material found in <input type='text' data-qid='32' class='ielts-input' /> cylinders",
+          "answer": "clay"
+        },
+        {
+          "id": 33,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "used a strigil - scraper made of <input type='text' data-qid='33' class='ielts-input' />",
+          "answer": "metal"
+        },
+        {
+          "id": 34,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "used soap to colour their <input type='text' data-qid='34' class='ielts-input' />",
+          "answer": "hair"
+        },
+        {
+          "id": 35,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "from about 312 BC, water carried to Roman <input type='text' data-qid='35' class='ielts-input' /> by aqueducts",
+          "answer": "baths"
+        },
+        {
+          "id": 36,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "decline in bathing contributed to occurrence of <input type='text' data-qid='36' class='ielts-input' />",
+          "answer": "disease"
+        },
+        {
+          "id": 37,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "<input type='text' data-qid='37' class='ielts-input' /> began to be added to soap",
+          "answer": "perfume"
+        },
+        {
+          "id": 38,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "1791: Leblanc invented a way of making soda ash from <input type='text' data-qid='38' class='ielts-input' />",
+          "answer": "salt"
+        },
+        {
+          "id": 39,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "early 1800s: Chevreul turned soapmaking into a <input type='text' data-qid='39' class='ielts-input' />",
+          "answer": "science"
+        },
+        {
+          "id": 40,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "from 1800s, there was no longer a <input type='text' data-qid='40' class='ielts-input' /> on soap",
+          "answer": "tax"
         }
       ]
     }
