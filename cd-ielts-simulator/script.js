@@ -48,32 +48,49 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     const timerInterval = setInterval(updateTimer, 1000);
 
+    // --- MODULE CACHE & STATE ---
+    let currentModule = (mode === 'full' ? 'listening' : mode);
+    const moduleCache = {};
+
     // --- MODULE SWITCHER ---
     const switchers = {
-        'btn-reading': 'view-reading',
-        'btn-listening': 'view-listening',
-        'btn-writing': 'view-writing'
+        'btn-reading': { viewId: 'view-reading', mod: 'reading', name: 'IELTS Academic Reading' },
+        'btn-listening': { viewId: 'view-listening', mod: 'listening', name: 'IELTS Listening' },
+        'btn-writing': { viewId: 'view-writing', mod: 'writing', name: 'IELTS Academic Writing' }
     };
-    const testNames = {
-        'btn-reading': 'IELTS Academic Reading',
-        'btn-listening': 'IELTS Listening',
-        'btn-writing': 'IELTS Academic Writing'
-    };
+
+    async function switchModule(modKey) {
+        currentModule = modKey;
+        currentPartIndex = 0;
+
+        document.querySelectorAll('.switcher-btn').forEach(b => b.classList.remove('active'));
+        document.querySelectorAll('.view-container').forEach(v => {
+            v.classList.remove('active');
+            v.style.display = 'none';
+        });
+
+        const btn = document.getElementById(`btn-${modKey}`);
+        if (btn) btn.classList.add('active');
+
+        const cfg = Object.values(switchers).find(s => s.mod === modKey);
+        if (cfg) {
+            const view = document.getElementById(cfg.viewId);
+            if (view) {
+                view.style.display = view.classList.contains('split-screen') ? 'flex' : 'block';
+                view.classList.add('active');
+            }
+            document.getElementById('current-test-name').textContent = `Cambridge ${book} Test ${test} - ${cfg.name}`;
+        }
+
+        await loadModuleData(modKey);
+    }
 
     document.querySelectorAll('.switcher-btn').forEach(btn => {
         btn.addEventListener('click', (e) => {
-            document.querySelectorAll('.switcher-btn').forEach(b => b.classList.remove('active'));
-            document.querySelectorAll('.view-container').forEach(v => {
-                v.classList.remove('active');
-                v.style.display = 'none';
-            });
-            
-            e.target.classList.add('active');
-            const viewId = switchers[e.target.id];
-            const view = document.getElementById(viewId);
-            view.style.display = view.classList.contains('split-screen') ? 'flex' : 'block';
-            view.classList.add('active');
-            document.getElementById('current-test-name').textContent = `Cambridge ${book} Test ${test} - ${testNames[e.target.id]}`;
+            const targetCfg = switchers[e.target.id];
+            if (targetCfg) {
+                switchModule(targetCfg.mod);
+            }
         });
     });
 
@@ -81,59 +98,71 @@ document.addEventListener('DOMContentLoaded', () => {
     if (mode === 'reading') {
         document.getElementById('btn-listening').style.display = 'none';
         document.getElementById('btn-writing').style.display = 'none';
-        document.getElementById('btn-reading').click();
+        switchModule('reading');
     } else if (mode === 'listening') {
         document.getElementById('btn-reading').style.display = 'none';
         document.getElementById('btn-writing').style.display = 'none';
-        document.getElementById('btn-listening').click();
+        switchModule('listening');
         showSoundCheckModal();
     } else if (mode === 'writing') {
         document.getElementById('btn-reading').style.display = 'none';
         document.getElementById('btn-listening').style.display = 'none';
-        document.getElementById('btn-writing').click();
+        switchModule('writing');
     } else {
-        document.getElementById('btn-listening').click();
+        // Full exam mode: starts with Listening
+        switchModule('listening');
         showSoundCheckModal();
     }
 
     // --- FETCH TEST DATA ---
-    const currentModule = mode === 'full' ? 'reading' : mode;
-    // Try both paths: extracted_data and data/
-    const dataSources = [
-        `../extracted_data/c${book}_test${test}_${currentModule}.json`,
-        `data/c${book}_test${test}.json`,
-        `data/c${book}_test${test}_${currentModule}.json`
-    ];
+    async function loadModuleData(mod) {
+        if (moduleCache[mod]) {
+            testData = moduleCache[mod];
+            initTestEngine();
+            return;
+        }
 
-    async function loadTestData() {
+        const dataSources = [
+            `../extracted_data/c${book}_test${test}_${mod}.json`,
+            `data/c${book}_test${test}_${mod}.json`,
+            `data/c${book}_test${test}.json`
+        ];
+
+        let loaded = false;
         for (const path of dataSources) {
             try {
                 const res = await fetch(path);
                 if (res.ok) {
                     testData = await res.json();
+                    moduleCache[mod] = testData;
                     initTestEngine();
-                    return;
+                    loaded = true;
+                    break;
                 }
             } catch (err) {}
         }
-        // Fallback demo structure if JSON not extracted yet
-        console.warn("Could not fetch remote JSON, loading fallback structure.");
-        testData = createFallbackData(book, test, currentModule);
-        initTestEngine();
-    }
 
-    loadTestData();
+        if (!loaded) {
+            console.warn(`Could not fetch JSON for ${mod}, loading fallback.`);
+            testData = createFallbackData(book, test, mod);
+            moduleCache[mod] = testData;
+            initTestEngine();
+        }
+    }
 
     // --- INITIALIZE TEST ENGINE ---
     function initTestEngine() {
         if (!testData || !testData.parts || testData.parts.length === 0) {
-            document.getElementById('passage-content').innerHTML = '<p style="color:red;">Error: No parts found in test data.</p>';
+            const targetContainer = currentModule === 'reading' ? document.getElementById('passage-content') :
+                                    (currentModule === 'listening' ? document.getElementById('listening-questions-content') :
+                                    document.getElementById('writing-prompt-content'));
+            if (targetContainer) targetContainer.innerHTML = '<p style="color:red;">Error: No parts found in test data.</p>';
             return;
         }
 
         renderPartTabs();
         renderPalette();
-        renderPart(0);
+        renderPart(currentPartIndex);
         restoreSavedInputs();
     }
 
@@ -214,6 +243,28 @@ document.addEventListener('DOMContentLoaded', () => {
                     questionsContainer.appendChild(block);
                 });
             }
+        } else if (currentModule === 'writing') {
+            const promptContainer = document.getElementById('writing-prompt-content');
+            if (promptContainer) {
+                promptContainer.innerHTML = part.passage || (part.questions && part.questions[0] ? part.questions[0].instruction : '') || '<p>No task prompt available.</p>';
+            }
+            const editor = document.getElementById('writing-editor');
+            const wordCountDisplay = document.getElementById('word-count');
+            const taskKey = `writing_task_${index + 1}`;
+            if (editor) {
+                editor.value = answers[taskKey] || '';
+                const text = editor.value.trim();
+                const words = text ? text.split(/\s+/).length : 0;
+                if (wordCountDisplay) wordCountDisplay.textContent = words;
+
+                editor.oninput = () => {
+                    answers[taskKey] = editor.value;
+                    const curText = editor.value.trim();
+                    const count = curText ? curText.split(/\s+/).length : 0;
+                    if (wordCountDisplay) wordCountDisplay.textContent = count;
+                    saveAnswers();
+                };
+            }
         }
 
         attachInputListeners();
@@ -224,6 +275,29 @@ document.addEventListener('DOMContentLoaded', () => {
     function renderPalette() {
         const palette = document.getElementById('question-palette');
         palette.innerHTML = '';
+
+        if (currentModule === 'writing') {
+            [1, 2].forEach(taskNum => {
+                const box = document.createElement('div');
+                box.className = 'q-box';
+                box.id = `qbox-task-${taskNum}`;
+                box.style.width = 'auto';
+                box.style.padding = '0 12px';
+                box.textContent = `Task ${taskNum}`;
+                const taskKey = `writing_task_${taskNum}`;
+                if (answers[taskKey] && answers[taskKey].trim() !== '') {
+                    box.classList.add('answered');
+                }
+                if (currentPartIndex === taskNum - 1) {
+                    box.classList.add('active');
+                }
+                box.addEventListener('click', () => {
+                    switchPart(taskNum - 1);
+                });
+                palette.appendChild(box);
+            });
+            return;
+        }
 
         let totalQuestions = 40;
         // Count actual questions if available
