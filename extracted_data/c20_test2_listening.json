@@ -3,49 +3,316 @@
   "test": 2,
   "module": "Listening",
   "title": "Cambridge 20 Listening Test 2",
-  "_stub": true,
-  "_note": "Placeholder — re-run extractor with valid GEMINI_API_KEY.",
   "parts": [
     {
       "part_number": 1,
-      "title": "[STUB] Cambridge 20 Test 2 Listening",
+      "title": "Questions 1-10",
       "audio_file": "T2S1.m4a",
-      "passage": "<p><strong>[STUB]</strong> Content for Cambridge 20 Test 2 Listening not extracted yet. Run extractor with a valid Gemini API key.</p>",
+      "passage": "<h3>Local councils can arrange practical support to help those caring for elderly people at home.</h3><p>This can give the carer:</p><ul><li>time for other responsibilities</li><li>a <input type='text' data-qid='1' class='ielts-input' /></li></ul><h3>Assessment of mother's needs</h3><p>This may include discussion of:</p><ul><li>how much <input type='text' data-qid='2' class='ielts-input' /> the caring involves</li></ul><h3>What types of tasks are involved, e.g.:</h3><ul><li>help with dressing</li><li>helping her have a <input type='text' data-qid='3' class='ielts-input' /></li><li>shopping</li><li>helping with meals</li><li>dealing with <input type='text' data-qid='4' class='ielts-input' /></li></ul><h3>Any aspects of caring that are especially difficult, e.g.:</h3><ul><li>loss of <input type='text' data-qid='5' class='ielts-input' /></li><li><input type='text' data-qid='6' class='ielts-input' /> her</li><li>preventing a <input type='text' data-qid='7' class='ielts-input' /></li></ul><h3>Types of support that may be offered to carers</h3><ul><li>transport costs, e.g. cost of a <input type='text' data-qid='8' class='ielts-input' /></li><li>car-related costs, e.g. fuel and <input type='text' data-qid='9' class='ielts-input' /></li><li>help with housework</li><li>help to reduce <input type='text' data-qid='10' class='ielts-input' /></li></ul>",
       "questions": [
         {
           "id": 1,
           "type": "fill_in_the_blank",
-          "instruction": "[STUB] Not yet extracted.",
-          "content": "<p><b>1</b> [STUB] <input type='text' data-qid='1' class='ielts-input' /></p>",
-          "answer": ""
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "a <input type='text' data-qid='1' class='ielts-input' />",
+          "answer": "break"
         },
         {
           "id": 2,
           "type": "fill_in_the_blank",
-          "instruction": "[STUB] Not yet extracted.",
-          "content": "<p><b>2</b> [STUB] <input type='text' data-qid='2' class='ielts-input' /></p>",
-          "answer": ""
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "how much <input type='text' data-qid='2' class='ielts-input' /> the caring involves",
+          "answer": "time"
         },
         {
           "id": 3,
           "type": "fill_in_the_blank",
-          "instruction": "[STUB] Not yet extracted.",
-          "content": "<p><b>3</b> [STUB] <input type='text' data-qid='3' class='ielts-input' /></p>",
-          "answer": ""
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "helping her have a <input type='text' data-qid='3' class='ielts-input' />",
+          "answer": "shower"
         },
         {
           "id": 4,
           "type": "fill_in_the_blank",
-          "instruction": "[STUB] Not yet extracted.",
-          "content": "<p><b>4</b> [STUB] <input type='text' data-qid='4' class='ielts-input' /></p>",
-          "answer": ""
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "dealing with <input type='text' data-qid='4' class='ielts-input' />",
+          "answer": "money"
         },
         {
           "id": 5,
           "type": "fill_in_the_blank",
-          "instruction": "[STUB] Not yet extracted.",
-          "content": "<p><b>5</b> [STUB] <input type='text' data-qid='5' class='ielts-input' /></p>",
-          "answer": ""
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "loss of <input type='text' data-qid='5' class='ielts-input' />",
+          "answer": "memory"
+        },
+        {
+          "id": 6,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "<input type='text' data-qid='6' class='ielts-input' /> her",
+          "answer": "lifting"
+        },
+        {
+          "id": 7,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "preventing a <input type='text' data-qid='7' class='ielts-input' />",
+          "answer": "fall"
+        },
+        {
+          "id": 8,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "transport costs, e.g. cost of a <input type='text' data-qid='8' class='ielts-input' />",
+          "answer": "taxi"
+        },
+        {
+          "id": 9,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "car-related costs, e.g. fuel and <input type='text' data-qid='9' class='ielts-input' />",
+          "answer": "insurance"
+        },
+        {
+          "id": 10,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "help to reduce <input type='text' data-qid='10' class='ielts-input' />",
+          "answer": "stress"
+        }
+      ]
+    },
+    {
+      "part_number": 2,
+      "title": "Questions 11-20",
+      "audio_file": "T2S2.m4a",
+      "passage": "<h3>Information</h3><p><b>A</b> providing entertainment<br><b>B</b> providing publicity about a council service<br><b>C</b> contacting local businesses<br><b>D</b> giving advice to visitors<br><b>E</b> collecting feedback on events<br><b>F</b> selling tickets<br><b>G</b> introducing guest speakers at an event<br><b>H</b> encouraging cooperation between local organisations<br><b>I</b> helping people find their seats</p>",
+      "questions": [
+        {
+          "id": 11,
+          "type": "fill_in_the_blank",
+          "instruction": "Choose SIX answers from the box and write the correct letter, A-I, next to Questions 11-16.",
+          "content": "walking around the town centre <input type='text' data-qid='11' class='ielts-input' />",
+          "answer": "D"
+        },
+        {
+          "id": 12,
+          "type": "fill_in_the_blank",
+          "instruction": "Choose SIX answers from the box and write the correct letter, A-I, next to Questions 11-16.",
+          "content": "helping at concerts <input type='text' data-qid='12' class='ielts-input' />",
+          "answer": "I"
+        },
+        {
+          "id": 13,
+          "type": "fill_in_the_blank",
+          "instruction": "Choose SIX answers from the box and write the correct letter, A-I, next to Questions 11-16.",
+          "content": "getting involved with community groups <input type='text' data-qid='13' class='ielts-input' />",
+          "answer": "H"
+        },
+        {
+          "id": 14,
+          "type": "fill_in_the_blank",
+          "instruction": "Choose SIX answers from the box and write the correct letter, A-I, next to Questions 11-16.",
+          "content": "helping with a magazine <input type='text' data-qid='14' class='ielts-input' />",
+          "answer": "E"
+        },
+        {
+          "id": 15,
+          "type": "fill_in_the_blank",
+          "instruction": "Choose SIX answers from the box and write the correct letter, A-I, next to Questions 11-16.",
+          "content": "participating at lunches for retired people <input type='text' data-qid='15' class='ielts-input' />",
+          "answer": "A"
+        },
+        {
+          "id": 16,
+          "type": "fill_in_the_blank",
+          "instruction": "Choose SIX answers from the box and write the correct letter, A-I, next to Questions 11-16.",
+          "content": "helping with the website <input type='text' data-qid='16' class='ielts-input' />",
+          "answer": "B"
+        },
+        {
+          "id": 17,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "Which event requires the largest number of volunteers?<br><label><input type='radio' name='q17' value='A'> A. the music festival</label><br><label><input type='radio' name='q17' value='B'> B. the science festival</label><br><label><input type='radio' name='q17' value='C'> C. the book festival</label><br>",
+          "answer": "B"
+        },
+        {
+          "id": 18,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "What is the most important requirement for volunteers at the festivals?<br><label><input type='radio' name='q18' value='A'> A. interpersonal skills</label><br><label><input type='radio' name='q18' value='B'> B. personal interest in the event</label><br><label><input type='radio' name='q18' value='C'> C. flexibility</label><br>",
+          "answer": "A"
+        },
+        {
+          "id": 19,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "New volunteers will start working in the week beginning<br><label><input type='radio' name='q19' value='A'> A. 2 September.</label><br><label><input type='radio' name='q19' value='B'> B. 9 September.</label><br><label><input type='radio' name='q19' value='C'> C. 23 September.</label><br>",
+          "answer": "B"
+        },
+        {
+          "id": 20,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "What is the next annual event for volunteers?<br><label><input type='radio' name='q20' value='A'> A. a boat trip</label><br><label><input type='radio' name='q20' value='B'> B. a barbecue</label><br><label><input type='radio' name='q20' value='C'> C. a party</label><br>",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "part_number": 3,
+      "title": "Questions 21-30",
+      "audio_file": "T2S3.m4a",
+      "passage": "<h3>Opinion</h3><p><b>A</b> The information given about this was too vague.<br><b>B</b> This may not be relevant to their course.<br><b>C</b> This will involve only a small number of statistics.<br><b>D</b> It will be easy to find facts about this.<br><b>E</b> The facts about this may not be reliable.<br><b>F</b> No useful research has been done on this.<br><b>G</b> The information provided about this was interesting.</p>",
+      "questions": [
+        {
+          "id": 21,
+          "type": "fill_in_the_blank",
+          "instruction": "Choose FIVE answers from the box and write the correct letter, A-G, next to Questions 21-25.",
+          "content": "Population <input type='text' data-qid='21' class='ielts-input' />",
+          "answer": "D"
+        },
+        {
+          "id": 22,
+          "type": "fill_in_the_blank",
+          "instruction": "Choose FIVE answers from the box and write the correct letter, A-G, next to Questions 21-25.",
+          "content": "Health <input type='text' data-qid='22' class='ielts-input' />",
+          "answer": "G"
+        },
+        {
+          "id": 23,
+          "type": "fill_in_the_blank",
+          "instruction": "Choose FIVE answers from the box and write the correct letter, A-G, next to Questions 21-25.",
+          "content": "Economies <input type='text' data-qid='23' class='ielts-input' />",
+          "answer": "B"
+        },
+        {
+          "id": 24,
+          "type": "fill_in_the_blank",
+          "instruction": "Choose FIVE answers from the box and write the correct letter, A-G, next to Questions 21-25.",
+          "content": "Culture <input type='text' data-qid='24' class='ielts-input' />",
+          "answer": "A"
+        },
+        {
+          "id": 25,
+          "type": "fill_in_the_blank",
+          "instruction": "Choose FIVE answers from the box and write the correct letter, A-G, next to Questions 21-25.",
+          "content": "Poverty <input type='text' data-qid='25' class='ielts-input' />",
+          "answer": "E"
+        },
+        {
+          "id": 26,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "Rosie says that in her own city the main problem is<br><label><input type='radio' name='q26' value='A'> A. crime.</label><br><label><input type='radio' name='q26' value='B'> B. housing.</label><br><label><input type='radio' name='q26' value='C'> C. unemployment.</label><br>",
+          "answer": "C"
+        },
+        {
+          "id": 27,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "What recent additions to the outskirts of their cities are both students happy about?<br><label><input type='radio' name='q27' value='A'> A. conference centres</label><br><label><input type='radio' name='q27' value='B'> B. sports centres</label><br><label><input type='radio' name='q27' value='C'> C. retail centres</label><br>",
+          "answer": "A"
+        },
+        {
+          "id": 28,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "The students agree that developing disused industrial sites may<br><label><input type='radio' name='q28' value='A'> A. have unexpected costs.</label><br><label><input type='radio' name='q28' value='B'> B. damage the urban environment.</label><br><label><input type='radio' name='q28' value='C'> C. destroy valuable historical buildings.</label><br>",
+          "answer": "A"
+        },
+        {
+          "id": 29,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "The students will mention Masdar City as an example of an attempt to achieve<br><label><input type='radio' name='q29' value='A'> A. daily collections for waste recycling.</label><br><label><input type='radio' name='q29' value='B'> B. sustainable energy use.</label><br><label><input type='radio' name='q29' value='C'> C. free transport for everyone.</label><br>",
+          "answer": "B"
+        },
+        {
+          "id": 30,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "When discussing the ecotown of Greenhill Abbots, Colin is uncertain about<br><label><input type='radio' name='q30' value='A'> A. what its objectives were.</label><br><label><input type='radio' name='q30' value='B'> B. why there was opposition to it.</label><br><label><input type='radio' name='q30' value='C'> C. how much of it has actually been built.</label><br>",
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "part_number": 4,
+      "title": "Questions 31-40",
+      "audio_file": "T2S4.m4a",
+      "passage": "<h3>Developing food trends</h3><p>The growth in interest in food fashions started with <input type='text' data-qid='31' class='ielts-input' /> of food being shared on social media.</p><p>The UK food industry is constantly developing products which are new or different.</p><p>Influencers on social media become 'ambassadors' for a brand.</p><p>Sales of <input type='text' data-qid='32' class='ielts-input' /> food brands have grown rapidly this way.</p><p>Supermarkets track demand for ingredients on social media.</p><p>Famous <input type='text' data-qid='33' class='ielts-input' /> are influential.</p><h3>Marketing campaigns</h3><h4>The avocado:</h4><ul><li><input type='text' data-qid='34' class='ielts-input' /> were invited to visit growers in South Africa.</li><li>Advertising focused on its <input type='text' data-qid='35' class='ielts-input' /> benefits.</li></ul><h4>Oat milk:</h4><ul><li>A Swedish brand's media campaign received publicity by upsetting competitors.</li><li>Promotion in the USA through <input type='text' data-qid='36' class='ielts-input' /> shops reduced the need for advertising.</li><li>It appealed to consumers who are concerned about the <input type='text' data-qid='37' class='ielts-input' />.</li></ul><h4>Norwegian skrei:</h4><ul><li>has helped strengthen the <input type='text' data-qid='38' class='ielts-input' /> of Norwegian seafood.</li><li>Ethical concerns</li></ul><h4>Quinoa:</h4><ul><li>Its success led to an increase in its <input type='text' data-qid='39' class='ielts-input' />.</li><li>Overuse of resources resulted in poor quality <input type='text' data-qid='40' class='ielts-input' />.</li></ul>",
+      "questions": [
+        {
+          "id": 31,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "The growth in interest in food fashions started with <input type='text' data-qid='31' class='ielts-input' /> of food being shared on social media.",
+          "answer": "photos"
+        },
+        {
+          "id": 32,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "Sales of <input type='text' data-qid='32' class='ielts-input' /> food brands have grown rapidly this way.",
+          "answer": "vegan"
+        },
+        {
+          "id": 33,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "Famous <input type='text' data-qid='33' class='ielts-input' /> are influential.",
+          "answer": "chefs"
+        },
+        {
+          "id": 34,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "<input type='text' data-qid='34' class='ielts-input' /> were invited to visit growers in South Africa.",
+          "answer": "journalists"
+        },
+        {
+          "id": 35,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "Advertising focused on its <input type='text' data-qid='35' class='ielts-input' /> benefits.",
+          "answer": "health"
+        },
+        {
+          "id": 36,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "Promotion in the USA through <input type='text' data-qid='36' class='ielts-input' /> shops reduced the need for advertising.",
+          "answer": "coffee"
+        },
+        {
+          "id": 37,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "It appealed to consumers who are concerned about the <input type='text' data-qid='37' class='ielts-input' />.",
+          "answer": "environment"
+        },
+        {
+          "id": 38,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "has helped strengthen the <input type='text' data-qid='38' class='ielts-input' /> of Norwegian seafood.",
+          "answer": "reputation"
+        },
+        {
+          "id": 39,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "Its success led to an increase in its <input type='text' data-qid='39' class='ielts-input' />.",
+          "answer": "price"
+        },
+        {
+          "id": 40,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "Overuse of resources resulted in poor quality <input type='text' data-qid='40' class='ielts-input' />.",
+          "answer": "soil"
         }
       ]
     }

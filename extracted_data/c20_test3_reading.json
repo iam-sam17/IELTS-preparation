@@ -3,49 +3,308 @@
   "test": 3,
   "module": "Reading",
   "title": "Cambridge 20 Reading Test 3",
-  "_stub": true,
-  "_note": "Placeholder — re-run extractor with valid GEMINI_API_KEY.",
   "parts": [
     {
       "part_number": 1,
-      "title": "[STUB] Cambridge 20 Test 3 Reading",
-      "audio_file": "T3S1.m4a",
-      "passage": "<p><strong>[STUB]</strong> Content for Cambridge 20 Test 3 Reading not extracted yet. Run extractor with a valid Gemini API key.</p>",
+      "title": "Frozen Food",
+      "audio_file": "",
+      "passage": "<h3>Frozen Food</h3><p><em>A US perspective on the development of the frozen food industry</em></p><p>At some point in history, humans discovered that ice preserved food. There is evidence that winter ice was stored to preserve food in the summer as far back as 10,000 years ago. Two thousand years ago, the inhabitants of South America's Andean mountains had a unique means of conserving potatoes for later consumption. They froze them overnight, then trampled them to squeeze out the moisture, then dried them in the sun. This preserved their nutritional value—if not their aesthetic appeal.</p><p>Natural ice remained the main form of refrigeration until late in the 19th century. In the early 1800s, ship owners from Boston, USA, had enormous blocks of Arctic ice towed all over the Atlantic for the purpose of food preservation. In 1851, railroads first began putting blocks of ice in insulated rail cars to send butter from Ogdensburg, New York, to Boston.</p><p>Finally, in 1870, Australian inventors found a way to make 'mechanical ice'. They used a compressor to force a gas—ammonia at first and later Freon—through a condenser. The compressed gas gave up some of its heat as it moved through the condenser. Then the gas was released quickly into a low-pressure evaporator coil where it became liquid and cold. Air was blown over the evaporator coil and then this cooled air passed into an insulated compartment, lowering its temperature to freezing point.</p><p>Initially, this process was invented to keep Australian beer cool even in hot weather. But Australian cattlemen were quick to realize that, if they could put this new invention on a ship, they could export meat across the oceans. In 1880, a shipment of Australian beef and mutton was sent, frozen, to England. While the food frozen this way was still palatable, there was some deterioration. During the freezing process, crystals formed within the cells of the food, and when the ice expanded and the cells burst, this spoilt the flavor and texture of the food.</p><p>The modern frozen food industry began with the indigenous Inuit people of Canada. In 1912, a biology student in Massachusetts, USA, named Clarence Birdseye, ran out of money and went to Labrador in Canada to trap and trade furs. While he was there, he became fascinated with how the Inuit would quickly freeze fish in the Arctic air. The fish looked and tasted fresh even months later.</p><p>Birdseye returned to the USA in 1917 and began developing mechanical freezers capable of quick-freezing food. Birdseye methodically kept inventing better freezers and gradually built a business selling frozen fish from Gloucester, Massachusetts. In 1929, his business was sold and became General Foods, but he stayed with the company as director of research, and his division continued to innovate.</p><p>Birdseye was responsible for several key innovations that made the frozen food industry possible. He developed quick-freezing techniques that reduced the damage that crystals caused, as well as the technique of freezing the product in the package it was to be sold in. He also introduced the use of cellophane, the first transparent material for food packaging, which allowed consumers to see the quality of the product. Birdseye products also came in convenient size packages that could be prepared with a minimum of effort.</p><p>But there were still obstacles. In the 1930s, few grocery stores could afford to buy freezers for a market that wasn't established yet. So, Birdseye leased inexpensive freezer cases to them. He also leased insulated railroad cars so that he could ship his products nationwide. However, few consumers had freezers large enough or efficient enough to take advantage of the products.</p><p>Sales increased in the early 1940s, when World War II gave a boost to the frozen food industry because tin was being used for munitions. Canned foods were rationed to save tin for the war effort, while frozen foods were abundant and cheap.</p><p>Finally, by the 1950s, refrigerator technology had developed far enough to make these appliances affordable for the average family. By 1953, 33 million US families owned a refrigerator, and manufacturers were gradually increasing the size of the freezer compartments in them.</p><p>1950s families were also looking for convenience at mealtimes, so the moment was right for the arrival of the 'TV Dinner'. Swanson Foods was a large, nationally recognized producer of canned and frozen poultry. In 1954, the company adapted some of Birdseye's freezing techniques, and with the help of a clever name and a huge advertising budget, it launched the first 'TV Dinner'. This consisted of frozen turkey, potatoes and vegetables served in the same segmented aluminum tray that was used by airlines. The product was an instant success. Within a year, Swanson had sold 13 million TV dinners. American consumers couldn't resist the combination of a trusted brand name, a single-serving package and the convenience of a meal that could be ready after only 25 minutes in a hot oven. By 1959, Americans were spending $2.7 billion annually on frozen foods, and half a billion of that was spent on ready-prepared meals such as the TV Dinner.</p><p>Today, the US frozen food industry has a turnover of over $67 billion annually, with $26.6 billion of that sold to consumers for home consumption. The remaining $40 billion in frozen food sales come through restaurants, cafeterias, hospitals and schools, and that represents a third of the total food service sales.</p>",
       "questions": [
         {
           "id": 1,
-          "type": "fill_in_the_blank",
-          "instruction": "[STUB] Not yet extracted.",
-          "content": "<p><b>1</b> [STUB] <input type='text' data-qid='1' class='ielts-input' /></p>",
-          "answer": ""
+          "type": "summary_completion",
+          "instruction": "Complete the notes below. Choose ONE WORD ONLY from the passage for each answer.",
+          "content": "People conserved the nutritional value of <input type='text' data-qid='1' class='ielts-input' />, using a method of freezing then drying.",
+          "answer": "potatoes"
         },
         {
           "id": 2,
-          "type": "fill_in_the_blank",
-          "instruction": "[STUB] Not yet extracted.",
-          "content": "<p><b>2</b> [STUB] <input type='text' data-qid='2' class='ielts-input' /></p>",
-          "answer": ""
+          "type": "summary_completion",
+          "instruction": "Complete the notes below. Choose ONE WORD ONLY from the passage for each answer.",
+          "content": "<input type='text' data-qid='2' class='ielts-input' /> was kept cool by ice during transportation in specially adapted trains.",
+          "answer": "butter"
         },
         {
           "id": 3,
-          "type": "fill_in_the_blank",
-          "instruction": "[STUB] Not yet extracted.",
-          "content": "<p><b>3</b> [STUB] <input type='text' data-qid='3' class='ielts-input' /></p>",
-          "answer": ""
+          "type": "summary_completion",
+          "instruction": "Complete the notes below. Choose ONE WORD ONLY from the passage for each answer.",
+          "content": "Two kinds of <input type='text' data-qid='3' class='ielts-input' /> were the first frozen food shipped to England.",
+          "answer": "meat"
         },
         {
           "id": 4,
-          "type": "fill_in_the_blank",
-          "instruction": "[STUB] Not yet extracted.",
-          "content": "<p><b>4</b> [STUB] <input type='text' data-qid='4' class='ielts-input' /></p>",
-          "answer": ""
+          "type": "summary_completion",
+          "instruction": "Complete the notes below. Choose ONE WORD ONLY from the passage for each answer.",
+          "content": "quick-freezing methods, so that <input type='text' data-qid='4' class='ielts-input' /> did not spoil the food.",
+          "answer": "crystals"
         },
         {
           "id": 5,
+          "type": "summary_completion",
+          "instruction": "Complete the notes below. Choose ONE WORD ONLY from the passage for each answer.",
+          "content": "packaging products with <input type='text' data-qid='5' class='ielts-input' />, so the product was visible.",
+          "answer": "cellophane"
+        },
+        {
+          "id": 6,
+          "type": "summary_completion",
+          "instruction": "Complete the notes below. Choose ONE WORD ONLY from the passage for each answer.",
+          "content": "Frozen food became popular because of a shortage of <input type='text' data-qid='6' class='ielts-input' />.",
+          "answer": "tin"
+        },
+        {
+          "id": 7,
+          "type": "summary_completion",
+          "instruction": "Complete the notes below. Choose ONE WORD ONLY from the passage for each answer.",
+          "content": "A large number of homes now had a <input type='text' data-qid='7' class='ielts-input' />.",
+          "answer": "refrigerator"
+        },
+        {
+          "id": 8,
+          "type": "true_false_not_given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+          "content": "<label><input type='radio' name='q8' value='TRUE'> TRUE</label><br><label><input type='radio' name='q8' value='FALSE'> FALSE</label><br><label><input type='radio' name='q8' value='NOT GIVEN'> NOT GIVEN</label>",
+          "answer": "NOT GIVEN"
+        },
+        {
+          "id": 9,
+          "type": "true_false_not_given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+          "content": "<label><input type='radio' name='q9' value='TRUE'> TRUE</label><br><label><input type='radio' name='q9' value='FALSE'> FALSE</label><br><label><input type='radio' name='q9' value='NOT GIVEN'> NOT GIVEN</label>",
+          "answer": "TRUE"
+        },
+        {
+          "id": 10,
+          "type": "true_false_not_given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+          "content": "<label><input type='radio' name='q10' value='TRUE'> TRUE</label><br><label><input type='radio' name='q10' value='FALSE'> FALSE</label><br><label><input type='radio' name='q10' value='NOT GIVEN'> NOT GIVEN</label>",
+          "answer": "FALSE"
+        },
+        {
+          "id": 11,
+          "type": "true_false_not_given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+          "content": "<label><input type='radio' name='q11' value='TRUE'> TRUE</label><br><label><input type='radio' name='q11' value='FALSE'> FALSE</label><br><label><input type='radio' name='q11' value='NOT GIVEN'> NOT GIVEN</label>",
+          "answer": "TRUE"
+        },
+        {
+          "id": 12,
+          "type": "true_false_not_given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+          "content": "<label><input type='radio' name='q12' value='TRUE'> TRUE</label><br><label><input type='radio' name='q12' value='FALSE'> FALSE</label><br><label><input type='radio' name='q12' value='NOT GIVEN'> NOT GIVEN</label>",
+          "answer": "FALSE"
+        },
+        {
+          "id": 13,
+          "type": "true_false_not_given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+          "content": "<label><input type='radio' name='q13' value='TRUE'> TRUE</label><br><label><input type='radio' name='q13' value='FALSE'> FALSE</label><br><label><input type='radio' name='q13' value='NOT GIVEN'> NOT GIVEN</label>",
+          "answer": "NOT GIVEN"
+        }
+      ]
+    },
+    {
+      "part_number": 2,
+      "title": "Can the planet's coral reefs be saved?",
+      "audio_file": "",
+      "passage": "<h3>Can the planet's coral reefs be saved?</h3><p><b>A</b> Conservationists have put the final touches to a giant artificial reef they have been assembling at the world-renowned Zoological Society of London (London Zoo). Samples of the planet's most spectacular corals – vivid green branching coral, yellow scroll, blue ridge and many more species – have been added to the giant tank along with fish that thrive in their presence: blue tang, clownfish and many others. The reef is in the zoo's new gallery, Tiny Giants, which is dedicated to the minuscule invertebrate creatures that sustain life across the planet. The coral reef tank and its seven-metre-wide window form the core of the exhibition.</p><p>'Coral reefs are the most diverse ecosystems on Earth and we want to show people how wonderful they are,' said Paul Pearce-Kelly, senior curator of invertebrates and fish at the Zoological Society of London. 'However, we also want to highlight the research and conservation efforts that are now being carried out to try to save them from the threat of global warming.' They want people to see what is being done to try to save these wonders.</p><p><b>B</b> Corals are composed of tiny animals, known as polyps, with tentacles for capturing small marine creatures in the sea water. These polyps are transparent but get their brilliant tones of pink, orange, blue, green, etc. from algae that live within them, which in turn get protection, while their photosynthesising of the sun's rays provides nutrients for the polyps. This comfortable symbiotic relationship has led to the growth of coral reefs that cover 0.1% of the planet's ocean bed while providing homes for more than 25% of marine species, including fish, molluscs, sponges and shellfish.</p><p><b>C</b> As a result, coral reefs are often described as the 'rainforests of the sea', though the comparison is dismissed by some naturalists, including David Attenborough. 'People say you cannot beat the rainforest,' Attenborough has stated. 'But that is simply not true. You go there and the first thing you think is: where ... are the birds? Where are the animals? They are hiding in the trees, of course. No, if you want beauty and wildlife, you want a coral reef. Put on a mask and stick your head under the water. The sight is mind-blowing.'</p><p><b>D</b> Unfortunately, these majestic sights are now under very serious threat, with the most immediate problem coming in the form of thermal stress. Rising ocean temperatures are triggering bleaching events that strip reefs of their colour and eventually kill them. And that is just the start. Other menaces include ocean acidification, sea level increase, pollution by humans, deoxygenation and ocean current changes, while the climate crisis is also increasing habitat destruction. As a result, vast areas – including massive chunks of Australia's Great Barrier Reef – have already been destroyed, and scientists advise that more than 90% of reefs could be lost by 2050 unless urgent action is taken to tackle global heating and greenhouse gas emissions.</p><p>Pearce-Kelly says that coral reefs have to survive really harsh conditions – wave erosion and other factors. And 'when things start to go wrong in the oceans, then corals will be the first to react. And that is exactly what we are seeing now. Coral reefs are dying and they are telling us that all is not well with our planet.'</p><p><b>E</b> However, scientists are trying to pinpoint hardy types of coral that could survive our overheated oceans, and some of this research will be carried out at London Zoo. 'Behind our ... coral reef tank we have built laboratories where scientists will be studying coral species,' said Pearce-Kelly. One aim will be to carry out research on species to find those that can survive best in warm, acidic waters. Another will be to try to increase coral breeding rates. 'Coral spawn just once a year,' he added. 'However, aquarium-based research has enabled some corals to spawn artificially, which can assist coral reef restoration efforts. And if this can be extended for all species, we could consider the launching of coral-spawning programmes several times a year. That would be a big help in restoring blighted reefs.'</p><p><b>F</b> Research in these fields is being conducted in laboratories around the world, with the London Zoo centre linked to this global network. Studies carried out in one centre can then be tested in others. The resulting young coral can then be displayed in the tank in Tiny Giants. 'The crucial point is that the progress we make in making coral better able to survive in a warming world can be shown to the public and encourage them to believe that we can do something to save the planet's reefs,' said Pearce-Kelly. 'Saving our coral reefs is now a critically important ecological goal.'</p>",
+      "questions": [
+        {
+          "id": 14,
+          "type": "matching_headings",
+          "instruction": "Reading Passage 2 has six paragraphs, A-F. Choose the correct heading for each paragraph from the list of headings below (i-vii).",
+          "content": "Paragraph A",
+          "answer": "v"
+        },
+        {
+          "id": 15,
+          "type": "matching_headings",
+          "instruction": "Reading Passage 2 has six paragraphs, A-F. Choose the correct heading for each paragraph from the list of headings below (i-vii).",
+          "content": "Paragraph B",
+          "answer": "ii"
+        },
+        {
+          "id": 16,
+          "type": "matching_headings",
+          "instruction": "Reading Passage 2 has six paragraphs, A-F. Choose the correct heading for each paragraph from the list of headings below (i-vii).",
+          "content": "Paragraph C",
+          "answer": "iv"
+        },
+        {
+          "id": 17,
+          "type": "matching_headings",
+          "instruction": "Reading Passage 2 has six paragraphs, A-F. Choose the correct heading for each paragraph from the list of headings below (i-vii).",
+          "content": "Paragraph D",
+          "answer": "vii"
+        },
+        {
+          "id": 18,
+          "type": "matching_headings",
+          "instruction": "Reading Passage 2 has six paragraphs, A-F. Choose the correct heading for each paragraph from the list of headings below (i-vii).",
+          "content": "Paragraph E",
+          "answer": "iii"
+        },
+        {
+          "id": 19,
+          "type": "matching_headings",
+          "instruction": "Reading Passage 2 has six paragraphs, A-F. Choose the correct heading for each paragraph from the list of headings below (i-vii).",
+          "content": "Paragraph F",
+          "answer": "vi"
+        },
+        {
+          "id": 20,
+          "type": "multiple_choice",
+          "instruction": "Which TWO of these causes of damage to coral reefs are mentioned by the writer of the text? Choose TWO letters, A-E.",
+          "content": "<label><input type='checkbox' name='q20' value='A'> A. arising number of extreme storms</label><br><label><input type='checkbox' name='q20' value='B'> B. the removal of too many fish from the sea</label><br><label><input type='checkbox' name='q20' value='C'> C. the contamination of the sea from waste</label><br><label><input type='checkbox' name='q20' value='D'> D. increased disease among marine species</label><br><label><input type='checkbox' name='q20' value='E'> E. alterations in the usual flow of water in the seas</label>",
+          "answer": "CE"
+        },
+        {
+          "id": 21,
+          "type": "multiple_choice",
+          "instruction": "Which TWO of these causes of damage to coral reefs are mentioned by the writer of the text? Choose TWO letters, A-E.",
+          "content": "<label><input type='checkbox' name='q21' value='A'> A. arising number of extreme storms</label><br><label><input type='checkbox' name='q21' value='B'> B. the removal of too many fish from the sea</label><br><label><input type='checkbox' name='q21' value='C'> C. the contamination of the sea from waste</label><br><label><input type='checkbox' name='q21' value='D'> D. increased disease among marine species</label><br><label><input type='checkbox' name='q21' value='E'> E. alterations in the usual flow of water in the seas</label>",
+          "answer": "CE"
+        },
+        {
+          "id": 22,
+          "type": "multiple_choice",
+          "instruction": "Which TWO of the following statements are true of the researchers at London Zoo? Choose TWO letters, A-E.",
+          "content": "<label><input type='checkbox' name='q22' value='A'> A. They are hoping to expand the numbers of different corals being bred in laboratories.</label><br><label><input type='checkbox' name='q22' value='B'> B. They want to identify corals that can cope well with the changed sea conditions.</label><br><label><input type='checkbox' name='q22' value='C'> C. They are looking at ways of creating artificial reefs that corals could grow on.</label><br><label><input type='checkbox' name='q22' value='D'> D. They are trying out methods that would speed up reproduction in some corals.</label><br><label><input type='checkbox' name='q22' value='E'> E. They are investigating materials that might protect reefs from higher temperatures.</label>",
+          "answer": "BD"
+        },
+        {
+          "id": 23,
+          "type": "multiple_choice",
+          "instruction": "Which TWO of the following statements are true of the researchers at London Zoo? Choose TWO letters, A-E.",
+          "content": "<label><input type='checkbox' name='q23' value='A'> A. They are hoping to expand the numbers of different corals being bred in laboratories.</label><br><label><input type='checkbox' name='q23' value='B'> B. They want to identify corals that can cope well with the changed sea conditions.</label><br><label><input type='checkbox' name='q23' value='C'> C. They are looking at ways of creating artificial reefs that corals could grow on.</label><br><label><input type='checkbox' name='q23' value='D'> D. They are trying out methods that would speed up reproduction in some corals.</label><br><label><input type='checkbox' name='q23' value='E'> E. They are investigating materials that might protect reefs from higher temperatures.</label>",
+          "answer": "BD"
+        },
+        {
+          "id": 24,
           "type": "fill_in_the_blank",
-          "instruction": "[STUB] Not yet extracted.",
-          "content": "<p><b>5</b> [STUB] <input type='text' data-qid='5' class='ielts-input' /></p>",
-          "answer": ""
+          "instruction": "Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer.",
+          "content": "Corals have a number of <input type='text' data-qid='24' class='ielts-input' /> which they use to collect their food.",
+          "answer": "tentacles"
+        },
+        {
+          "id": 25,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer.",
+          "content": "Algae gain <input type='text' data-qid='25' class='ielts-input' /> from being inside the coral.",
+          "answer": "protection"
+        },
+        {
+          "id": 26,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer.",
+          "content": "Increases in the warmth of the sea water can remove the <input type='text' data-qid='26' class='ielts-input' /> from coral.",
+          "answer": "colour"
+        }
+      ]
+    },
+    {
+      "part_number": 3,
+      "title": "Robots and us",
+      "audio_file": "",
+      "passage": "<h3>Robots and us</h3><p><em>Three leaders in their fields answer questions about our relationships with robots.</em></p><p>When asked 'Should robots be used to colonise other planets?', cosmology and astrophysics Professor Martin Rees said he believed the solar system would be mapped by robotic craft by the end of the century. 'The next step would be mining of asteroids, enabling fabrication of large structures in space without having to bring all the raw materials from Earth. ... I think this is more realistic and benign than the ... \"terraforming\" of planets.' He maintains that colonised planets 'should be preserved with a status that is analogous to Antarctica here on Earth.'</p><p>On the question of using robots to colonise other planets and exploit mineral resources, engineering Professor Daniel Wolpert replied, 'I don't see a pressing need to colonise other planets unless we can bring [these] resources back to Earth. The vast majority of Earth is currently inaccessible to us. Using robots to gather resources nearer to home would seem to be a better use of our robotic tools.'</p><p>Meanwhile, for anthropology Professor Kathleen Richardson, the idea of 'colonisation' of other planets seemed morally dubious: 'I think whether we do something on Earth or on Mars we should always do it in the spirit of a genuine interest in \"the Other\", not to impose a particular model, but to meet \"the Other\".'</p><p>In response to the second question, 'How soon will machine intelligence outstrip human intelligence?', Rees mentions robots that are advanced enough to beat humans at chess, but then goes on to say, 'Robots are still limited in their ability to sense their environment: they can't yet recognise and move the pieces on a real chessboard as cleverly as a child can. Later this century, however, their more advanced successors may relate to their surroundings, and to people, as adeptly as we do. Moral questions then arise. ... Should we feel guilty about exploiting [sophisticated robots]? Should we fret if they are underemployed, frustrated, or bored?'</p><p>Wolpert's response to the question about machine intelligence outstripping human intelligence was this: 'In a limited sense it already has. Machines can already navigate, remember and search for items with an ability that far outstrips humans. However, there is no machine that can identify visual objects or speech with the reliability and flexibility of humans. ... Expecting a machine close to the creative intelligence of a human within the next 50 years would be highly ambitious.'</p><p>Richardson believes that our fear of machines becoming too advanced has more to do with human nature than anything intrinsic to the machines themselves. In her view, it stems from humans' tendency to personify inanimate objects: we create machines based on representations of ourselves, imagine that machines think and behave as we do, and therefore see them as an autonomous threat. 'One of the consequences of thinking that the problem lies with machines is that ... we tend to imagine they are greater and more powerful than they really are and subsequently they become so.'</p><p>This led on to the third question, 'Should we be scared by advances in artificial intelligence?' To this question, Rees replied, 'Those who should be worried are the futurologists who believe in the so-called \"singularity\". ... And another worry is that we are increasingly dependent on computer networks, and that these could behave like a single \"brain\" with a mind of its own, and with goals that may be contrary to human welfare. I think we should ensure that robots remain as no more than \"idiot savants\" lacking the capacity to outwit us, even though they may greatly surpass us in the ability to calculate and process information.'</p><p>Wolpert's response was to say that we have already seen the damaging effects of artificial intelligence in the form of computer viruses. 'But in this case,' he says, 'the real intelligence is the malicious designer. Critically, the benefits of computers outweigh the damage that computer viruses cause. Similarly, while there may be misuses of robotics in the near future, the benefits that they will bring are likely to outweigh these negative aspects.'</p><p>Richardson's response to this question was this: 'We need to ask why fears of artificial intelligence and robots persist; none have in fact risen up and challenged human supremacy.' She believes that as robots have never shown themselves to be a threat to humans, it seems unlikely that they ever will. In fact, she went on, 'Not all fear [robots]; many people welcome machine intelligence.'</p><p>In answer to the fourth question, 'What can science fiction tell us about robotics?', Rees replied, 'I sometimes advise students that it's better to read first-rate science fiction than second-rate science fiction - more stimulating, and perhaps no more likely to be wrong.'</p><p>As his response, Wolpert commented, 'Science fiction has often been remarkable at predicting the future. ... Science fiction has painted a vivid spectrum of possible futures, from cute and helpful robots to dystopian robotic societies. Interestingly, almost no science fiction envisages a future without robots.'</p><p>Finally, on the question of science fiction, Richardson pointed out that in modern society, people tend to think there is reality on the one hand, and fiction and fantasy on the other. She then explained that the division did not always exist, and that scientists and technologists made this separation because they wanted to carve out the sphere of their work. 'But the divide is not so clear cut, and that is why the worlds seem to collide at times,' she said. 'In some cases, we need to bring these different understandings together to get a whole perspective. Perhaps then, we won't be so frightened that something we create as a copy of ourselves will be a [threat] to us.'</p><p><em>* terraforming: modifying a planet's atmosphere to suit human needs</em></p><p><em>** singularity: the point when robots will be able to start creating ever more sophisticated versions of themselves</em></p>",
+      "questions": [
+        {
+          "id": 27,
+          "type": "matching_headings",
+          "instruction": "Match each statement with the correct expert, A, B or C. NB You may use any letter more than once.",
+          "content": "For our own safety, humans will need to restrict the abilities of robots.",
+          "answer": "A"
+        },
+        {
+          "id": 28,
+          "type": "matching_headings",
+          "instruction": "Match each statement with the correct expert, A, B or C. NB You may use any letter more than once.",
+          "content": "The risk of robots harming us is less serious than humans believe it to be.",
+          "answer": "C"
+        },
+        {
+          "id": 29,
+          "type": "matching_headings",
+          "instruction": "Match each statement with the correct expert, A, B or C. NB You may use any letter more than once.",
+          "content": "It will take many decades for robot intelligence to be as imaginative as human intelligence.",
+          "answer": "B"
+        },
+        {
+          "id": 30,
+          "type": "matching_headings",
+          "instruction": "Match each statement with the correct expert, A, B or C. NB You may use any letter more than once.",
+          "content": "We may have to start considering whether we are treating robots fairly.",
+          "answer": "A"
+        },
+        {
+          "id": 31,
+          "type": "matching_headings",
+          "instruction": "Match each statement with the correct expert, A, B or C. NB You may use any letter more than once.",
+          "content": "Robots are probably of more help to us on Earth than in space.",
+          "answer": "B"
+        },
+        {
+          "id": 32,
+          "type": "matching_headings",
+          "instruction": "Match each statement with the correct expert, A, B or C. NB You may use any letter more than once.",
+          "content": "The ideas in high-quality science fiction may prove to be just as accurate as those found in the work of mediocre scientists.",
+          "answer": "A"
+        },
+        {
+          "id": 33,
+          "type": "matching_headings",
+          "instruction": "Match each statement with the correct expert, A, B or C. NB You may use any letter more than once.",
+          "content": "There are those who look forward to robots developing greater intelligence.",
+          "answer": "C"
+        },
+        {
+          "id": 34,
+          "type": "multiple_choice",
+          "instruction": "Complete each sentence with the correct ending, A-D, below. Write the correct letters in boxes 34 and 36 on your answer sheet.",
+          "content": "Richardson and Rees express similar views regarding the ethical aspect of<br><label><input type='radio' name='q34' value='A'> A. robots to explore outer space.</label><br><label><input type='radio' name='q34' value='B'> B. advances made in machine intelligence so far.</label><br><label><input type='radio' name='q34' value='C'> C. changes made to other planets for our own benefit.</label><br><label><input type='radio' name='q34' value='D'> D. the harm already done by artificial intelligence.</label>",
+          "answer": "C"
+        },
+        {
+          "id": 35,
+          "type": "multiple_choice",
+          "instruction": "Complete each sentence with the correct ending, A-D, below. Write the correct letters in boxes 34 and 36 on your answer sheet.",
+          "content": "Rees and Wolpert share an opinion about the extent of<br><label><input type='radio' name='q35' value='A'> A. robots to explore outer space.</label><br><label><input type='radio' name='q35' value='B'> B. advances made in machine intelligence so far.</label><br><label><input type='radio' name='q35' value='C'> C. changes made to other planets for our own benefit.</label><br><label><input type='radio' name='q35' value='D'> D. the harm already done by artificial intelligence.</label>",
+          "answer": "B"
+        },
+        {
+          "id": 36,
+          "type": "multiple_choice",
+          "instruction": "Complete each sentence with the correct ending, A-D, below. Write the correct letters in boxes 34 and 36 on your answer sheet.",
+          "content": "Wolpert disagrees with Richardson on the question of<br><label><input type='radio' name='q36' value='A'> A. robots to explore outer space.</label><br><label><input type='radio' name='q36' value='B'> B. advances made in machine intelligence so far.</label><br><label><input type='radio' name='q36' value='C'> C. changes made to other planets for our own benefit.</label><br><label><input type='radio' name='q36' value='D'> D. the harm already done by artificial intelligence.</label>",
+          "answer": "D"
+        },
+        {
+          "id": 37,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "content": "<p>What point does Richardson make about fear of machines?</p><label><input type='radio' name='q37' value='A'> A. It has grown alongside the development of ever more advanced robots.</label><br><label><input type='radio' name='q37' value='B'> B. It is the result of our inclination to attribute human characteristics to non-human entities.</label><br><label><input type='radio' name='q37' value='C'> C. It has its origins in basic misunderstandings about how inanimate objects function.</label><br><label><input type='radio' name='q37' value='D'> D. It demonstrates a key difference between human intelligence and machine intelligence.</label>",
+          "answer": "B"
+        },
+        {
+          "id": 38,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "content": "<p>What potential advance does Rees see as a cause for concern?</p><label><input type='radio' name='q38' value='A'> A. robots outnumbering people</label><br><label><input type='radio' name='q38' value='B'> B. robots having abilities which humans do not</label><br><label><input type='radio' name='q38' value='C'> C. artificial intelligence developing independent thought</label><br><label><input type='radio' name='q38' value='D'> D. artificial intelligence taking over every aspect of our lives</label>",
+          "answer": "C"
+        },
+        {
+          "id": 39,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "content": "<p>What does Wolpert emphasise in his response to the question about science fiction?</p><label><input type='radio' name='q39' value='A'> A. how science fiction influences our attitudes to robots</label><br><label><input type='radio' name='q39' value='B'> B. how fundamental robots are to the science fiction genre</label><br><label><input type='radio' name='q39' value='C'> C. how the image of robots in science fiction has changed over time</label><br><label><input type='radio' name='q39' value='D'> D. how reactions to similar portrayals of robots in science fiction may vary</label>",
+          "answer": "D"
+        },
+        {
+          "id": 40,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "content": "<p>What is Richardson doing in her comment about reality and fantasy?</p><label><input type='radio' name='q40' value='A'> A. warning people not to confuse one with the other</label><br><label><input type='radio' name='q40' value='B'> B. outlining ways in which one has impacted on the other</label><br><label><input type='radio' name='q40' value='C'> C. recommending a change of approach in how people view them</label><br><label><input type='radio' name='q40' value='D'> D. explaining why scientists have a different perspective on them from other people</label>",
+          "answer": "A"
         }
       ]
     }
