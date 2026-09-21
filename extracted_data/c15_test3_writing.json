@@ -1,0 +1,22 @@
+{
+  "book": 15,
+  "test": 3,
+  "module": "Writing",
+  "title": "Cambridge 15 Writing Test 3",
+  "parts": [
+    {
+      "part_number": 1,
+      "title": "Task 1",
+      "audio_file": "",
+      "passage": "<p><strong>IELTS Academic Writing Task 1</strong></p><p><em>(The specific prompt for Writing Task 1 from Cambridge IELTS Book 15 Test 3 was not provided in the input text. Please provide the actual task description to generate this section accurately.)</em></p><p>You should spend about 20 minutes on this task.</p><p>Summarise the information by selecting and reporting the main features, and make comparisons where relevant.</p><p>Write at least 150 words.</p>",
+      "questions": []
+    },
+    {
+      "part_number": 2,
+      "title": "Task 2",
+      "audio_file": "",
+      "passage": "<p><strong>IELTS Academic Writing Task 2</strong></p><p><em>(The specific prompt for Writing Task 2 from Cambridge IELTS Book 15 Test 3 was not provided in the input text. Please provide the actual task description to generate this section accurately.)</em></p><p>You should spend about 40 minutes on this task.</p><p>Write about the following topic:</p><p>Discuss both these views and give your own opinion.</p><p>Give reasons for your answer and include any relevant examples from your own knowledge or experience.</p><p>Write at least 250 words.</p>",
+      "questions": []
+    }
+  ]
+}

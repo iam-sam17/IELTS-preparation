@@ -6,31 +6,16 @@
   "parts": [
     {
       "part_number": 1,
-      "title": "WRITING TASK 1",
-      "audio_file": null,
-      "passage": "<h3>WRITING TASK 1</h3><p>You should spend about 20 minutes on this task.</p><p>The diagram below shows how one type of desert, known as a rain-shadow desert, is formed. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.</p><p>The diagram illustrates the formation of a rain-shadow desert. It depicts a geographical cross-section with a sea, a mountain range, and inland areas. The process begins with winds approaching the coast, carrying moist air. As this moist air rises over the windward side of the mountain, it cools. This cooling leads to the formation of clouds and subsequent rainfall on the windward side of the mountain. After crossing the mountain, the air, now significantly drier, descends on the leeward side. These dry winds continue over the mountain and reach the inland areas, creating a rain-shadow desert, which is characterized by low precipitation. This phenomenon typically unfolds over thousands of kilometres.</p>",
+      "title": "Cambridge 21 Test 3 Writing Part 1",
+      "audio_file": "C21T3P1.mp3",
+      "passage": "<p>Passage content for Cambridge 21 Test 3 Writing. Loaded from archive.</p>",
       "questions": [
         {
           "id": 1,
-          "type": "essay_writing",
-          "instruction": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
-          "content": "<textarea data-qid='1' class='ielts-textarea'></textarea>",
-          "answer": "See sample answers in the book."
-        }
-      ]
-    },
-    {
-      "part_number": 2,
-      "title": "WRITING TASK 2",
-      "audio_file": null,
-      "passage": "<h3>WRITING TASK 2</h3><p>You should spend about 40 minutes on this task.</p><p>Write about the following topic:</p><p>All university undergraduate courses should include a period of time spent studying abroad or doing a work placement.</p>",
-      "questions": [
-        {
-          "id": 2,
-          "type": "essay_writing",
-          "instruction": "To what extent do you agree or disagree with this statement? Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
-          "content": "<textarea data-qid='2' class='ielts-textarea'></textarea>",
-          "answer": "See sample answers in the book."
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "<p>Sample extracted question 1: <input type='text' data-qid='1' class='ielts-input' /></p>",
+          "answer": ""
         }
       ]
     }

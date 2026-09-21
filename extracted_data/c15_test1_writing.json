@@ -1,0 +1,38 @@
+{
+  "book": 15,
+  "test": 1,
+  "module": "Writing",
+  "title": "Cambridge 15 Writing Test 1",
+  "parts": [
+    {
+      "part_number": 1,
+      "title": "Writing Task 1",
+      "audio_file": "",
+      "passage": "<p>The chart below shows the amount of waste produced by three countries from 1980 to 2010. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.</p>",
+      "questions": [
+        {
+          "id": 1,
+          "type": "fill_in_the_blank",
+          "instruction": "You should spend about 20 minutes on this task. Write at least 150 words.",
+          "content": "<textarea class='ielts-writing-input' data-qid='1' rows='15' cols='80' placeholder='Your answer for Task 1'></textarea>",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "part_number": 2,
+      "title": "Writing Task 2",
+      "audio_file": "",
+      "passage": "<p>Some people believe that the best way to improve public health is by increasing the number of sports facilities. Others, however, believe that this is not enough and other measures are required.</p>",
+      "questions": [
+        {
+          "id": 2,
+          "type": "fill_in_the_blank",
+          "instruction": "You should spend about 40 minutes on this task. Discuss both these views and give your own opinion. Write at least 250 words.",
+          "content": "<textarea class='ielts-writing-input' data-qid='2' rows='25' cols='80' placeholder='Your answer for Task 2'></textarea>",
+          "answer": ""
+        }
+      ]
+    }
+  ]
+}

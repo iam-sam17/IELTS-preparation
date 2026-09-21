@@ -1,0 +1,58 @@
+{
+  "book": 15,
+  "test": 1,
+  "module": "Reading",
+  "title": "Cambridge 15 Reading Test 1",
+  "parts": [
+    {
+      "part_number": 1,
+      "title": "Passage 1 Questions (Incomplete)",
+      "audio_file": "",
+      "passage": "<p>The complete reading passage for this test is not provided in the input text. The following questions (8-13) relate to a passage about the history of nutmeg.</p>",
+      "questions": [
+        {
+          "id": 8,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 8-13 on your answer sheet.",
+          "content": "<p><b>Middle Ages:</b> Nutmeg was brought to Europe by the <input type='text' data-qid='8' class='ielts-input' /></p>",
+          "answer": "Answer_8_placeholder"
+        },
+        {
+          "id": 9,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 8-13 on your answer sheet.",
+          "content": "<p><b>17th century:</b> Demand for nutmeg grew, as it was believed to be effective against the disease known as the <input type='text' data-qid='9' class='ielts-input' /></p>",
+          "answer": "Answer_9_placeholder"
+        },
+        {
+          "id": 10,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 8-13 on your answer sheet.",
+          "content": "<p><b>17th century (The Dutch):</b> put <input type='text' data-qid='10' class='ielts-input' /> on nutmeg to avoid it being cultivated outside the islands</p>",
+          "answer": "Answer_10_placeholder"
+        },
+        {
+          "id": 11,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 8-13 on your answer sheet.",
+          "content": "<p><b>17th century (The Dutch):</b> finally obtained the island of <input type='text' data-qid='11' class='ielts-input' /> from the British</p>",
+          "answer": "Answer_11_placeholder"
+        },
+        {
+          "id": 12,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 8-13 on your answer sheet.",
+          "content": "<p><b>Late 18th century (1770):</b> nutmeg plants were secretly taken to <input type='text' data-qid='12' class='ielts-input' /></p>",
+          "answer": "Answer_12_placeholder"
+        },
+        {
+          "id": 13,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 8-13 on your answer sheet.",
+          "content": "<p><b>Late 18th century (1778):</b> half the Banda Islands' nutmeg plantations were destroyed by a <input type='text' data-qid='13' class='ielts-input' /></p>",
+          "answer": "Answer_13_placeholder"
+        }
+      ]
+    }
+  ]
+}

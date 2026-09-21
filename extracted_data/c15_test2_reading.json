@@ -1,0 +1,309 @@
+{
+  "book": 15,
+  "test": 2,
+  "module": "Reading",
+  "title": "Cambridge 15 Reading Test 2",
+  "parts": [
+    {
+      "part_number": 1,
+      "title": "Passage 1 Title (Missing from provided text)",
+      "passage": "[MISSING - Full passage text for Reading Passage 1 is not provided in the input. This JSON only includes available question details.]",
+      "questions": [
+        {
+          "id": 1,
+          "type": "unknown",
+          "instruction": "[MISSING - Question 1 is not provided in the input text.]",
+          "content": "[MISSING - Question 1 is not provided in the input text.]",
+          "answer": "[MISSING]"
+        },
+        {
+          "id": 2,
+          "type": "unknown",
+          "instruction": "[MISSING - Question 2 is not provided in the input text.]",
+          "content": "[MISSING - Question 2 is not provided in the input text.]",
+          "answer": "[MISSING]"
+        },
+        {
+          "id": 3,
+          "type": "unknown",
+          "instruction": "[MISSING - Question 3 is not provided in the input text.]",
+          "content": "[MISSING - Question 3 is not provided in the input text.]",
+          "answer": "[MISSING]"
+        },
+        {
+          "id": 4,
+          "type": "unknown",
+          "instruction": "[MISSING - Question 4 is not provided in the input text.]",
+          "content": "[MISSING - Question 4 is not provided in the input text.]",
+          "answer": "[MISSING]"
+        },
+        {
+          "id": 5,
+          "type": "unknown",
+          "instruction": "[MISSING - Question 5 is not provided in the input text.]",
+          "content": "[MISSING - Question 5 is not provided in the input text.]",
+          "answer": "[MISSING]"
+        },
+        {
+          "id": 6,
+          "type": "unknown",
+          "instruction": "[MISSING - Question 6 is not provided in the input text.]",
+          "content": "[MISSING - Question 6 is not provided in the input text.]",
+          "answer": "[MISSING]"
+        },
+        {
+          "id": 7,
+          "type": "unknown",
+          "instruction": "[MISSING - Question 7 is not provided in the input text.]",
+          "content": "[MISSING - Question 7 is not provided in the input text.]",
+          "answer": "[MISSING]"
+        },
+        {
+          "id": 8,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below. Choose ONE WORD ONLY from the passage for each answer.",
+          "content": "<b>Middle Ages</b><br>Nutmeg was brought to Europe by the <input type='text' data-qid='8' class='ielts-input' />.",
+          "answer": "[MISSING - Requires full passage for accuracy]"
+        },
+        {
+          "id": 9,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below. Choose ONE WORD ONLY from the passage for each answer.",
+          "content": "<b>16th century</b><br>European nations took control of the nutmeg trade<br>Demand for nutmeg grew, as it was believed to be effective against the disease known as the <input type='text' data-qid='9' class='ielts-input' />.",
+          "answer": "[MISSING - Requires full passage for accuracy]"
+        },
+        {
+          "id": 10,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below. Choose ONE WORD ONLY from the passage for each answer.",
+          "content": "<b>17th century - The Dutch</b><br>put <input type='text' data-qid='10' class='ielts-input' /> on nutmeg to avoid it being cultivated outside the islands",
+          "answer": "[MISSING - Requires full passage for accuracy]"
+        },
+        {
+          "id": 11,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below. Choose ONE WORD ONLY from the passage for each answer.",
+          "content": "<b>17th century - The Dutch</b><br>finally obtained the island of <input type='text' data-qid='11' class='ielts-input' /> from the British",
+          "answer": "[MISSING - Requires full passage for accuracy]"
+        },
+        {
+          "id": 12,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below. Choose ONE WORD ONLY from the passage for each answer.",
+          "content": "<b>Late 18th century</b><br>1770 - nutmeg plants were secretly taken to <input type='text' data-qid='12' class='ielts-input' />.",
+          "answer": "[MISSING - Requires full passage for accuracy]"
+        },
+        {
+          "id": 13,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below. Choose ONE WORD ONLY from the passage for each answer.",
+          "content": "<b>Late 18th century</b><br>1778 - half the Banda Islands'nutmeg plantations were destroyed by a <input type='text' data-qid='13' class='ielts-input' />.",
+          "answer": "[MISSING - Requires full passage for accuracy]"
+        }
+      ]
+    },
+    {
+      "part_number": 2,
+      "title": "Passage 2 Title (Missing from provided text)",
+      "passage": "[MISSING - Full passage text for Reading Passage 2 is not provided in the input.]",
+      "questions": [
+        {
+          "id": 14,
+          "type": "unknown",
+          "instruction": "[MISSING - Question 14 is not provided in the input text.]",
+          "content": "[MISSING - Question 14 is not provided in the input text.]",
+          "answer": "[MISSING]"
+        },
+        {
+          "id": 15,
+          "type": "unknown",
+          "instruction": "[MISSING - Question 15 is not provided in the input text.]",
+          "content": "[MISSING - Question 15 is not provided in the input text.]",
+          "answer": "[MISSING]"
+        },
+        {
+          "id": 16,
+          "type": "unknown",
+          "instruction": "[MISSING - Question 16 is not provided in the input text.]",
+          "content": "[MISSING - Question 16 is not provided in the input text.]",
+          "answer": "[MISSING]"
+        },
+        {
+          "id": 17,
+          "type": "unknown",
+          "instruction": "[MISSING - Question 17 is not provided in the input text.]",
+          "content": "[MISSING - Question 17 is not provided in the input text.]",
+          "answer": "[MISSING]"
+        },
+        {
+          "id": 18,
+          "type": "unknown",
+          "instruction": "[MISSING - Question 18 is not provided in the input text.]",
+          "content": "[MISSING - Question 18 is not provided in the input text.]",
+          "answer": "[MISSING]"
+        },
+        {
+          "id": 19,
+          "type": "unknown",
+          "instruction": "[MISSING - Question 19 is not provided in the input text.]",
+          "content": "[MISSING - Question 19 is not provided in the input text.]",
+          "answer": "[MISSING]"
+        },
+        {
+          "id": 20,
+          "type": "unknown",
+          "instruction": "[MISSING - Question 20 is not provided in the input text.]",
+          "content": "[MISSING - Question 20 is not provided in the input text.]",
+          "answer": "[MISSING]"
+        },
+        {
+          "id": 21,
+          "type": "unknown",
+          "instruction": "[MISSING - Question 21 is not provided in the input text.]",
+          "content": "[MISSING - Question 21 is not provided in the input text.]",
+          "answer": "[MISSING]"
+        },
+        {
+          "id": 22,
+          "type": "unknown",
+          "instruction": "[MISSING - Question 22 is not provided in the input text.]",
+          "content": "[MISSING - Question 22 is not provided in the input text.]",
+          "answer": "[MISSING]"
+        },
+        {
+          "id": 23,
+          "type": "unknown",
+          "instruction": "[MISSING - Question 23 is not provided in the input text.]",
+          "content": "[MISSING - Question 23 is not provided in the input text.]",
+          "answer": "[MISSING]"
+        },
+        {
+          "id": 24,
+          "type": "unknown",
+          "instruction": "[MISSING - Question 24 is not provided in the input text.]",
+          "content": "[MISSING - Question 24 is not provided in the input text.]",
+          "answer": "[MISSING]"
+        },
+        {
+          "id": 25,
+          "type": "unknown",
+          "instruction": "[MISSING - Question 25 is not provided in the input text.]",
+          "content": "[MISSING - Question 25 is not provided in the input text.]",
+          "answer": "[MISSING]"
+        },
+        {
+          "id": 26,
+          "type": "unknown",
+          "instruction": "[MISSING - Question 26 is not provided in the input text.]",
+          "content": "[MISSING - Question 26 is not provided in the input text.]",
+          "answer": "[MISSING]"
+        }
+      ]
+    },
+    {
+      "part_number": 3,
+      "title": "Passage 3 Title (Missing from provided text)",
+      "passage": "[MISSING - Full passage text for Reading Passage 3 is not provided in the input.]",
+      "questions": [
+        {
+          "id": 27,
+          "type": "unknown",
+          "instruction": "[MISSING - Question 27 is not provided in the input text.]",
+          "content": "[MISSING - Question 27 is not provided in the input text.]",
+          "answer": "[MISSING]"
+        },
+        {
+          "id": 28,
+          "type": "unknown",
+          "instruction": "[MISSING - Question 28 is not provided in the input text.]",
+          "content": "[MISSING - Question 28 is not provided in the input text.]",
+          "answer": "[MISSING]"
+        },
+        {
+          "id": 29,
+          "type": "unknown",
+          "instruction": "[MISSING - Question 29 is not provided in the input text.]",
+          "content": "[MISSING - Question 29 is not provided in the input text.]",
+          "answer": "[MISSING]"
+        },
+        {
+          "id": 30,
+          "type": "unknown",
+          "instruction": "[MISSING - Question 30 is not provided in the input text.]",
+          "content": "[MISSING - Question 30 is not provided in the input text.]",
+          "answer": "[MISSING]"
+        },
+        {
+          "id": 31,
+          "type": "unknown",
+          "instruction": "[MISSING - Question 31 is not provided in the input text.]",
+          "content": "[MISSING - Question 31 is not provided in the input text.]",
+          "answer": "[MISSING]"
+        },
+        {
+          "id": 32,
+          "type": "unknown",
+          "instruction": "[MISSING - Question 32 is not provided in the input text.]",
+          "content": "[MISSING - Question 32 is not provided in the input text.]",
+          "answer": "[MISSING]"
+        },
+        {
+          "id": 33,
+          "type": "unknown",
+          "instruction": "[MISSING - Question 33 is not provided in the input text.]",
+          "content": "[MISSING - Question 33 is not provided in the input text.]",
+          "answer": "[MISSING]"
+        },
+        {
+          "id": 34,
+          "type": "unknown",
+          "instruction": "[MISSING - Question 34 is not provided in the input text.]",
+          "content": "[MISSING - Question 34 is not provided in the input text.]",
+          "answer": "[MISSING]"
+        },
+        {
+          "id": 35,
+          "type": "unknown",
+          "instruction": "[MISSING - Question 35 is not provided in the input text.]",
+          "content": "[MISSING - Question 35 is not provided in the input text.]",
+          "answer": "[MISSING]"
+        },
+        {
+          "id": 36,
+          "type": "unknown",
+          "instruction": "[MISSING - Question 36 is not provided in the input text.]",
+          "content": "[MISSING - Question 36 is not provided in the input text.]",
+          "answer": "[MISSING]"
+        },
+        {
+          "id": 37,
+          "type": "unknown",
+          "instruction": "[MISSING - Question 37 is not provided in the input text.]",
+          "content": "[MISSING - Question 37 is not provided in the input text.]",
+          "answer": "[MISSING]"
+        },
+        {
+          "id": 38,
+          "type": "unknown",
+          "instruction": "[MISSING - Question 38 is not provided in the input text.]",
+          "content": "[MISSING - Question 38 is not provided in the input text.]",
+          "answer": "[MISSING]"
+        },
+        {
+          "id": 39,
+          "type": "unknown",
+          "instruction": "[MISSING - Question 39 is not provided in the input text.]",
+          "content": "[MISSING - Question 39 is not provided in the input text.]",
+          "answer": "[MISSING]"
+        },
+        {
+          "id": 40,
+          "type": "unknown",
+          "instruction": "[MISSING - Question 40 is not provided in the input text.]",
+          "content": "[MISSING - Question 40 is not provided in the input text.]",
+          "answer": "[MISSING]"
+        }
+      ]
+    }
+  ]
+}

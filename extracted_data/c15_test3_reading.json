@@ -1,0 +1,58 @@
+{
+  "book": 15,
+  "test": 3,
+  "module": "Reading",
+  "title": "Cambridge 15 Reading Test 3",
+  "parts": [
+    {
+      "part_number": 1,
+      "title": "Partial Passage: The Nutmeg Trade",
+      "audio_file": "",
+      "passage": "<p>The full passage text for this Reading section was not provided in the input. Therefore, it is impossible to determine the correct answers for questions 8-13, nor can the preceding questions (1-7) or subsequent passages and questions (14-40) be generated.</p><p>This JSON represents an incomplete set of questions based on the limited text provided on 'Page 21' of the source material.</p>",
+      "questions": [
+        {
+          "id": 8,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below.<br>Choose ONE WORD ONLY from the passage for each answer.",
+          "content": "<table><tbody><tr><td>Middle Ages</td><td>Nutmeg was brought to Europe by the <input type='text' data-qid='8' class='ielts-input' />.</td></tr></tbody></table>",
+          "answer": ""
+        },
+        {
+          "id": 9,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below.<br>Choose ONE WORD ONLY from the passage for each answer.",
+          "content": "<table><tbody><tr><td>17th century</td><td>Demand for nutmeg grew, as it was believed to be effective against the disease known as the <input type='text' data-qid='9' class='ielts-input' />.</td></tr></tbody></table>",
+          "answer": ""
+        },
+        {
+          "id": 10,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below.<br>Choose ONE WORD ONLY from the passage for each answer.",
+          "content": "<table><tbody><tr><td>The Dutch</td><td>... put <input type='text' data-qid='10' class='ielts-input' /> on nutmeg to avoid it being cultivated outside the islands.</td></tr></tbody></table>",
+          "answer": ""
+        },
+        {
+          "id": 11,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below.<br>Choose ONE WORD ONLY from the passage for each answer.",
+          "content": "<table><tbody><tr><td>The Dutch</td><td>... finally obtained the island of <input type='text' data-qid='11' class='ielts-input' /> from the British.</td></tr></tbody></table>",
+          "answer": ""
+        },
+        {
+          "id": 12,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below.<br>Choose ONE WORD ONLY from the passage for each answer.",
+          "content": "<table><tbody><tr><td>1770</td><td>Nutmeg plants were secretly taken to <input type='text' data-qid='12' class='ielts-input' />.</td></tr></tbody></table>",
+          "answer": ""
+        },
+        {
+          "id": 13,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below.<br>Choose ONE WORD ONLY from the passage for each answer.",
+          "content": "<table><tbody><tr><td>1778</td><td>Half the Banda Islands' nutmeg plantations were destroyed by a <input type='text' data-qid='13' class='ielts-input' />.</td></tr></tbody></table>",
+          "answer": ""
+        }
+      ]
+    }
+  ]
+}
