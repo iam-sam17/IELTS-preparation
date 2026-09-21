@@ -130,27 +130,71 @@ def extract_text_from_pdf(pdf_path):
     return pages_text
 
 
+def find_relevant_pages(pages_data, test_num, module):
+    """Finds pages strictly belonging to a specific Test and Module, plus official answer keys."""
+    relevant = []
+    answer_pages = []
+    
+    test_str = f"test {test_num}"
+    mod_str = module.lower()
+    
+    # Scan for Answer Keys and Audioscripts at the back of the book
+    for p in pages_data:
+        t_low = p["text"].lower()
+        if ("answer" in t_low or "audioscript" in t_low or "keys" in t_low) and test_str in t_low:
+            answer_pages.append(p)
+            
+    # Scan for the actual test section
+    for idx, p in enumerate(pages_data):
+        t_low = p["text"].lower()
+        if test_str in t_low and mod_str in t_low:
+            # Include window of pages
+            start = max(0, idx - 1)
+            end = min(len(pages_data), idx + 12)
+            for j in range(start, end):
+                if pages_data[j] not in relevant:
+                    relevant.append(pages_data[j])
+                    
+    if not relevant:
+        # Search anywhere test number and module match
+        for p in pages_data:
+            t_low = p["text"].lower()
+            if (test_str in t_low or f"test{test_num}" in t_low) and mod_str in t_low:
+                relevant.append(p)
+                
+    combined = relevant + [p for p in answer_pages if p not in relevant]
+    if not combined or len(combined) < 2:
+        return pages_data
+    return combined
+
+
 def extract_with_gemini(api_key, book_num, test_num, module, pdf_path, pages_data, audio_files):
     """Uses Google Gemini API to produce 100% accurate CD-IELTS JSON."""
     if not api_key:
         print("No GEMINI_API_KEY provided. Using fallback parser.")
         return None
 
-    # Filter pages relevant to the test & module if possible, or give full text segment
-    full_text = "\n--- PAGE ---\n".join([f"Page {p['page']}:\n{p['text']}" for p in pages_data])
+    # Filter pages strictly relevant to this specific test & module
+    target_pages = find_relevant_pages(pages_data, test_num, module)
+    print(f"Targeted {len(target_pages)} pages for Book {book_num} Test {test_num} {module}.")
+    
+    full_text = "\n--- PAGE ---\n".join([f"Page {p['page']}:\n{p['text']}" for p in target_pages])
     
     user_prompt = f"""Extract Cambridge IELTS Book {book_num}, Test {test_num}, Module: {module}.
 Available Audio files for this test: {json.dumps(audio_files)}
 
-Here is the extracted text from the book:
-{full_text[:150000]}
+Here is the extracted text from the relevant book pages (including questions and answer keys):
+{full_text}
 
 Generate the complete, accurate CD-IELTS JSON for Book {book_num}, Test {test_num}, Module: {module}.
-Include all passage text, all 40 questions (or Writing tasks 1 & 2), proper question types, inputs, and answer keys.
+Ensure:
+1. All reading passages / writing prompts are included in full HTML.
+2. All 40 questions (or 2 writing tasks) are present with exact question numbering (1 to 40).
+3. All interactive blanks are formatted with `<input type='text' data-qid='<id>' class='ielts-input' />` or standard radio options.
+4. The correct official answer for every question is extracted from the answer key and populated into the 'answer' field.
 """
 
     try:
-        # Check client method
         if hasattr(genai, "Client"):
             client = genai.Client(api_key=api_key)
             response = client.models.generate_content(
@@ -167,7 +211,6 @@ Include all passage text, all 40 questions (or Writing tasks 1 & 2), proper ques
             response = model.generate_content(user_prompt)
             text_resp = response.text
 
-        # Clean response if markdown ticks exist
         cleaned = re.sub(r"^```json\s*", "", text_resp.strip())
         cleaned = re.sub(r"\s*```$", "", cleaned)
         data = json.loads(cleaned)
