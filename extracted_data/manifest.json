@@ -1,7 +1,7 @@
 {
   "total": 84,
-  "extracted": 60,
-  "stubs": 24,
+  "extracted": 68,
+  "stubs": 16,
   "tests": [
     {
       "book": 15,
@@ -200,16 +200,16 @@
       "test": 1,
       "module": "Listening",
       "file": "c17_test1_listening.json",
-      "is_stub": true,
-      "questions": 1
+      "is_stub": false,
+      "questions": 40
     },
     {
       "book": 17,
       "test": 1,
       "module": "Reading",
       "file": "c17_test1_reading.json",
-      "is_stub": true,
-      "questions": 1
+      "is_stub": false,
+      "questions": 40
     },
     {
       "book": 17,
@@ -217,23 +217,23 @@
       "module": "Writing",
       "file": "c17_test1_writing.json",
       "is_stub": false,
-      "questions": 1
+      "questions": 2
     },
     {
       "book": 17,
       "test": 2,
       "module": "Listening",
       "file": "c17_test2_listening.json",
-      "is_stub": true,
-      "questions": 1
+      "is_stub": false,
+      "questions": 40
     },
     {
       "book": 17,
       "test": 2,
       "module": "Reading",
       "file": "c17_test2_reading.json",
-      "is_stub": true,
-      "questions": 1
+      "is_stub": false,
+      "questions": 40
     },
     {
       "book": 17,
@@ -241,23 +241,23 @@
       "module": "Writing",
       "file": "c17_test2_writing.json",
       "is_stub": false,
-      "questions": 1
+      "questions": 2
     },
     {
       "book": 17,
       "test": 3,
       "module": "Listening",
       "file": "c17_test3_listening.json",
-      "is_stub": true,
-      "questions": 1
+      "is_stub": false,
+      "questions": 40
     },
     {
       "book": 17,
       "test": 3,
       "module": "Reading",
       "file": "c17_test3_reading.json",
-      "is_stub": true,
-      "questions": 1
+      "is_stub": false,
+      "questions": 40
     },
     {
       "book": 17,
@@ -265,23 +265,23 @@
       "module": "Writing",
       "file": "c17_test3_writing.json",
       "is_stub": false,
-      "questions": 1
+      "questions": 2
     },
     {
       "book": 17,
       "test": 4,
       "module": "Listening",
       "file": "c17_test4_listening.json",
-      "is_stub": true,
-      "questions": 1
+      "is_stub": false,
+      "questions": 40
     },
     {
       "book": 17,
       "test": 4,
       "module": "Reading",
       "file": "c17_test4_reading.json",
-      "is_stub": true,
-      "questions": 1
+      "is_stub": false,
+      "questions": 40
     },
     {
       "book": 17,
@@ -289,7 +289,7 @@
       "module": "Writing",
       "file": "c17_test4_writing.json",
       "is_stub": false,
-      "questions": 1
+      "questions": 2
     },
     {
       "book": 18,
