@@ -19,15 +19,10 @@ import argparse
 from pathlib import Path
 
 try:
-    from google import genai
-    from google.genai import types
-    HAVE_GEMINI = True
+    from openai import OpenAI
+    HAVE_OPENAI = True
 except ImportError:
-    try:
-        import google.generativeai as genai
-        HAVE_GEMINI = True
-    except ImportError:
-        HAVE_GEMINI = False
+    HAVE_OPENAI = False
 
 try:
     import pypdf
@@ -258,13 +253,13 @@ def _rate_limit_wait():
     pass
 
 
-def extract_with_gemini(api_key, book_num, test_num, module, pdf_path, pages_data, audio_files):
-    """FIX 4+5: Gemini extraction with rate limiting and loud failure reporting."""
+def extract_with_api(api_key, book_num, test_num, module, pdf_path, pages_data, audio_files):
+    """FIX 4+5: DeepSeek extraction with rate limiting and loud failure reporting."""
     if not api_key or not api_key.strip():
-        print(f"  WARNING: No GEMINI_API_KEY for Book {book_num} Test {test_num} {module}.")
+        print(f"  WARNING: No API_KEY for Book {book_num} Test {test_num} {module}.")
         return None
-    if not HAVE_GEMINI:
-        print("  WARNING: google-genai not installed.")
+    if not HAVE_OPENAI:
+        print("  WARNING: openai package not installed.")
         return None
 
     target_pages = find_relevant_pages(pages_data, test_num, module)
@@ -293,18 +288,18 @@ Generate complete CD-IELTS JSON for Book {book_num} Test {test_num} {module}.
 
     text_resp = ""
     try:
-        if hasattr(genai, "Client"):
-            client = genai.Client(api_key=api_key)
-            response = client.models.generate_content(
-                model="gemini-3.6-flash",
-                contents=f"{SYSTEM_PROMPT}\n\n{user_prompt}",
-                config=types.GenerateContentConfig(response_mime_type="application/json"),
-            )
-            text_resp = response.text
-        else:
-            genai.configure(api_key=api_key)
-            model = genai.GenerativeModel("gemini-3.6-flash", system_instruction=SYSTEM_PROMPT)
-            text_resp = model.generate_content(user_prompt).text
+        client = OpenAI(api_key=api_key, base_url="https://api.deepseek.com")
+        response = client.chat.completions.create(
+            model="deepseek-chat",
+            messages=[
+                {"role": "system", "content": SYSTEM_PROMPT},
+                {"role": "user", "content": user_prompt}
+            ],
+            response_format={"type": "json_object"},
+            max_tokens=8192,
+            temperature=0.0
+        )
+        text_resp = response.choices[0].message.content
 
         cleaned = re.sub(r"^```json\s*", "", text_resp.strip())
         cleaned = re.sub(r"\s*```$", "", cleaned.strip())
@@ -314,11 +309,11 @@ Generate complete CD-IELTS JSON for Book {book_num} Test {test_num} {module}.
 
     except json.JSONDecodeError as e:
         # FIX 5: loud failure
-        print(f"  ERROR: Invalid JSON from Gemini for Book {book_num} Test {test_num} {module}: {e}")
+        print(f"  ERROR: Invalid JSON from DeepSeek for Book {book_num} Test {test_num} {module}: {e}")
         print(f"         Response snippet: {text_resp[:400]}")
         return None
     except Exception as e:
-        print(f"  ERROR: Gemini API failed for Book {book_num} Test {test_num} {module}: {e}")
+        print(f"  ERROR: DeepSeek API failed for Book {book_num} Test {test_num} {module}: {e}")
         return None
 
 
@@ -331,7 +326,7 @@ def fallback_stub(book_num, test_num, module, audio_files):
         "module": module,
         "title": f"Cambridge {book_num} {module} Test {test_num}",
         "_stub": True,
-        "_note": "Placeholder — re-run extractor with valid GEMINI_API_KEY.",
+        "_note": "Placeholder — re-run extractor with valid DEEPSEEK_API_KEY.",
         "parts": [{
             "part_number": 1,
             "title": f"[STUB] Cambridge {book_num} Test {test_num} {module}",
@@ -406,7 +401,7 @@ def process_book(base_dir, output_dir, book_num, test_num=None, api_key=None, sk
             print(f"\n  Extracting: {fname}")
             data = None
             if api_key and api_key.strip() and pages_data:
-                data = extract_with_gemini(api_key, book_num, t, mod, pdf_path, pages_data, audio_files)
+                data = extract_with_api(api_key, book_num, t, mod, pdf_path, pages_data, audio_files)
             else:
                 if not api_key or not api_key.strip():
                     print("  No API key — skipping Gemini.")
@@ -434,7 +429,7 @@ def main():
     parser.add_argument("--book", default="15-21",
                         help="e.g. '21', '15', '15-21', or 'all'")
     parser.add_argument("--test", default="all", help="1-4 or 'all'")
-    parser.add_argument("--api-key", default=os.getenv("GEMINI_API_KEY", ""))
+    parser.add_argument("--api-key", default=os.getenv("DEEPSEEK_API_KEY", ""))
     parser.add_argument("--skip-existing", action="store_true",
                         help="Skip files that already exist and are not stubs")
     args = parser.parse_args()
@@ -460,7 +455,7 @@ def main():
     print(f"{'='*55}\n")
 
     if not args.api_key:
-        print("WARNING: GEMINI_API_KEY not set — all output will be stubs!\n")
+        print("WARNING: DEEPSEEK_API_KEY not set — all output will be stubs!\n")
 
     all_results = []
     for b in books:
