@@ -1,91 +1,28 @@
 {
-  "total": 12,
-  "extracted": 0,
-  "stubs": 12,
+  "total": 3,
+  "extracted": 3,
+  "stubs": 0,
   "tests": [
     {
-      "book": 20,
+      "book": 19,
       "test": 1,
       "module": "Reading",
-      "file": "c20_test1_reading.json",
-      "is_stub": true
+      "file": "c19_test1_reading.json",
+      "is_stub": false
     },
     {
-      "book": 20,
+      "book": 19,
       "test": 1,
       "module": "Listening",
-      "file": "c20_test1_listening.json",
-      "is_stub": true
+      "file": "c19_test1_listening.json",
+      "is_stub": false
     },
     {
-      "book": 20,
+      "book": 19,
       "test": 1,
       "module": "Writing",
-      "file": "c20_test1_writing.json",
-      "is_stub": true
-    },
-    {
-      "book": 20,
-      "test": 2,
-      "module": "Reading",
-      "file": "c20_test2_reading.json",
-      "is_stub": true
-    },
-    {
-      "book": 20,
-      "test": 2,
-      "module": "Listening",
-      "file": "c20_test2_listening.json",
-      "is_stub": true
-    },
-    {
-      "book": 20,
-      "test": 2,
-      "module": "Writing",
-      "file": "c20_test2_writing.json",
-      "is_stub": true
-    },
-    {
-      "book": 20,
-      "test": 3,
-      "module": "Reading",
-      "file": "c20_test3_reading.json",
-      "is_stub": true
-    },
-    {
-      "book": 20,
-      "test": 3,
-      "module": "Listening",
-      "file": "c20_test3_listening.json",
-      "is_stub": true
-    },
-    {
-      "book": 20,
-      "test": 3,
-      "module": "Writing",
-      "file": "c20_test3_writing.json",
-      "is_stub": true
-    },
-    {
-      "book": 20,
-      "test": 4,
-      "module": "Reading",
-      "file": "c20_test4_reading.json",
-      "is_stub": true
-    },
-    {
-      "book": 20,
-      "test": 4,
-      "module": "Listening",
-      "file": "c20_test4_listening.json",
-      "is_stub": true
-    },
-    {
-      "book": 20,
-      "test": 4,
-      "module": "Writing",
-      "file": "c20_test4_writing.json",
-      "is_stub": true
+      "file": "c19_test1_writing.json",
+      "is_stub": false
     }
   ]
 }
