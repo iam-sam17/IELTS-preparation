@@ -1,509 +1,91 @@
 {
-  "total_tests": 84,
+  "total": 12,
+  "extracted": 0,
+  "stubs": 12,
   "tests": [
     {
-      "book": 15,
-      "test": 1,
-      "module": "Reading",
-      "file": "c15_test1_reading.json"
-    },
-    {
-      "book": 15,
-      "test": 1,
-      "module": "Listening",
-      "file": "c15_test1_listening.json"
-    },
-    {
-      "book": 15,
-      "test": 1,
-      "module": "Writing",
-      "file": "c15_test1_writing.json"
-    },
-    {
-      "book": 15,
-      "test": 2,
-      "module": "Reading",
-      "file": "c15_test2_reading.json"
-    },
-    {
-      "book": 15,
-      "test": 2,
-      "module": "Listening",
-      "file": "c15_test2_listening.json"
-    },
-    {
-      "book": 15,
-      "test": 2,
-      "module": "Writing",
-      "file": "c15_test2_writing.json"
-    },
-    {
-      "book": 15,
-      "test": 3,
-      "module": "Reading",
-      "file": "c15_test3_reading.json"
-    },
-    {
-      "book": 15,
-      "test": 3,
-      "module": "Listening",
-      "file": "c15_test3_listening.json"
-    },
-    {
-      "book": 15,
-      "test": 3,
-      "module": "Writing",
-      "file": "c15_test3_writing.json"
-    },
-    {
-      "book": 15,
-      "test": 4,
-      "module": "Reading",
-      "file": "c15_test4_reading.json"
-    },
-    {
-      "book": 15,
-      "test": 4,
-      "module": "Listening",
-      "file": "c15_test4_listening.json"
-    },
-    {
-      "book": 15,
-      "test": 4,
-      "module": "Writing",
-      "file": "c15_test4_writing.json"
-    },
-    {
-      "book": 16,
-      "test": 1,
-      "module": "Reading",
-      "file": "c16_test1_reading.json"
-    },
-    {
-      "book": 16,
-      "test": 1,
-      "module": "Listening",
-      "file": "c16_test1_listening.json"
-    },
-    {
-      "book": 16,
-      "test": 1,
-      "module": "Writing",
-      "file": "c16_test1_writing.json"
-    },
-    {
-      "book": 16,
-      "test": 2,
-      "module": "Reading",
-      "file": "c16_test2_reading.json"
-    },
-    {
-      "book": 16,
-      "test": 2,
-      "module": "Listening",
-      "file": "c16_test2_listening.json"
-    },
-    {
-      "book": 16,
-      "test": 2,
-      "module": "Writing",
-      "file": "c16_test2_writing.json"
-    },
-    {
-      "book": 16,
-      "test": 3,
-      "module": "Reading",
-      "file": "c16_test3_reading.json"
-    },
-    {
-      "book": 16,
-      "test": 3,
-      "module": "Listening",
-      "file": "c16_test3_listening.json"
-    },
-    {
-      "book": 16,
-      "test": 3,
-      "module": "Writing",
-      "file": "c16_test3_writing.json"
-    },
-    {
-      "book": 16,
-      "test": 4,
-      "module": "Reading",
-      "file": "c16_test4_reading.json"
-    },
-    {
-      "book": 16,
-      "test": 4,
-      "module": "Listening",
-      "file": "c16_test4_listening.json"
-    },
-    {
-      "book": 16,
-      "test": 4,
-      "module": "Writing",
-      "file": "c16_test4_writing.json"
-    },
-    {
-      "book": 17,
-      "test": 1,
-      "module": "Reading",
-      "file": "c17_test1_reading.json"
-    },
-    {
-      "book": 17,
-      "test": 1,
-      "module": "Listening",
-      "file": "c17_test1_listening.json"
-    },
-    {
-      "book": 17,
-      "test": 1,
-      "module": "Writing",
-      "file": "c17_test1_writing.json"
-    },
-    {
-      "book": 17,
-      "test": 2,
-      "module": "Reading",
-      "file": "c17_test2_reading.json"
-    },
-    {
-      "book": 17,
-      "test": 2,
-      "module": "Listening",
-      "file": "c17_test2_listening.json"
-    },
-    {
-      "book": 17,
-      "test": 2,
-      "module": "Writing",
-      "file": "c17_test2_writing.json"
-    },
-    {
-      "book": 17,
-      "test": 3,
-      "module": "Reading",
-      "file": "c17_test3_reading.json"
-    },
-    {
-      "book": 17,
-      "test": 3,
-      "module": "Listening",
-      "file": "c17_test3_listening.json"
-    },
-    {
-      "book": 17,
-      "test": 3,
-      "module": "Writing",
-      "file": "c17_test3_writing.json"
-    },
-    {
-      "book": 17,
-      "test": 4,
-      "module": "Reading",
-      "file": "c17_test4_reading.json"
-    },
-    {
-      "book": 17,
-      "test": 4,
-      "module": "Listening",
-      "file": "c17_test4_listening.json"
-    },
-    {
-      "book": 17,
-      "test": 4,
-      "module": "Writing",
-      "file": "c17_test4_writing.json"
-    },
-    {
-      "book": 18,
-      "test": 1,
-      "module": "Reading",
-      "file": "c18_test1_reading.json"
-    },
-    {
-      "book": 18,
-      "test": 1,
-      "module": "Listening",
-      "file": "c18_test1_listening.json"
-    },
-    {
-      "book": 18,
-      "test": 1,
-      "module": "Writing",
-      "file": "c18_test1_writing.json"
-    },
-    {
-      "book": 18,
-      "test": 2,
-      "module": "Reading",
-      "file": "c18_test2_reading.json"
-    },
-    {
-      "book": 18,
-      "test": 2,
-      "module": "Listening",
-      "file": "c18_test2_listening.json"
-    },
-    {
-      "book": 18,
-      "test": 2,
-      "module": "Writing",
-      "file": "c18_test2_writing.json"
-    },
-    {
-      "book": 18,
-      "test": 3,
-      "module": "Reading",
-      "file": "c18_test3_reading.json"
-    },
-    {
-      "book": 18,
-      "test": 3,
-      "module": "Listening",
-      "file": "c18_test3_listening.json"
-    },
-    {
-      "book": 18,
-      "test": 3,
-      "module": "Writing",
-      "file": "c18_test3_writing.json"
-    },
-    {
-      "book": 18,
-      "test": 4,
-      "module": "Reading",
-      "file": "c18_test4_reading.json"
-    },
-    {
-      "book": 18,
-      "test": 4,
-      "module": "Listening",
-      "file": "c18_test4_listening.json"
-    },
-    {
-      "book": 18,
-      "test": 4,
-      "module": "Writing",
-      "file": "c18_test4_writing.json"
-    },
-    {
-      "book": 19,
-      "test": 1,
-      "module": "Reading",
-      "file": "c19_test1_reading.json"
-    },
-    {
-      "book": 19,
-      "test": 1,
-      "module": "Listening",
-      "file": "c19_test1_listening.json"
-    },
-    {
-      "book": 19,
-      "test": 1,
-      "module": "Writing",
-      "file": "c19_test1_writing.json"
-    },
-    {
-      "book": 19,
-      "test": 2,
-      "module": "Reading",
-      "file": "c19_test2_reading.json"
-    },
-    {
-      "book": 19,
-      "test": 2,
-      "module": "Listening",
-      "file": "c19_test2_listening.json"
-    },
-    {
-      "book": 19,
-      "test": 2,
-      "module": "Writing",
-      "file": "c19_test2_writing.json"
-    },
-    {
-      "book": 19,
-      "test": 3,
-      "module": "Reading",
-      "file": "c19_test3_reading.json"
-    },
-    {
-      "book": 19,
-      "test": 3,
-      "module": "Listening",
-      "file": "c19_test3_listening.json"
-    },
-    {
-      "book": 19,
-      "test": 3,
-      "module": "Writing",
-      "file": "c19_test3_writing.json"
-    },
-    {
-      "book": 19,
-      "test": 4,
-      "module": "Reading",
-      "file": "c19_test4_reading.json"
-    },
-    {
-      "book": 19,
-      "test": 4,
-      "module": "Listening",
-      "file": "c19_test4_listening.json"
-    },
-    {
-      "book": 19,
-      "test": 4,
-      "module": "Writing",
-      "file": "c19_test4_writing.json"
-    },
-    {
       "book": 20,
       "test": 1,
       "module": "Reading",
-      "file": "c20_test1_reading.json"
+      "file": "c20_test1_reading.json",
+      "is_stub": true
     },
     {
       "book": 20,
       "test": 1,
       "module": "Listening",
-      "file": "c20_test1_listening.json"
+      "file": "c20_test1_listening.json",
+      "is_stub": true
     },
     {
       "book": 20,
       "test": 1,
       "module": "Writing",
-      "file": "c20_test1_writing.json"
+      "file": "c20_test1_writing.json",
+      "is_stub": true
     },
     {
       "book": 20,
       "test": 2,
       "module": "Reading",
-      "file": "c20_test2_reading.json"
+      "file": "c20_test2_reading.json",
+      "is_stub": true
     },
     {
       "book": 20,
       "test": 2,
       "module": "Listening",
-      "file": "c20_test2_listening.json"
+      "file": "c20_test2_listening.json",
+      "is_stub": true
     },
     {
       "book": 20,
       "test": 2,
       "module": "Writing",
-      "file": "c20_test2_writing.json"
+      "file": "c20_test2_writing.json",
+      "is_stub": true
     },
     {
       "book": 20,
       "test": 3,
       "module": "Reading",
-      "file": "c20_test3_reading.json"
+      "file": "c20_test3_reading.json",
+      "is_stub": true
     },
     {
       "book": 20,
       "test": 3,
       "module": "Listening",
-      "file": "c20_test3_listening.json"
+      "file": "c20_test3_listening.json",
+      "is_stub": true
     },
     {
       "book": 20,
       "test": 3,
       "module": "Writing",
-      "file": "c20_test3_writing.json"
+      "file": "c20_test3_writing.json",
+      "is_stub": true
     },
     {
       "book": 20,
       "test": 4,
       "module": "Reading",
-      "file": "c20_test4_reading.json"
+      "file": "c20_test4_reading.json",
+      "is_stub": true
     },
     {
       "book": 20,
       "test": 4,
       "module": "Listening",
-      "file": "c20_test4_listening.json"
+      "file": "c20_test4_listening.json",
+      "is_stub": true
     },
     {
       "book": 20,
       "test": 4,
       "module": "Writing",
-      "file": "c20_test4_writing.json"
-    },
-    {
-      "book": 21,
-      "test": 1,
-      "module": "Reading",
-      "file": "c21_test1_reading.json"
-    },
-    {
-      "book": 21,
-      "test": 1,
-      "module": "Listening",
-      "file": "c21_test1_listening.json"
-    },
-    {
-      "book": 21,
-      "test": 1,
-      "module": "Writing",
-      "file": "c21_test1_writing.json"
-    },
-    {
-      "book": 21,
-      "test": 2,
-      "module": "Reading",
-      "file": "c21_test2_reading.json"
-    },
-    {
-      "book": 21,
-      "test": 2,
-      "module": "Listening",
-      "file": "c21_test2_listening.json"
-    },
-    {
-      "book": 21,
-      "test": 2,
-      "module": "Writing",
-      "file": "c21_test2_writing.json"
-    },
-    {
-      "book": 21,
-      "test": 3,
-      "module": "Reading",
-      "file": "c21_test3_reading.json"
-    },
-    {
-      "book": 21,
-      "test": 3,
-      "module": "Listening",
-      "file": "c21_test3_listening.json"
-    },
-    {
-      "book": 21,
-      "test": 3,
-      "module": "Writing",
-      "file": "c21_test3_writing.json"
-    },
-    {
-      "book": 21,
-      "test": 4,
-      "module": "Reading",
-      "file": "c21_test4_reading.json"
-    },
-    {
-      "book": 21,
-      "test": 4,
-      "module": "Listening",
-      "file": "c21_test4_listening.json"
-    },
-    {
-      "book": 21,
-      "test": 4,
-      "module": "Writing",
-      "file": "c21_test4_writing.json"
+      "file": "c20_test4_writing.json",
+      "is_stub": true
     }
   ]
 }

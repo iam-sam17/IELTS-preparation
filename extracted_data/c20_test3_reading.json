@@ -3,18 +3,48 @@
   "test": 3,
   "module": "Reading",
   "title": "Cambridge 20 Reading Test 3",
+  "_stub": true,
+  "_note": "Placeholder — re-run extractor with valid GEMINI_API_KEY.",
   "parts": [
     {
       "part_number": 1,
-      "title": "Cambridge 20 Test 3 Reading Part 1",
-      "audio_file": null,
-      "passage": "<p>Passage content for Cambridge 20 Test 3 Reading. Loaded from archive.</p>",
+      "title": "[STUB] Cambridge 20 Test 3 Reading",
+      "audio_file": "T3S1.m4a",
+      "passage": "<p><strong>[STUB]</strong> Content for Cambridge 20 Test 3 Reading not extracted yet. Run extractor with a valid Gemini API key.</p>",
       "questions": [
         {
           "id": 1,
           "type": "fill_in_the_blank",
-          "instruction": "Write ONE WORD ONLY for each answer.",
-          "content": "<p>Sample extracted question 1: <input type='text' data-qid='1' class='ielts-input' /></p>",
+          "instruction": "[STUB] Not yet extracted.",
+          "content": "<p><b>1</b> [STUB] <input type='text' data-qid='1' class='ielts-input' /></p>",
+          "answer": ""
+        },
+        {
+          "id": 2,
+          "type": "fill_in_the_blank",
+          "instruction": "[STUB] Not yet extracted.",
+          "content": "<p><b>2</b> [STUB] <input type='text' data-qid='2' class='ielts-input' /></p>",
+          "answer": ""
+        },
+        {
+          "id": 3,
+          "type": "fill_in_the_blank",
+          "instruction": "[STUB] Not yet extracted.",
+          "content": "<p><b>3</b> [STUB] <input type='text' data-qid='3' class='ielts-input' /></p>",
+          "answer": ""
+        },
+        {
+          "id": 4,
+          "type": "fill_in_the_blank",
+          "instruction": "[STUB] Not yet extracted.",
+          "content": "<p><b>4</b> [STUB] <input type='text' data-qid='4' class='ielts-input' /></p>",
+          "answer": ""
+        },
+        {
+          "id": 5,
+          "type": "fill_in_the_blank",
+          "instruction": "[STUB] Not yet extracted.",
+          "content": "<p><b>5</b> [STUB] <input type='text' data-qid='5' class='ielts-input' /></p>",
           "answer": ""
         }
       ]
