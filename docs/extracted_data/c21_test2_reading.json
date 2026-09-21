@@ -155,14 +155,14 @@
           "id": 20,
           "type": "multiple_choice",
           "instruction": "Choose TWO letters, A-E. The archaeological record reveals information about gold and the kingdom of Mapungubwe. Which TWO pieces of information are mentioned by the writer?",
-          "content": "20. Select one answer: <br/>A. Not everyone in Mapungubwe used gold as a form of payment.<br/>B. Items of gold were placed close to where Mapungubwe kings were buried.<br/>C. The most valuable item discovered in Mapungubwe was a sceptre made of gold.<br/>D. The way gold was decorated in Mapungubwe was also practised in another kingdom.<br/>E. Working with gold was a respected occupation in the Mapungubwe community.",
+          "content": "20. Select one answer: <br/>A. Not everyone in Mapungubwe used gold as a form of payment.<br/>B. Items of gold were placed close to where Mapungubwe kings were buried.<br/>C. The most valuable item discovered in Mapungubwe was a sceptre made of gold.<br/>D. The way gold was decorated in Mapungubwe was also practised in another kingdom.<br/>E. Working with gold was a respected occupation in the Mapungubwe community.<br><br><input type='text' data-qid='20' class='ielts-input' placeholder='Type letter(s)' style='width:100px; text-transform:uppercase;' />",
           "answer": "B"
         },
         {
           "id": 21,
           "type": "multiple_choice",
           "instruction": "Choose TWO letters, A-E. The archaeological record reveals information about gold and the kingdom of Mapungubwe. Which TWO pieces of information are mentioned by the writer?",
-          "content": "21. Select second answer: <br/>A. Not everyone in Mapungubwe used gold as a form of payment.<br/>B. Items of gold were placed close to where Mapungubwe kings were buried.<br/>C. The most valuable item discovered in Mapungubwe was a sceptre made of gold.<br/>D. The way gold was decorated in Mapungubwe was also practised in another kingdom.<br/>E. Working with gold was a respected occupation in the Mapungubwe community.",
+          "content": "21. Select second answer: <br/>A. Not everyone in Mapungubwe used gold as a form of payment.<br/>B. Items of gold were placed close to where Mapungubwe kings were buried.<br/>C. The most valuable item discovered in Mapungubwe was a sceptre made of gold.<br/>D. The way gold was decorated in Mapungubwe was also practised in another kingdom.<br/>E. Working with gold was a respected occupation in the Mapungubwe community.<br><br><input type='text' data-qid='21' class='ielts-input' placeholder='Type letter(s)' style='width:100px; text-transform:uppercase;' />",
           "answer": "D"
         },
         {
@@ -212,21 +212,21 @@
           "id": 27,
           "type": "multiple_choice",
           "instruction": "Choose the correct letter, A, B, C or D.",
-          "content": "27. What is the writer doing in the first paragraph?<br/>A. predicting the future impact of AI<br/>B. describing a public perception of AI<br/>C. outlining some possible benefits of AI<br/>D. highlighting the breadth of the influence of AI",
+          "content": "27. What is the writer doing in the first paragraph?<br/>A. predicting the future impact of AI<br/>B. describing a public perception of AI<br/>C. outlining some possible benefits of AI<br/>D. highlighting the breadth of the influence of AI<br><br><input type='text' data-qid='27' class='ielts-input' placeholder='Type letter(s)' style='width:100px; text-transform:uppercase;' />",
           "answer": "B"
         },
         {
           "id": 28,
           "type": "multiple_choice",
           "instruction": "Choose the correct letter, A, B, C or D.",
-          "content": "28. When discussing AI solutionism in the second paragraph, the writer<br/>A. points out a risk involved.<br/>B. specifies its probable origins.<br/>C. mentions its chief supporters.<br/>D. weighs up some pros and cons.",
+          "content": "28. When discussing AI solutionism in the second paragraph, the writer<br/>A. points out a risk involved.<br/>B. specifies its probable origins.<br/>C. mentions its chief supporters.<br/>D. weighs up some pros and cons.<br><br><input type='text' data-qid='28' class='ielts-input' placeholder='Type letter(s)' style='width:100px; text-transform:uppercase;' />",
           "answer": "A"
         },
         {
           "id": 29,
           "type": "multiple_choice",
           "instruction": "Choose the correct letter, A, B, C or D.",
-          "content": "29. In the fourth paragraph, the writer suggests that many politicians may<br/>A. have failed to appreciate the true potential of AI initiatives.<br/>B. have misunderstood the function of the machine-learning sector.<br/>C. be unaware of the challenges of implementing national AI initiatives.<br/>D. be too keen to enter the race to dominate the machine-learning sector.",
+          "content": "29. In the fourth paragraph, the writer suggests that many politicians may<br/>A. have failed to appreciate the true potential of AI initiatives.<br/>B. have misunderstood the function of the machine-learning sector.<br/>C. be unaware of the challenges of implementing national AI initiatives.<br/>D. be too keen to enter the race to dominate the machine-learning sector.<br><br><input type='text' data-qid='29' class='ielts-input' placeholder='Type letter(s)' style='width:100px; text-transform:uppercase;' />",
           "answer": "C"
         },
         {
@@ -303,7 +303,7 @@
           "id": 40,
           "type": "multiple_choice",
           "instruction": "Choose the correct letter, A, B, C or D.",
-          "content": "40. What would be a suitable subtitle for Reading Passage 3?<br/>A. How to make the most of what AI has to offer<br/>B. Why AI may not be the answer to our problems<br/>C. Why governments should not invest in AI systems<br/>D. How AI could improve the efficiency of the public sector",
+          "content": "40. What would be a suitable subtitle for Reading Passage 3?<br/>A. How to make the most of what AI has to offer<br/>B. Why AI may not be the answer to our problems<br/>C. Why governments should not invest in AI systems<br/>D. How AI could improve the efficiency of the public sector<br><br><input type='text' data-qid='40' class='ielts-input' placeholder='Type letter(s)' style='width:100px; text-transform:uppercase;' />",
           "answer": "B"
         }
       ]

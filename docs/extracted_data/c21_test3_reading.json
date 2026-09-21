@@ -212,28 +212,28 @@
           "id": 27,
           "type": "multiple_choice",
           "instruction": "Choose the correct letter, A, B, C or D.",
-          "content": "What is the writer doing in the second paragraph?<br>A pinpointing some key changes in our understanding of prehistory<br>B outlining some aspects of prehistory which are still poorly understood<br>C summarising some attitudes towards recent archaeological revelations<br>D giving an overview of some current disagreements among archaeologists",
+          "content": "What is the writer doing in the second paragraph?<br>A pinpointing some key changes in our understanding of prehistory<br>B outlining some aspects of prehistory which are still poorly understood<br>C summarising some attitudes towards recent archaeological revelations<br>D giving an overview of some current disagreements among archaeologists<br><br><input type='text' data-qid='27' class='ielts-input' placeholder='Type letter(s)' style='width:100px; text-transform:uppercase;' />",
           "answer": "A"
         },
         {
           "id": 28,
           "type": "multiple_choice",
           "instruction": "Choose the correct letter, A, B, C or D.",
-          "content": "In the sixth paragraph, the writer mentions mobile phones to make the point that<br>A most developments happen in a gradual way.<br>B innovation can come from a variety of sources.<br>C not all technological advancements are positive.<br>D the path of evolution can often be unpredictable.",
+          "content": "In the sixth paragraph, the writer mentions mobile phones to make the point that<br>A most developments happen in a gradual way.<br>B innovation can come from a variety of sources.<br>C not all technological advancements are positive.<br>D the path of evolution can often be unpredictable.<br><br><input type='text' data-qid='28' class='ielts-input' placeholder='Type letter(s)' style='width:100px; text-transform:uppercase;' />",
           "answer": "A"
         },
         {
           "id": 29,
           "type": "multiple_choice",
           "instruction": "Choose the correct letter, A, B, C or D.",
-          "content": "In the seventh paragraph, the phrase 'unpick this stuff' refers to the task of<br>A assessing the impact of certain recent research findings.<br>B questioning the authenticity of evidence used in earlier research.<br>C conducting research into how prehistoric societies were organised.<br>D reevaluating research influenced by outdated beliefs about society.",
+          "content": "In the seventh paragraph, the phrase 'unpick this stuff' refers to the task of<br>A assessing the impact of certain recent research findings.<br>B questioning the authenticity of evidence used in earlier research.<br>C conducting research into how prehistoric societies were organised.<br>D reevaluating research influenced by outdated beliefs about society.<br><br><input type='text' data-qid='29' class='ielts-input' placeholder='Type letter(s)' style='width:100px; text-transform:uppercase;' />",
           "answer": "D"
         },
         {
           "id": 30,
           "type": "multiple_choice",
           "instruction": "Choose the correct letter, A, B, C or D.",
-          "content": "What does the writer suggest in the final paragraph?<br>A Studying past societies could help us create a fairer society today.<br>B We should not judge past societies by the standards of modern society.<br>C We still have much to learn about how societies have evolved over history.<br>D There is more than one way to interpret evidence about societies in prehistoric times.",
+          "content": "What does the writer suggest in the final paragraph?<br>A Studying past societies could help us create a fairer society today.<br>B We should not judge past societies by the standards of modern society.<br>C We still have much to learn about how societies have evolved over history.<br>D There is more than one way to interpret evidence about societies in prehistoric times.<br><br><input type='text' data-qid='30' class='ielts-input' placeholder='Type letter(s)' style='width:100px; text-transform:uppercase;' />",
           "answer": "A"
         },
         {

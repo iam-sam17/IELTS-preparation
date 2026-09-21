@@ -84,7 +84,7 @@
           "id": 11,
           "type": "fill_in_the_blank",
           "instruction": "Complete the notes below. Choose ONE WORD ONLY from the passage for each answer.",
-          "content": "Cooking with biogas in Dunga<br>Benefits for the women in the village of cooking with biogas<br>• no need for them to spend so much <input type='text' data-qid='11' class='ielts-input' /> collecting fuel<br>• they can focus on different tasks that bring in <input type='text' data-qid='12' class='ielts-input' /><br>• they are less likely to experience certain diseases connected to burning wood<br>Drawbacks of changing to biogas<br>• the <input type='text' data-qid='13' class='ielts-input' /> of the digesters is beyond the reach of most villages",
+          "content": "Cooking with biogas in Dunga<br>Benefits for the women in the village of cooking with biogas<br>\u2022 no need for them to spend so much <input type='text' data-qid='11' class='ielts-input' /> collecting fuel<br>\u2022 they can focus on different tasks that bring in <input type='text' data-qid='12' class='ielts-input' /><br>\u2022 they are less likely to experience certain diseases connected to burning wood<br>Drawbacks of changing to biogas<br>\u2022 the <input type='text' data-qid='13' class='ielts-input' /> of the digesters is beyond the reach of most villages",
           "answer": "time"
         },
         {
@@ -183,21 +183,21 @@
           "id": 24,
           "type": "multiple_choice",
           "instruction": "Choose the correct letter, A, B, C or D.",
-          "content": "What point does the writer make about primary schools in India in the sixth paragraph?<br>A Exposure to English outside of school is of limited benefit.<br>B Children learn English more easily when they are well motivated.<br>C Poor children may be disadvantaged further by being instructed in English.<br>D There is little consistency across schools with regard to instruction in English.",
+          "content": "What point does the writer make about primary schools in India in the sixth paragraph?<br>A Exposure to English outside of school is of limited benefit.<br>B Children learn English more easily when they are well motivated.<br>C Poor children may be disadvantaged further by being instructed in English.<br>D There is little consistency across schools with regard to instruction in English.<br><br><input type='text' data-qid='24' class='ielts-input' placeholder='Type letter(s)' style='width:100px; text-transform:uppercase;' />",
           "answer": "C"
         },
         {
           "id": 25,
           "type": "multiple_choice",
           "instruction": "Choose the correct letter, A, B, C or D.",
-          "content": "What is Tsimpli suggesting when she uses the phrase 'that ship has sailed'?<br>A The findings of the report may be of little help to some Indian schoolchildren.<br>B Instruction in English could be better adapted to the needs of schoolchildren.<br>C Schools have had limited success in teaching English as a separate subject.<br>D It is too late to remove English completely as a language of instruction in schools.",
+          "content": "What is Tsimpli suggesting when she uses the phrase 'that ship has sailed'?<br>A The findings of the report may be of little help to some Indian schoolchildren.<br>B Instruction in English could be better adapted to the needs of schoolchildren.<br>C Schools have had limited success in teaching English as a separate subject.<br>D It is too late to remove English completely as a language of instruction in schools.<br><br><input type='text' data-qid='25' class='ielts-input' placeholder='Type letter(s)' style='width:100px; text-transform:uppercase;' />",
           "answer": "D"
         },
         {
           "id": 26,
           "type": "multiple_choice",
           "instruction": "Choose the correct letter, A, B, C or D.",
-          "content": "In the eighth paragraph, what do we learn has surprised researchers?<br>A Boys and girls from low socio-economic groups have similar general intelligence levels.<br>B The age at which children move into a slum does not affect their academic performance.<br>C Slum children and children from other urban poor backgrounds have similar life experiences.<br>D The literacy and numeracy skills of slum children are not lower than those of children from other urban poor backgrounds.",
+          "content": "In the eighth paragraph, what do we learn has surprised researchers?<br>A Boys and girls from low socio-economic groups have similar general intelligence levels.<br>B The age at which children move into a slum does not affect their academic performance.<br>C Slum children and children from other urban poor backgrounds have similar life experiences.<br>D The literacy and numeracy skills of slum children are not lower than those of children from other urban poor backgrounds.<br><br><input type='text' data-qid='26' class='ielts-input' placeholder='Type letter(s)' style='width:100px; text-transform:uppercase;' />",
           "answer": "D"
         }
       ]
@@ -282,28 +282,28 @@
           "id": 37,
           "type": "multiple_choice",
           "instruction": "Choose the correct letter, A, B, C or D.",
-          "content": "When Bellerby had to attach the gores to the globe surface,<br>A he decided it was best to work quickly.<br>B he became aware of an unexpected issue.<br>C he was worried about the quality of his materials.<br>D he nearly gave up the whole project.",
+          "content": "When Bellerby had to attach the gores to the globe surface,<br>A he decided it was best to work quickly.<br>B he became aware of an unexpected issue.<br>C he was worried about the quality of his materials.<br>D he nearly gave up the whole project.<br><br><input type='text' data-qid='37' class='ielts-input' placeholder='Type letter(s)' style='width:100px; text-transform:uppercase;' />",
           "answer": "B"
         },
         {
           "id": 38,
           "type": "multiple_choice",
           "instruction": "Choose the correct letter, A, B, C or D.",
-          "content": "The reviewer mentions other globe makers of the past because<br>A Bellerby was particularly inspired by them.<br>B their achievements are not widely known.<br>C Bellerby had something in common with each of them.<br>D their difficulties could have been avoided.",
+          "content": "The reviewer mentions other globe makers of the past because<br>A Bellerby was particularly inspired by them.<br>B their achievements are not widely known.<br>C Bellerby had something in common with each of them.<br>D their difficulties could have been avoided.<br><br><input type='text' data-qid='38' class='ielts-input' placeholder='Type letter(s)' style='width:100px; text-transform:uppercase;' />",
           "answer": "C"
         },
         {
           "id": 39,
           "type": "multiple_choice",
           "instruction": "Choose the correct letter, A, B, C or D.",
-          "content": "What point is made about Bellerby in the seventh paragraph?<br>A He had long working relationships with numerous craftsmen.<br>B He understands the lack of interest in traditional crafts.<br>C He appreciates the importance of careful planning.<br>D He regrets the loss of many globe-making skills.",
+          "content": "What point is made about Bellerby in the seventh paragraph?<br>A He had long working relationships with numerous craftsmen.<br>B He understands the lack of interest in traditional crafts.<br>C He appreciates the importance of careful planning.<br>D He regrets the loss of many globe-making skills.<br><br><input type='text' data-qid='39' class='ielts-input' placeholder='Type letter(s)' style='width:100px; text-transform:uppercase;' />",
           "answer": "D"
         },
         {
           "id": 40,
           "type": "multiple_choice",
           "instruction": "Choose the correct letter, A, B, C or D.",
-          "content": "What does the reviewer say about Bellerby's book in the final paragraph?<br>A It does not tell you how to create a profitable business.<br>B It overlooks some important mapmakers.<br>C It fails to discuss the future of globe-making.<br>D It does not give enough details about individual customers.",
+          "content": "What does the reviewer say about Bellerby's book in the final paragraph?<br>A It does not tell you how to create a profitable business.<br>B It overlooks some important mapmakers.<br>C It fails to discuss the future of globe-making.<br>D It does not give enough details about individual customers.<br><br><input type='text' data-qid='40' class='ielts-input' placeholder='Type letter(s)' style='width:100px; text-transform:uppercase;' />",
           "answer": "A"
         }
       ]
