@@ -80,6 +80,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 view.classList.add('active');
             }
             document.getElementById('current-test-name').textContent = `Cambridge ${book} Test ${test} - ${cfg.name}`;
+            document.title = `IELTS - ${cfg.name} (Cambridge ${book} Test ${test})`;
         }
 
         await loadModuleData(modKey);
