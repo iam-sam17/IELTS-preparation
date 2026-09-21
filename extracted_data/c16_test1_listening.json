@@ -6,16 +6,313 @@
   "parts": [
     {
       "part_number": 1,
-      "title": "Cambridge 16 Test 1 Listening Part 1",
+      "title": "Part 1",
       "audio_file": "Test 1 Part 1[@cambridgematerials].mp3",
-      "passage": "<p>Passage content for Cambridge 16 Test 1 Listening. Loaded from archive.</p>",
+      "passage": "<h3>Children's Engineering Workshops</h3>",
       "questions": [
         {
           "id": 1,
           "type": "fill_in_the_blank",
-          "instruction": "Write ONE WORD ONLY for each answer.",
-          "content": "<p>Sample extracted question 1: <input type='text' data-qid='1' class='ielts-input' /></p>",
-          "answer": ""
+          "instruction": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Tiny Engineers (ages 4-5)\nActivities:\nCreate a cover for an <input type='text' data-qid='1' class='ielts-input' /> without breaking it, so they can drop it from a height.",
+          "answer": "egg"
+        },
+        {
+          "id": 2,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Take part in a competition to build the tallest <input type='text' data-qid='2' class='ielts-input' />.",
+          "answer": "tower"
+        },
+        {
+          "id": 3,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Make a <input type='text' data-qid='3' class='ielts-input' /> powered by a balloon.",
+          "answer": "car"
+        },
+        {
+          "id": 4,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Junior Engineers (ages 6-8)\nActivities:\nBuild model cars, trucks and <input type='text' data-qid='4' class='ielts-input' /> and learn how to program them so they can move.",
+          "answer": "animals"
+        },
+        {
+          "id": 5,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Take part in a competition to build the longest <input type='text' data-qid='5' class='ielts-input' /> using card and wood.",
+          "answer": "bridge"
+        },
+        {
+          "id": 6,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Create a short <input type='text' data-qid='6' class='ielts-input' /> with special software.",
+          "answer": "movie"
+        },
+        {
+          "id": 7,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Build, <input type='text' data-qid='7' class='ielts-input' /> and program a humanoid robot.",
+          "answer": "decorate"
+        },
+        {
+          "id": 8,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Cost for a five-week block: £50\nHeld on <input type='text' data-qid='8' class='ielts-input' /> from 10 am to 11 am",
+          "answer": "Wednesdays"
+        },
+        {
+          "id": 9,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Location:\nBuilding 10A, <input type='text' data-qid='9' class='ielts-input' /> Industrial Estate, Grasford",
+          "answer": "Fradstone"
+        },
+        {
+          "id": 10,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Plenty of <input type='text' data-qid='10' class='ielts-input' /> is available.",
+          "answer": "parking"
+        }
+      ]
+    },
+    {
+      "part_number": 2,
+      "title": "Part 2",
+      "audio_file": "Test 1 Part 2[@cambridgematerials].mp3",
+      "passage": "<h3>Stevenson's</h3>",
+      "questions": [
+        {
+          "id": 11,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "11 Stevenson's was founded in\nA 1923.\nB 1924.\nC 1926.",
+          "answer": "C"
+        },
+        {
+          "id": 12,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "12 Originally, Stevenson's manufactured goods for\nA the healthcare industry.\nB the automotive industry.\nC the machine tools industry.",
+          "answer": "A"
+        },
+        {
+          "id": 13,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "13 What does the speaker say about the company premises?\nA The company has recently moved.\nB The company has no plans to move.\nC The company is going to move shortly.",
+          "answer": "B"
+        },
+        {
+          "id": 14,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "14 The programme for the work experience group includes\nA time to do research.\nB meetings with a teacher.\nC talks by staff.",
+          "answer": "C"
+        },
+        {
+          "id": 15,
+          "type": "fill_in_the_blank",
+          "instruction": "Label the map below. Write the correct letter, A-J, next to Questions 15-20.",
+          "content": "15 coffee room: <input type='text' data-qid='15' class='ielts-input' />",
+          "answer": "H"
+        },
+        {
+          "id": 16,
+          "type": "fill_in_the_blank",
+          "instruction": "Label the map below. Write the correct letter, A-J, next to Questions 15-20.",
+          "content": "16 warehouse: <input type='text' data-qid='16' class='ielts-input' />",
+          "answer": "C"
+        },
+        {
+          "id": 17,
+          "type": "fill_in_the_blank",
+          "instruction": "Label the map below. Write the correct letter, A-J, next to Questions 15-20.",
+          "content": "17 staff canteen: <input type='text' data-qid='17' class='ielts-input' />",
+          "answer": "G"
+        },
+        {
+          "id": 18,
+          "type": "fill_in_the_blank",
+          "instruction": "Label the map below. Write the correct letter, A-J, next to Questions 15-20.",
+          "content": "18 meeting room: <input type='text' data-qid='18' class='ielts-input' />",
+          "answer": "B"
+        },
+        {
+          "id": 19,
+          "type": "fill_in_the_blank",
+          "instruction": "Label the map below. Write the correct letter, A-J, next to Questions 15-20.",
+          "content": "19 human resources: <input type='text' data-qid='19' class='ielts-input' />",
+          "answer": "I"
+        },
+        {
+          "id": 20,
+          "type": "fill_in_the_blank",
+          "instruction": "Label the map below. Write the correct letter, A-J, next to Questions 15-20.",
+          "content": "20 boardroom: <input type='text' data-qid='20' class='ielts-input' />",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "part_number": 3,
+      "title": "Part 3",
+      "audio_file": "Test 1 Part 3[@cambridgematerials].mp3",
+      "passage": "<h3>Art Projects Discussion</h3>",
+      "questions": [
+        {
+          "id": 21,
+          "type": "multiple_choice",
+          "instruction": "Which TWO parts of the introductory stage to their art projects do Jess and Tom agree were useful?",
+          "content": "21-22 Choose TWO letters, A-E.\nA the Bird Park visit\nB the workshop sessions\nC the Natural History Museum visit\nD the projects done in previous years\nE the handouts with research sources",
+          "answer": "C"
+        },
+        {
+          "id": 22,
+          "type": "multiple_choice",
+          "instruction": "Which TWO parts of the introductory stage to their art projects do Jess and Tom agree were useful?",
+          "content": "21-22 Choose TWO letters, A-E. (Second choice)\nA the Bird Park visit\nB the workshop sessions\nC the Natural History Museum visit\nD the projects done in previous years\nE the handouts with research sources",
+          "answer": "E"
+        },
+        {
+          "id": 23,
+          "type": "multiple_choice",
+          "instruction": "In which TWO ways do both Jess and Tom decide to change their proposals?",
+          "content": "23-24 Choose TWO letters, A-E.\nA by giving a rationale for their action plans\nB by being less specific about the outcome\nC by adding a video diary presentation\nD by providing a timeline and a mind map\nE by making their notes more evaluative",
+          "answer": "B"
+        },
+        {
+          "id": 24,
+          "type": "multiple_choice",
+          "instruction": "In which TWO ways do both Jess and Tom decide to change their proposals?",
+          "content": "23-24 Choose TWO letters, A-E. (Second choice)\nA by giving a rationale for their action plans\nB by being less specific about the outcome\nC by adding a video diary presentation\nD by providing a timeline and a mind map\nE by making their notes more evaluative",
+          "answer": "E"
+        },
+        {
+          "id": 25,
+          "type": "fill_in_the_blank",
+          "instruction": "Which personal meaning do the students decide to give to each of the following pictures? Choose SIX answers from the box (A-H).",
+          "content": "25 Falcon (Landseer): <input type='text' data-qid='25' class='ielts-input' />",
+          "answer": "D"
+        },
+        {
+          "id": 26,
+          "type": "fill_in_the_blank",
+          "instruction": "Which personal meaning do the students decide to give to each of the following pictures? Choose SIX answers from the box (A-H).",
+          "content": "26 Fish hawk (Audubon): <input type='text' data-qid='26' class='ielts-input' />",
+          "answer": "C"
+        },
+        {
+          "id": 27,
+          "type": "fill_in_the_blank",
+          "instruction": "Which personal meaning do the students decide to give to each of the following pictures? Choose SIX answers from the box (A-H).",
+          "content": "27 Kingfisher (van Gogh): <input type='text' data-qid='27' class='ielts-input' />",
+          "answer": "A"
+        },
+        {
+          "id": 28,
+          "type": "fill_in_the_blank",
+          "instruction": "Which personal meaning do the students decide to give to each of the following pictures? Choose SIX answers from the box (A-H).",
+          "content": "28 Portrait of William Wells: <input type='text' data-qid='28' class='ielts-input' />",
+          "answer": "H"
+        },
+        {
+          "id": 29,
+          "type": "fill_in_the_blank",
+          "instruction": "Which personal meaning do the students decide to give to each of the following pictures? Choose SIX answers from the box (A-H).",
+          "content": "29 Vairumati (Gauguin): <input type='text' data-qid='29' class='ielts-input' />",
+          "answer": "F"
+        },
+        {
+          "id": 30,
+          "type": "fill_in_the_blank",
+          "instruction": "Which personal meaning do the students decide to give to each of the following pictures? Choose SIX answers from the box (A-H).",
+          "content": "30 Portrait of Giovanni de Medici: <input type='text' data-qid='30' class='ielts-input' />",
+          "answer": "G"
+        }
+      ]
+    },
+    {
+      "part_number": 4,
+      "title": "Part 4",
+      "audio_file": "Test 1 Part 4[@cambridgematerials].mp3",
+      "passage": "<h3>Stoicism</h3>",
+      "questions": [
+        {
+          "id": 31,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "Stoicism is still relevant today because of its <input type='text' data-qid='31' class='ielts-input' /> appeal.",
+          "answer": "practical"
+        },
+        {
+          "id": 32,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "The Stoics' ideas are surprisingly well known, despite not being intended for <input type='text' data-qid='32' class='ielts-input' />.",
+          "answer": "publication"
+        },
+        {
+          "id": 33,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "Epictetus said that external events cannot be controlled but the <input type='text' data-qid='33' class='ielts-input' /> people make in response can be controlled.",
+          "answer": "choices"
+        },
+        {
+          "id": 34,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "A Stoic is someone who has a different view on experiences which others would consider as <input type='text' data-qid='34' class='ielts-input' />.",
+          "answer": "negative"
+        },
+        {
+          "id": 35,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "George Washington organised a <input type='text' data-qid='35' class='ielts-input' /> about Cato to motivate his men.",
+          "answer": "play"
+        },
+        {
+          "id": 36,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "Adam Smith's ideas on <input type='text' data-qid='36' class='ielts-input' /> were influenced by Stoicism.",
+          "answer": "capitalism"
+        },
+        {
+          "id": 37,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "Cognitive Behaviour Therapy (CBT) - the treatment for <input type='text' data-qid='37' class='ielts-input' /> is based on ideas from Stoicism.",
+          "answer": "depression"
+        },
+        {
+          "id": 38,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "people learn to base their thinking on <input type='text' data-qid='38' class='ielts-input' />.",
+          "answer": "logic"
+        },
+        {
+          "id": 39,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "In business, people benefit from Stoicism by identifying obstacles as <input type='text' data-qid='39' class='ielts-input' />.",
+          "answer": "opportunity"
+        },
+        {
+          "id": 40,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "It requires a lot of <input type='text' data-qid='40' class='ielts-input' /> but Stoicism can help people to lead a good life.",
+          "answer": "practice"
         }
       ]
     }

@@ -6,16 +6,31 @@
   "parts": [
     {
       "part_number": 1,
-      "title": "Cambridge 16 Test 2 Writing Part 1",
-      "audio_file": "Test 2 Part 1[@cambridgematerials].mp3",
-      "passage": "<p>Passage content for Cambridge 16 Test 2 Writing. Loaded from archive.</p>",
+      "title": "WRITING TASK 1",
+      "audio_file": "",
+      "passage": "<h3>WRITING TASK 1</h3><p>You should spend about 20 minutes on this task.</p><p>The diagram below shows the manufacturing process for making sugar from sugar cane.</p><p>Summarise the information by selecting and reporting the main features, and make comparisons where relevant.</p><p>Write at least 150 words.</p><p>How sugar is produced from sugar cane</p><p>1 Growing (12-18 months) - Sugar canes</p><p>2 Harvesting - Sugar canes</p><p>3 Crushing - Juice</p><p>4 Purifying juice - Limestone filter</p><p>5 Evaporator (juice becomes syrup) - Heat</p><p>6 Centrifuge (separates sugar crystals from syrup) - Drying and cooling - Sugar</p>",
       "questions": [
         {
           "id": 1,
-          "type": "fill_in_the_blank",
-          "instruction": "Write ONE WORD ONLY for each answer.",
-          "content": "<p>Sample extracted question 1: <input type='text' data-qid='1' class='ielts-input' /></p>",
-          "answer": ""
+          "type": "essay",
+          "instruction": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+          "content": "<p>Write your response for Task 1 here.</p>",
+          "answer": "Not applicable for writing tasks."
+        }
+      ]
+    },
+    {
+      "part_number": 2,
+      "title": "WRITING TASK 2",
+      "audio_file": "",
+      "passage": "<h3>WRITING TASK 2</h3><p>You should spend about 40 minutes on this task.</p><p>Write about the following topic:</p><p>In their advertising, businesses nowadays usually emphasise that their products are new in some way.</p><p>Why is this? Do you think it is a positive or negative development?</p><p>Give reasons for your answer and include any relevant examples from your own knowledge or experience.</p><p>Write at least 250 words.</p>",
+      "questions": [
+        {
+          "id": 2,
+          "type": "essay",
+          "instruction": "Write about the following topic: In their advertising, businesses nowadays usually emphasise that their products are new in some way. Why is this? Do you think it is a positive or negative development? Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+          "content": "<p>Write your response for Task 2 here.</p>",
+          "answer": "Not applicable for writing tasks."
         }
       ]
     }
