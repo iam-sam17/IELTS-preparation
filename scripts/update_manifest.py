@@ -7,8 +7,8 @@ import json
 import os
 from pathlib import Path
 
-MANIFEST_PATH = "extracted_data/manifest.json"
-DATA_DIR = Path("extracted_data")
+DATA_DIR = Path("docs/extracted_data") if Path("docs/extracted_data").is_dir() else Path("extracted_data")
+MANIFEST_PATH = DATA_DIR / "manifest.json"
 
 with open(MANIFEST_PATH, "r", encoding="utf-8") as f:
     manifest = json.load(f)

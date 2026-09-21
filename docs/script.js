@@ -127,11 +127,14 @@ document.addEventListener('DOMContentLoaded', () => {
         const GITHUB_BRANCH = 'main';
 
         const dataSources = [
+            `extracted_data/${fileName}`,
+            `https://cdn.jsdelivr.net/gh/${GITHUB_REPO}@${GITHUB_BRANCH}/docs/extracted_data/${fileName}`,
+            `https://raw.githubusercontent.com/${GITHUB_REPO}/${GITHUB_BRANCH}/docs/extracted_data/${fileName}`,
             `https://cdn.jsdelivr.net/gh/${GITHUB_REPO}@${GITHUB_BRANCH}/extracted_data/${fileName}`,
             `https://raw.githubusercontent.com/${GITHUB_REPO}/${GITHUB_BRANCH}/extracted_data/${fileName}`,
+            `../docs/extracted_data/${fileName}`,
             `../extracted_data/${fileName}`,
-            `data/${fileName}`,
-            `data/c${book}_test${test}.json`
+            `data/${fileName}`
         ];
 
         let loaded = false;
