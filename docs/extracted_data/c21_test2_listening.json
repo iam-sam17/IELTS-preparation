@@ -8,76 +8,76 @@
       "part_number": 1,
       "title": "Part 1",
       "audio_file": "C21T2P1.mp3",
-      "passage": "<h3>One-day classes at Steynford College</h3>",
+      "passage": "\n    <h3>One-day classes at Steynford College</h3>\n    <p><strong>Questions 1-10</strong><br>Complete the table below.<br>Write <strong>ONE WORD AND/OR A NUMBER</strong> for each answer.</p>\n    <table border=\"1\" cellpadding=\"5\" style=\"border-collapse: collapse; width: 100%;\">\n        <thead>\n            <tr>\n                <th>Course</th>\n                <th>Date</th>\n                <th>Cost</th>\n                <th>Notes</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>Vietnamese food</td>\n                <td><input type='text' data-qid='1' class='ielts-input' style='width:120px;' /></td>\n                <td>\u00a359</td>\n                <td>It provides information on the use of herbs.<br>There are no places at present.</td>\n            </tr>\n            <tr>\n                <td>Bread making</td>\n                <td>20 March</td>\n                <td>\u00a3 <input type='text' data-qid='2' class='ielts-input' style='width:80px;' /></td>\n                <td>There is also an extra charge for ingredients.<br>Participants make white bread, sourdough and <input type='text' data-qid='3' class='ielts-input' style='width:100px;' />.</td>\n            </tr>\n            <tr>\n                <td>Face massage</td>\n                <td>23 February</td>\n                <td>\u00a335</td>\n                <td>The teacher trained in <input type='text' data-qid='4' class='ielts-input' style='width:120px;' />.<br>Bring a <input type='text' data-qid='5' class='ielts-input' style='width:100px;' />.</td>\n            </tr>\n            <tr>\n                <td>Candle making</td>\n                <td><input type='text' data-qid='6' class='ielts-input' style='width:100px;' /></td>\n                <td>\u00a352</td>\n                <td>Only <input type='text' data-qid='7' class='ielts-input' style='width:100px;' /> ingredients are used.<br>The candles can be used as presents.</td>\n            </tr>\n            <tr>\n                <td>Silk painting</td>\n                <td>18 May</td>\n                <td>\u00a3 <input type='text' data-qid='8' class='ielts-input' style='width:80px;' /></td>\n                <td>Bring an apron or old <input type='text' data-qid='9' class='ielts-input' style='width:100px;' />.</td>\n            </tr>\n            <tr>\n                <td>DIY for beginners</td>\n                <td>24 February</td>\n                <td>\u00a3125</td>\n                <td>Learn how to:<br>\u2022 use a drill, saw and <input type='text' data-qid='10' class='ielts-input' style='width:100px;' /><br>\u2022 put up a shelf.</td>\n            </tr>\n        </tbody>\n    </table>\n    ",
       "questions": [
         {
           "id": 1,
           "type": "fill_in_the_blank",
           "instruction": "Complete the table below. Write ONE WORD AND/OR A NUMBER for each answer.",
-          "content": "Vietnamese food | <input type='text' data-qid='1' class='ielts-input' /> | £59 | It provides information on the use of herbs. There are no places at present.",
+          "content": "Question 1",
           "answer": "13th January"
         },
         {
           "id": 2,
           "type": "fill_in_the_blank",
           "instruction": "Complete the table below. Write ONE WORD AND/OR A NUMBER for each answer.",
-          "content": "Bread making | 20 March | £ <input type='text' data-qid='2' class='ielts-input' /> | There is also an extra charge for ingredients. Participants make white bread, sourdough and <input type='text' data-qid='3' class='ielts-input' />.",
+          "content": "Question 2",
           "answer": "48"
         },
         {
           "id": 3,
           "type": "fill_in_the_blank",
           "instruction": "Complete the table below. Write ONE WORD AND/OR A NUMBER for each answer.",
-          "content": "Bread making | 20 March | £48 | There is also an extra charge for ingredients. Participants make white bread, sourdough and <input type='text' data-qid='3' class='ielts-input' />.",
+          "content": "Question 3",
           "answer": "pizza"
         },
         {
           "id": 4,
           "type": "fill_in_the_blank",
           "instruction": "Complete the table below. Write ONE WORD AND/OR A NUMBER for each answer.",
-          "content": "Face massage | 23 February | £35 | The teacher trained in <input type='text' data-qid='4' class='ielts-input' />. Bring a <input type='text' data-qid='5' class='ielts-input' />.",
+          "content": "Question 4",
           "answer": "India"
         },
         {
           "id": 5,
           "type": "fill_in_the_blank",
           "instruction": "Complete the table below. Write ONE WORD AND/OR A NUMBER for each answer.",
-          "content": "Face massage | 23 February | £35 | The teacher trained in India. Bring a <input type='text' data-qid='5' class='ielts-input' />.",
+          "content": "Question 5",
           "answer": "mirror"
         },
         {
           "id": 6,
           "type": "fill_in_the_blank",
           "instruction": "Complete the table below. Write ONE WORD AND/OR A NUMBER for each answer.",
-          "content": "Candle making | <input type='text' data-qid='6' class='ielts-input' /> | £52 | Only <input type='text' data-qid='7' class='ielts-input' /> ingredients are used. The candles can be used as presents.",
+          "content": "Question 6",
           "answer": "6th April"
         },
         {
           "id": 7,
           "type": "fill_in_the_blank",
           "instruction": "Complete the table below. Write ONE WORD AND/OR A NUMBER for each answer.",
-          "content": "Candle making | 6 April | £52 | Only <input type='text' data-qid='7' class='ielts-input' /> ingredients are used. The candles can be used as presents.",
+          "content": "Question 7",
           "answer": "natural"
         },
         {
           "id": 8,
           "type": "fill_in_the_blank",
           "instruction": "Complete the table below. Write ONE WORD AND/OR A NUMBER for each answer.",
-          "content": "Silk painting | 18 May | £ <input type='text' data-qid='8' class='ielts-input' /> | Bring an apron or old <input type='text' data-qid='9' class='ielts-input' />.",
+          "content": "Question 8",
           "answer": "67.50"
         },
         {
           "id": 9,
           "type": "fill_in_the_blank",
           "instruction": "Complete the table below. Write ONE WORD AND/OR A NUMBER for each answer.",
-          "content": "Silk painting | 18 May | £67.50 | Bring an apron or old <input type='text' data-qid='9' class='ielts-input' />.",
+          "content": "Question 9",
           "answer": "shirt"
         },
         {
           "id": 10,
           "type": "fill_in_the_blank",
           "instruction": "Complete the table below. Write ONE WORD AND/OR A NUMBER for each answer.",
-          "content": "DIY for beginners | 24 February | £125 | Learn how to use a drill, saw and <input type='text' data-qid='10' class='ielts-input' /> • put up a shelf.",
+          "content": "Question 10",
           "answer": "hammer"
         }
       ]

@@ -252,6 +252,11 @@ document.addEventListener('DOMContentLoaded', () => {
                     }
                 };
             }
+            const passageContainer = document.getElementById('listening-passage-content');
+            if (passageContainer) {
+                passageContainer.innerHTML = part.passage || '';
+                passageContainer.style.display = part.passage ? 'block' : 'none';
+            }
             const questionsContainer = document.getElementById('listening-questions-content');
             questionsContainer.innerHTML = '';
             if (part.questions && part.questions.length > 0) {

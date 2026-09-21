@@ -6,9 +6,9 @@
   "parts": [
     {
       "part_number": 1,
-      "title": "Working at Milo’s Restaurants",
+      "title": "Working at Milo\u2019s Restaurants",
       "audio_file": "C 18 test 2 [@cambridge_library]/C 18 section2-part1[@cambridge_library].mp3",
-      "passage": "<h3>PART 1</h3><h3>Questions 1-5</h3><p>Complete the notes below.</p><p>Write ONE WORD ONLY for each answer.</p><h3>Working at Milo’s Restaurants</h3><p>Benefits:</p><p>• provided for all staff <input type='text' data-qid='1' class='ielts-input' /></p><p>• <input type='text' data-qid='2' class='ielts-input' /> during weekdays at all Milo’s Restaurants</p><p>• <input type='text' data-qid='3' class='ielts-input' /> provided after midnight</p><p>Person specification:</p><p>• must be prepared to work well in a team</p><p>• must care about maintaining a high standard of <input type='text' data-qid='4' class='ielts-input' /></p><p>• must have a qualification in <input type='text' data-qid='5' class='ielts-input' /></p><h3>Questions 6-10</h3><p>Complete the table below.</p><p>Write ONE WORD AND/OR A NUMBER for each answer.</p>",
+      "passage": "<h3>PART 1</h3><h3>Questions 1-5</h3><p>Complete the notes below.</p><p>Write ONE WORD ONLY for each answer.</p><h3>Working at Milo\u2019s Restaurants</h3><p>Benefits:</p><p>\u2022 provided for all staff <input type='text' data-qid='1' class='ielts-input' /></p><p>\u2022 <input type='text' data-qid='2' class='ielts-input' /> during weekdays at all Milo\u2019s Restaurants</p><p>\u2022 <input type='text' data-qid='3' class='ielts-input' /> provided after midnight</p><p>Person specification:</p><p>\u2022 must be prepared to work well in a team</p><p>\u2022 must care about maintaining a high standard of <input type='text' data-qid='4' class='ielts-input' /></p><p>\u2022 must have a qualification in <input type='text' data-qid='5' class='ielts-input' /></p><h3>Questions 6-10</h3><p>Complete the table below.</p><p>Write ONE WORD AND/OR A NUMBER for each answer.</p><br>\n<table id=\"patched\" border=\"1\" cellpadding=\"5\" style=\"border-collapse: collapse; width: 100%;\">\n    <thead>\n        <tr>\n            <th>Location</th>\n            <th>Job title</th>\n            <th>Responsibilities include</th>\n            <th>Pay and conditions</th>\n        </tr>\n    </thead>\n    <tbody>\n        <tr>\n            <td><input type='text' data-qid='6' class='ielts-input' style='width:100px;' /> Street</td>\n            <td>Breakfast supervisor</td>\n            <td>Checking portions, etc. are correct</td>\n            <td>Starting salary \u00a39.75 per hour</td>\n        </tr>\n        <tr>\n            <td>City Road</td>\n            <td>Breakfast supervisor</td>\n            <td>Making sure <input type='text' data-qid='7' class='ielts-input' style='width:100px;' /> is clean</td>\n            <td>Start work at 5.30 a.m.</td>\n        </tr>\n        <tr>\n            <td>City Road</td>\n            <td>Breakfast supervisor</td>\n            <td>Making sure equipment is clean</td>\n            <td>Starting salary \u00a3<input type='text' data-qid='8' class='ielts-input' style='width:60px;' /> per hour</td>\n        </tr>\n        <tr>\n            <td><input type='text' data-qid='9' class='ielts-input' style='width:100px;' /></td>\n            <td>Junior chef</td>\n            <td>Supporting senior chefs</td>\n            <td>Annual salary \u00a323,000</td>\n        </tr>\n        <tr>\n            <td>City Road</td>\n            <td>Junior chef</td>\n            <td>Maintaining stock and organising <input type='text' data-qid='10' class='ielts-input' style='width:100px;' /> once a month</td>\n            <td>No work on a Sunday</td>\n        </tr>\n    </tbody>\n</table>\n",
       "questions": [
         {
           "id": 1,
@@ -21,7 +21,7 @@
           "id": 2,
           "type": "fill_in_the_blank",
           "instruction": "Write ONE WORD ONLY for each answer.",
-          "content": "<input type='text' data-qid='2' class='ielts-input' /> during weekdays at all Milo’s Restaurants",
+          "content": "<input type='text' data-qid='2' class='ielts-input' /> during weekdays at all Milo\u2019s Restaurants",
           "answer": "discount"
         },
         {
@@ -49,35 +49,35 @@
           "id": 6,
           "type": "fill_in_the_blank",
           "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
-          "content": "Location: <input type='text' data-qid='6' class='ielts-input' /> Street | Job title: Breakfast supervisor | Responsibilities include: Checking portions, etc. are correct | Pay and conditions: Starting salary £9.75 per hour",
+          "content": "Question 6",
           "answer": "Wivenhoe"
         },
         {
           "id": 7,
           "type": "fill_in_the_blank",
           "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
-          "content": "Location: City Road | Job title: Breakfast supervisor | Responsibilities include: Making sure <input type='text' data-qid='7' class='ielts-input' /> is clean | Pay and conditions: Start work at 5.30 a.m.",
+          "content": "Question 7",
           "answer": "equipment"
         },
         {
           "id": 8,
           "type": "fill_in_the_blank",
           "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
-          "content": "Location: City Road | Job title: Breakfast supervisor | Responsibilities include: Making sure equipment is clean | Pay and conditions: Starting salary £<input type='text' data-qid='8' class='ielts-input' /> per hour",
+          "content": "Question 8",
           "answer": "9.75"
         },
         {
           "id": 9,
           "type": "fill_in_the_blank",
           "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
-          "content": "Location: <input type='text' data-qid='9' class='ielts-input' /> | Job title: Junior chef | Responsibilities include: Supporting senior chefs | Pay and conditions: Annual salary £23,000",
+          "content": "Question 9",
           "answer": "deliveries"
         },
         {
           "id": 10,
           "type": "fill_in_the_blank",
           "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
-          "content": "Location: City Road | Job title: Junior chef | Responsibilities include: Maintaining stock and organising <input type='text' data-qid='10' class='ielts-input' /> once a month | Pay and conditions: No work on a Sunday",
+          "content": "Question 10",
           "answer": "Sunday"
         }
       ]
@@ -86,7 +86,7 @@
       "part_number": 2,
       "title": "Housing Development & Map",
       "audio_file": "C 18 test 2 [@cambridge_library]/C 18 section2-part2[@cambridge_library].mp3",
-      "passage": "<h3>PART 2</h3><h3>Questions 11 and 12</h3><p>Choose TWO letters, A-E.</p><p>What are the TWO main reasons why this site has been chosen for the housing development?</p><p>A It has suitable geographical features.<br>B There is easy access to local facilities.<br>C It has good connections with the airport.<br>D The land is of little agricultural value.<br>E It will be convenient for workers.</p><h3>Questions 13 and 14</h3><p>Choose TWO letters, A-E.</p><p>Which TWO aspects of the planned housing development have people given positive feedback about?</p><p>A the facilities for cyclists<br>B the impact on the environment<br>C the encouragement of good relations between residents<br>D the low cost of all the accommodation<br>E the rural location</p><h3>Questions 15-20</h3><p>Label the map below.</p><p>Write the correct letter, A–I, next to Questions 15-20.</p>",
+      "passage": "<h3>PART 2</h3><h3>Questions 11 and 12</h3><p>Choose TWO letters, A-E.</p><p>What are the TWO main reasons why this site has been chosen for the housing development?</p><p>A It has suitable geographical features.<br>B There is easy access to local facilities.<br>C It has good connections with the airport.<br>D The land is of little agricultural value.<br>E It will be convenient for workers.</p><h3>Questions 13 and 14</h3><p>Choose TWO letters, A-E.</p><p>Which TWO aspects of the planned housing development have people given positive feedback about?</p><p>A the facilities for cyclists<br>B the impact on the environment<br>C the encouragement of good relations between residents<br>D the low cost of all the accommodation<br>E the rural location</p><h3>Questions 15-20</h3><p>Label the map below.</p><p>Write the correct letter, A\u2013I, next to Questions 15-20.</p>",
       "questions": [
         {
           "id": 11,
@@ -119,42 +119,42 @@
         {
           "id": 15,
           "type": "fill_in_the_blank",
-          "instruction": "Label the map below. Write the correct letter, A–I.",
+          "instruction": "Label the map below. Write the correct letter, A\u2013I.",
           "content": "15 School",
           "answer": "G"
         },
         {
           "id": 16,
           "type": "fill_in_the_blank",
-          "instruction": "Label the map below. Write the correct letter, A–I.",
+          "instruction": "Label the map below. Write the correct letter, A\u2013I.",
           "content": "16 Sports centre",
           "answer": "C"
         },
         {
           "id": 17,
           "type": "fill_in_the_blank",
-          "instruction": "Label the map below. Write the correct letter, A–I.",
+          "instruction": "Label the map below. Write the correct letter, A\u2013I.",
           "content": "17 Clinic",
           "answer": "D"
         },
         {
           "id": 18,
           "type": "fill_in_the_blank",
-          "instruction": "Label the map below. Write the correct letter, A–I.",
+          "instruction": "Label the map below. Write the correct letter, A\u2013I.",
           "content": "18 Community centre",
           "answer": "B"
         },
         {
           "id": 19,
           "type": "fill_in_the_blank",
-          "instruction": "Label the map below. Write the correct letter, A–I.",
+          "instruction": "Label the map below. Write the correct letter, A\u2013I.",
           "content": "19 Supermarket",
           "answer": "H"
         },
         {
           "id": 20,
           "type": "fill_in_the_blank",
-          "instruction": "Label the map below. Write the correct letter, A–I.",
+          "instruction": "Label the map below. Write the correct letter, A\u2013I.",
           "content": "20 Playground",
           "answer": "A"
         }

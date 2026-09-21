@@ -8,13 +8,13 @@
       "part_number": 1,
       "title": "Local food shops",
       "audio_file": "T3 P1 [@cambridge_library].mp3",
-      "passage": "<h3>Local food shops</h3>",
+      "passage": "<h3>Local food shops</h3><br>\n<table id=\"patched\" border=\"1\" cellpadding=\"5\" style=\"border-collapse: collapse; width: 100%;\">\n    <thead>\n        <tr>\n            <th>Place</th>\n            <th>Item</th>\n            <th>Other ideas</th>\n        </tr>\n    </thead>\n    <tbody>\n        <tr>\n            <td>Fish market</td>\n            <td>a dozen prawns</td>\n            <td>a handful of <input type='text' data-qid='7' class='ielts-input' style='width:100px;' /> (type of seaweed)</td>\n        </tr>\n        <tr>\n            <td>Organic shop</td>\n            <td>beans</td>\n            <td>a <input type='text' data-qid='8' class='ielts-input' style='width:100px;' /> for dessert</td>\n        </tr>\n        <tr>\n            <td>Organic shop</td>\n            <td>spices</td>\n            <td><input type='text' data-qid='9' class='ielts-input' style='width:100px;' /></td>\n        </tr>\n        <tr>\n            <td>Bakery</td>\n            <td>a brown loaf</td>\n            <td>a <input type='text' data-qid='10' class='ielts-input' style='width:100px;' /> tart</td>\n        </tr>\n    </tbody>\n</table>\n",
       "questions": [
         {
           "id": 1,
           "type": "fill_in_the_blank",
           "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
-          "content": "<p>Kite Place – near the <input type='text' data-qid='1' class='ielts-input' /></p>",
+          "content": "<p>Kite Place \u2013 near the <input type='text' data-qid='1' class='ielts-input' /></p>",
           "answer": "harbour"
         },
         {
@@ -56,28 +56,28 @@
           "id": 7,
           "type": "fill_in_the_blank",
           "instruction": "Write ONE WORD ONLY for each answer.",
-          "content": "<p>Fish market: a dozen prawns | Other ideas: a handful of <input type='text' data-qid='7' class='ielts-input' /> (type of seaweed)</p>",
+          "content": "Question 7",
           "answer": "samphire"
         },
         {
           "id": 8,
           "type": "fill_in_the_blank",
           "instruction": "Write ONE WORD ONLY for each answer.",
-          "content": "<p>Organic shop: beans and a <input type='text' data-qid='8' class='ielts-input' /> for dessert</p>",
+          "content": "Question 8",
           "answer": "melon"
         },
         {
           "id": 9,
           "type": "fill_in_the_blank",
           "instruction": "Write ONE WORD ONLY for each answer.",
-          "content": "<p>Organic shop: spices and <input type='text' data-qid='9' class='ielts-input' /> Other ideas</p>",
+          "content": "Question 9",
           "answer": "coconut"
         },
         {
           "id": 10,
           "type": "fill_in_the_blank",
           "instruction": "Write ONE WORD ONLY for each answer.",
-          "content": "<p>Bakery: a brown loaf | Other ideas: a <input type='text' data-qid='10' class='ielts-input' /> tart</p>",
+          "content": "Question 10",
           "answer": "strawberry"
         }
       ]
@@ -86,75 +86,75 @@
       "part_number": 2,
       "title": "Festival workshops",
       "audio_file": "T3 P2 [@cambridge_library].mp3",
-      "passage": "<h3>Festival workshops</h3><p>Choose SIX answers from the box and write the correct letter, <strong>A–H</strong>, next to Questions 11–16.</p><p><strong>Information</strong><br>A involves painting and drawing<br>B will be led by a prize-winning author<br>C is aimed at children with a disability<br>D involves a drama activity<br>E focuses on new relationships<br>F is aimed at a specific age group<br>G explores an unhappy feeling<br>H raises awareness of a particular culture</p>",
+      "passage": "<h3>Festival workshops</h3><p>Choose SIX answers from the box and write the correct letter, <strong>A\u2013H</strong>, next to Questions 11\u201316.</p><p><strong>Information</strong><br>A involves painting and drawing<br>B will be led by a prize-winning author<br>C is aimed at children with a disability<br>D involves a drama activity<br>E focuses on new relationships<br>F is aimed at a specific age group<br>G explores an unhappy feeling<br>H raises awareness of a particular culture</p>",
       "questions": [
         {
           "id": 11,
           "type": "matching_headings",
-          "instruction": "Choose SIX answers from the box and write the correct letter, A–H, next to Questions 11–16.",
+          "instruction": "Choose SIX answers from the box and write the correct letter, A\u2013H, next to Questions 11\u201316.",
           "content": "<p>11 Superheroes <input type='text' data-qid='11' class='ielts-input' /></p>",
           "answer": "C"
         },
         {
           "id": 12,
           "type": "matching_headings",
-          "instruction": "Choose SIX answers from the box and write the correct letter, A–H, next to Questions 11–16.",
+          "instruction": "Choose SIX answers from the box and write the correct letter, A\u2013H, next to Questions 11\u201316.",
           "content": "<p>12 Just do it <input type='text' data-qid='12' class='ielts-input' /></p>",
           "answer": "D"
         },
         {
           "id": 13,
           "type": "matching_headings",
-          "instruction": "Choose SIX answers from the box and write the correct letter, A–H, next to Questions 11–16.",
+          "instruction": "Choose SIX answers from the box and write the correct letter, A\u2013H, next to Questions 11\u201316.",
           "content": "<p>13 Count on me <input type='text' data-qid='13' class='ielts-input' /></p>",
           "answer": "F"
         },
         {
           "id": 14,
           "type": "matching_headings",
-          "instruction": "Choose SIX answers from the box and write the correct letter, A–H, next to Questions 11–16.",
+          "instruction": "Choose SIX answers from the box and write the correct letter, A\u2013H, next to Questions 11\u201316.",
           "content": "<p>14 Speak up <input type='text' data-qid='14' class='ielts-input' /></p>",
           "answer": "G"
         },
         {
           "id": 15,
           "type": "matching_headings",
-          "instruction": "Choose SIX answers from the box and write the correct letter, A–H, next to Questions 11–16.",
+          "instruction": "Choose SIX answers from the box and write the correct letter, A\u2013H, next to Questions 11\u201316.",
           "content": "<p>15 Jump for joy <input type='text' data-qid='15' class='ielts-input' /></p>",
           "answer": "B"
         },
         {
           "id": 16,
           "type": "matching_headings",
-          "instruction": "Choose SIX answers from the box and write the correct letter, A–H, next to Questions 11–16.",
+          "instruction": "Choose SIX answers from the box and write the correct letter, A\u2013H, next to Questions 11\u201316.",
           "content": "<p>16 Sticks and stones <input type='text' data-qid='16' class='ielts-input' /></p>",
           "answer": "H"
         },
         {
           "id": 17,
           "type": "multiple_choice",
-          "instruction": "Choose TWO letters, A–E.",
+          "instruction": "Choose TWO letters, A\u2013E.",
           "content": "<p>Which TWO reasons does the speaker give for recommending <em>Alive and Kicking</em>?</p><label><input type='checkbox' name='q17' value='A'> A. It will appeal to both boys and girls.</label><br><label><input type='checkbox' name='q17' value='B'> B. The author is well known.</label><br><label><input type='checkbox' name='q17' value='C'> C. It has colourful illustrations.</label><br><label><input type='checkbox' name='q17' value='D'> D. It is funny.</label><br><label><input type='checkbox' name='q17' value='E'> E. It deals with an important topic.</label>",
           "answer": "D, E"
         },
         {
           "id": 18,
           "type": "multiple_choice",
-          "instruction": "Choose TWO letters, A–E.",
+          "instruction": "Choose TWO letters, A\u2013E.",
           "content": "<p>Which TWO reasons does the speaker give for recommending <em>Alive and Kicking</em>?</p><label><input type='checkbox' name='q18' value='A'> A. It will appeal to both boys and girls.</label><br><label><input type='checkbox' name='q18' value='B'> B. The author is well known.</label><br><label><input type='checkbox' name='q18' value='C'> C. It has colourful illustrations.</label><br><label><input type='checkbox' name='q18' value='D'> D. It is funny.</label><br><label><input type='checkbox' name='q18' value='E'> E. It deals with an important topic.</label>",
           "answer": "D, E"
         },
         {
           "id": 19,
           "type": "multiple_choice",
-          "instruction": "Choose TWO letters, A–E.",
+          "instruction": "Choose TWO letters, A\u2013E.",
           "content": "<p>Which TWO pieces of advice does the speaker give to parents about reading?</p><label><input type='checkbox' name='q19' value='A'> A. Encourage children to write down new vocabulary.</label><br><label><input type='checkbox' name='q19' value='B'> B. Allow children to listen to audio books.</label><br><label><input type='checkbox' name='q19' value='C'> C. Get recommendations from librarians.</label><br><label><input type='checkbox' name='q19' value='D'> D. Give children a choice about what they read.</label><br><label><input type='checkbox' name='q19' value='E'> E. Only read aloud to children until they can read independently.</label>",
           "answer": "B, C"
         },
         {
           "id": 20,
           "type": "multiple_choice",
-          "instruction": "Choose TWO letters, A–E.",
+          "instruction": "Choose TWO letters, A\u2013E.",
           "content": "<p>Which TWO pieces of advice does the speaker give to parents about reading?</p><label><input type='checkbox' name='q20' value='A'> A. Encourage children to write down new vocabulary.</label><br><label><input type='checkbox' name='q20' value='B'> B. Allow children to listen to audio books.</label><br><label><input type='checkbox' name='q20' value='C'> C. Get recommendations from librarians.</label><br><label><input type='checkbox' name='q20' value='D'> D. Give children a choice about what they read.</label><br><label><input type='checkbox' name='q20' value='E'> E. Only read aloud to children until they can read independently.</label>",
           "answer": "B, C"
         }
@@ -204,35 +204,35 @@
         {
           "id": 26,
           "type": "matching_headings",
-          "instruction": "Choose FIVE answers from the box and write the correct letter, A–H, next to Questions 26–30.\n\nA size\nB escape\nC age\nD water\nE cereal\nF calculations\nG changes\nH colour",
+          "instruction": "Choose FIVE answers from the box and write the correct letter, A\u2013H, next to Questions 26\u201330.\n\nA size\nB escape\nC age\nD water\nE cereal\nF calculations\nG changes\nH colour",
           "content": "<p>Choose mice which are all the same <input type='text' data-qid='26' class='ielts-input' />.</p>",
           "answer": "C"
         },
         {
           "id": 27,
           "type": "matching_headings",
-          "instruction": "Choose FIVE answers from the box and write the correct letter, A–H, next to Questions 26–30.",
+          "instruction": "Choose FIVE answers from the box and write the correct letter, A\u2013H, next to Questions 26\u201330.",
           "content": "<p>Divide the mice into two groups, each with a different <input type='text' data-qid='27' class='ielts-input' />.</p>",
           "answer": "H"
         },
         {
           "id": 28,
           "type": "matching_headings",
-          "instruction": "Choose FIVE answers from the box and write the correct letter, A–H, next to Questions 26–30.",
+          "instruction": "Choose FIVE answers from the box and write the correct letter, A\u2013H, next to Questions 26\u201330.",
           "content": "<p>Put each group in a separate cage. Feed group A commercial mouse food. Feed group B the same, but also sugar contained in <input type='text' data-qid='28' class='ielts-input' />.</p>",
           "answer": "E"
         },
         {
           "id": 29,
           "type": "matching_headings",
-          "instruction": "Choose FIVE answers from the box and write the correct letter, A–H, next to Questions 26–30.",
+          "instruction": "Choose FIVE answers from the box and write the correct letter, A\u2013H, next to Questions 26\u201330.",
           "content": "<p>Take measurements using an electronic scale. Place them in a weighing chamber to prevent <input type='text' data-qid='29' class='ielts-input' />.</p>",
           "answer": "B"
         },
         {
           "id": 30,
           "type": "matching_headings",
-          "instruction": "Choose FIVE answers from the box and write the correct letter, A–H, next to Questions 26–30.",
+          "instruction": "Choose FIVE answers from the box and write the correct letter, A\u2013H, next to Questions 26\u201330.",
           "content": "<p>Do all necessary <input type='text' data-qid='30' class='ielts-input' />.</p>",
           "answer": "F"
         }
