@@ -1,0 +1,38 @@
+{
+  "book": 21,
+  "test": 1,
+  "module": "Writing",
+  "title": "Cambridge 21 Writing Test 1",
+  "parts": [
+    {
+      "part_number": 1,
+      "title": "WRITING TASK 1",
+      "audio_file": "",
+      "passage": "<h3>WRITING TASK 1</h3><p>You should spend about 20 minutes on this task.</p><p>The graph below gives information about the number of jobs in four sectors of the economy in the US between 1960 and 2020.</p><p>Summarise the information by selecting and reporting the main features, and make comparisons where relevant.</p><p>Write at least 150 words.</p><p><b>Number of jobs in four sectors of the economy in the US, 1960-2020</b></p><p>The graph shows the number of jobs in millions (Y-axis, from 0 to 25) across four sectors (Manufacturing, Retail, Agriculture, Healthcare) over the years 1960, 1980, 2000, and 2020 (X-axis).</p><ul><li><b>Manufacturing:</b> Started at approximately 20 million jobs in 1960, showed a slight increase by 1980, then steadily declined to around 12 million jobs by 2020.</li><li><b>Retail:</b> Began at about 9 million jobs in 1960 and experienced a consistent increase, reaching approximately 15 million jobs by 2020.</li><li><b>Agriculture:</b> Started at around 8 million jobs in 1960 and saw a continuous decline, reaching roughly 2 million jobs by 2020, becoming the sector with the fewest jobs.</li><li><b>Healthcare:</b> Started at a relatively low point of approximately 3 million jobs in 1960 but showed a dramatic and continuous increase, becoming the sector with the most jobs at around 23 million by 2020.</li></ul>",
+      "questions": [
+        {
+          "id": 1,
+          "type": "essay",
+          "instruction": "Write at least 150 words.",
+          "content": "<textarea data-qid='1' class='ielts-textarea' rows='10' placeholder='Your answer for Writing Task 1'></textarea>",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "part_number": 2,
+      "title": "WRITING TASK 2",
+      "audio_file": "",
+      "passage": "<h3>WRITING TASK 2</h3><p>You should spend about 40 minutes on this task.</p><p>Write about the following topic:</p><p><b>The best way to provide enough homes in large cities is to build tall apartment blocks.</b></p><p>To what extent do you agree or disagree with this statement?</p><p>Give reasons for your answer and include any relevant examples from your own knowledge or experience.</p><p>Write at least 250 words.</p>",
+      "questions": [
+        {
+          "id": 2,
+          "type": "essay",
+          "instruction": "Write at least 250 words.",
+          "content": "<textarea data-qid='2' class='ielts-textarea' rows='15' placeholder='Your answer for Writing Task 2'></textarea>",
+          "answer": ""
+        }
+      ]
+    }
+  ]
+}

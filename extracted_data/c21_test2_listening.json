@@ -1,0 +1,320 @@
+{
+  "book": 21,
+  "test": 2,
+  "module": "Listening",
+  "title": "Cambridge 21 Listening Test 2",
+  "parts": [
+    {
+      "part_number": 1,
+      "title": "One-day classes at Steynford College",
+      "audio_file": "C21T2P1.mp3",
+      "passage": "",
+      "questions": [
+        {
+          "id": 1,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below.<br>Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Taster day introduction to sailing £120 if booking one place 1.<input type='text' data-qid='1' class='ielts-input' /> people)",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 2,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below.<br>Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Level 1 basic theory e.g. understanding the 2.<input type='text' data-qid='2' class='ielts-input' /> and tides",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 3,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below.<br>Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "basic sailing skills including 3.<input type='text' data-qid='3' class='ielts-input' /> information useful",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 4,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below.<br>Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "4.<input type='text' data-qid='4' class='ielts-input' /> available course for all participants",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 5,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below.<br>Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "all inclusive (plus a 5.<input type='text' data-qid='5' class='ielts-input' />)",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 6,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below.<br>Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "£200 a 6.<input type='text' data-qid='6' class='ielts-input' /> at the end of the",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 7,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below.<br>Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Only 7.<input type='text' data-qid='7' class='ielts-input' /> ingredients are used.",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 8,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below.<br>Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "8.<input type='text' data-qid='8' class='ielts-input' /> Bring an apron or old",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 9,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below.<br>Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "9.<input type='text' data-qid='9' class='ielts-input' /> DIY for beginners",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 10,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below.<br>Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "use a drill, saw and 10.<input type='text' data-qid='10' class='ielts-input' />",
+          "answer": "ANSWER_REQUIRED"
+        }
+      ]
+    },
+    {
+      "part_number": 2,
+      "title": "Marsden Coastal Walk and Melby Heritage Walk",
+      "audio_file": "C21T2P2.1.mp3",
+      "passage": "",
+      "questions": [
+        {
+          "id": 11,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.<br>Which TWO pieces of advice are given about the Marsden Coastal Walk?",
+          "content": "A. <label><input type='checkbox' name='q11-12' value='A'> Stop for lunch in an ancient town.</label><br>B. <label><input type='checkbox' name='q11-12' value='B'> Don't miss the ruins of a certain building.</label><br>C. <label><input type='checkbox' name='q11-12' value='C'> Catch a boat to the start of this walk.</label><br>D. <label><input type='checkbox' name='q11-12' value='D'> Be careful of the steep and rocky paths.</label><br>E. <label><input type='checkbox' name='q11-12' value='E'> Don't worry about getting lost.</label>",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 12,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.<br>Which TWO pieces of advice are given about the Marsden Coastal Walk?",
+          "content": "A. <label><input type='checkbox' name='q11-12' value='A'> Stop for lunch in an ancient town.</label><br>B. <label><input type='checkbox' name='q11-12' value='B'> Don't miss the ruins of a certain building.</label><br>C. <label><input type='checkbox' name='q11-12' value='C'> Catch a boat to the start of this walk.</label><br>D. <label><input type='checkbox' name='q11-12' value='D'> Be careful of the steep and rocky paths.</label><br>E. <label><input type='checkbox' name='q11-12' value='E'> Don't worry about getting lost.</label>",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 13,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.<br>Which TWO things are said about the Melby Heritage Walk?",
+          "content": "A. <label><input type='checkbox' name='q13-14' value='A'> This walk is mostly downhill.</label><br>B. <label><input type='checkbox' name='q13-14' value='B'> The paths can get busy during the day.</label><br>C. <label><input type='checkbox' name='q13-14' value='C'> This is a circular walk.</label><br>D. <label><input type='checkbox' name='q13-14' value='D'> A tower stands on the site of an older structure.</label><br>E. <label><input type='checkbox' name='q13-14' value='E'> There are far-reaching views the whole way.</label>",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 14,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.<br>Which TWO things are said about the Melby Heritage Walk?",
+          "content": "A. <label><input type='checkbox' name='q13-14' value='A'> This walk is mostly downhill.</label><br>B. <label><input type='checkbox' name='q13-14' value='B'> The paths can get busy during the day.</label><br>C. <label><input type='checkbox' name='q13-14' value='C'> This is a circular walk.</label><br>D. <label><input type='checkbox' name='q13-14' value='D'> A tower stands on the site of an older structure.</label><br>E. <label><input type='checkbox' name='q13-14' value='E'> There are far-reaching views the whole way.</label>",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 15,
+          "type": "matching",
+          "instruction": "Label the map below. Write the correct letter, A-I, next to Questions 15-20.<br><p>The map shows locations A-I within the Melby Coal Mine site. Match the following items to their corresponding locations.</p>",
+          "content": "Engine house <input type='text' data-qid='15' class='ielts-input' maxlength='1' />",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 16,
+          "type": "matching",
+          "instruction": "Label the map below. Write the correct letter, A-I, next to Questions 15-20.<br><p>The map shows locations A-I within the Melby Coal Mine site. Match the following items to their corresponding locations.</p>",
+          "content": "Exhibition <input type='text' data-qid='16' class='ielts-input' maxlength='1' />",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 17,
+          "type": "matching",
+          "instruction": "Label the map below. Write the correct letter, A-I, next to Questions 15-20.<br><p>The map shows locations A-I within the Melby Coal Mine site. Match the following items to their corresponding locations.</p>",
+          "content": "Baths <input type='text' data-qid='17' class='ielts-input' maxlength='1' />",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 18,
+          "type": "matching",
+          "instruction": "Label the map below. Write the correct letter, A-I, next to Questions 15-20.<br><p>The map shows locations A-I within the Melby Coal Mine site. Match the following items to their corresponding locations.</p>",
+          "content": "Tools <input type='text' data-qid='18' class='ielts-input' maxlength='1' />",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 19,
+          "type": "matching",
+          "instruction": "Label the map below. Write the correct letter, A-I, next to Questions 15-20.<br><p>The map shows locations A-I within the Melby Coal Mine site. Match the following items to their corresponding locations.</p>",
+          "content": "Vehicles <input type='text' data-qid='19' class='ielts-input' maxlength='1' />",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 20,
+          "type": "matching",
+          "instruction": "Label the map below. Write the correct letter, A-I, next to Questions 15-20.<br><p>The map shows locations A-I within the Melby Coal Mine site. Match the following items to their corresponding locations.</p>",
+          "content": "Ponies <input type='text' data-qid='20' class='ielts-input' maxlength='1' />",
+          "answer": "ANSWER_REQUIRED"
+        }
+      ]
+    },
+    {
+      "part_number": 3,
+      "title": "Student discussion on food safety and a new food product",
+      "audio_file": "C21T2P3.1.mp3",
+      "passage": "",
+      "questions": [
+        {
+          "id": 21,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.<br>Which TWO facts in the sessions on food safety were new information for Nadia and Fergus?",
+          "content": "A. <label><input type='checkbox' name='q21-22' value='A'> the amount of plastic in the ocean</label><br>B. <label><input type='checkbox' name='q21-22' value='B'> the number of diseases caused by contaminated food</label><br>C. <label><input type='checkbox' name='q21-22' value='C'> the amount of food that is wasted</label><br>D. <label><input type='checkbox' name='q21-22' value='D'> the number of people who are obese</label><br>E. <label><input type='checkbox' name='q21-22' value='E'> the result of treating animals with antibiotics</label>",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 22,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.<br>Which TWO facts in the sessions on food safety were new information for Nadia and Fergus?",
+          "content": "A. <label><input type='checkbox' name='q21-22' value='A'> the amount of plastic in the ocean</label><br>B. <label><input type='checkbox' name='q21-22' value='B'> the number of diseases caused by contaminated food</label><br>C. <label><input type='checkbox' name='q21-22' value='C'> the amount of food that is wasted</label><br>D. <label><input type='checkbox' name='q21-22' value='D'> the number of people who are obese</label><br>E. <label><input type='checkbox' name='q21-22' value='E'> the result of treating animals with antibiotics</label>",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 23,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.<br>Which TWO features of a project aiming to prevent food fraud impressed Fergus?",
+          "content": "A. <label><input type='checkbox' name='q23-24' value='A'> the new technology it used</label><br>B. <label><input type='checkbox' name='q23-24' value='B'> the publicity it received</label><br>C. <label><input type='checkbox' name='q23-24' value='C'> the use of multiple tests on food items</label><br>D. <label><input type='checkbox' name='q23-24' value='D'> the variety of dietary requirements included</label><br>E. <label><input type='checkbox' name='q23-24' value='E'> the way information was made widely accessible</label>",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 24,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.<br>Which TWO features of a project aiming to prevent food fraud impressed Fergus?",
+          "content": "A. <label><input type='checkbox' name='q23-24' value='A'> the new technology it used</label><br>B. <label><input type='checkbox' name='q23-24' value='B'> the publicity it received</label><br>C. <label><input type='checkbox' name='q23-24' value='C'> the use of multiple tests on food items</label><br>D. <label><input type='checkbox' name='q23-24' value='D'> the variety of dietary requirements included</label><br>E. <label><input type='checkbox' name='q23-24' value='E'> the way information was made widely accessible</label>",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 25,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.<br>Which TWO topics do both students recommend should be included in the course?",
+          "content": "A. <label><input type='checkbox' name='q25-26' value='A'> sustainable fishing</label><br>B. <label><input type='checkbox' name='q25-26' value='B'> targeted nutrition</label><br>C. <label><input type='checkbox' name='q25-26' value='C'> global differences in consumption</label><br>D. <label><input type='checkbox' name='q25-26' value='D'> sustainable agriculture</label><br>E. <label><input type='checkbox' name='q25-26' value='E'> digital technology and food</label>",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 26,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.<br>Which TWO topics do both students recommend should be included in the course?",
+          "content": "A. <label><input type='checkbox' name='q25-26' value='A'> sustainable fishing</label><br>B. <label><input type='checkbox' name='q25-26' value='B'> targeted nutrition</label><br>C. <label><input type='checkbox' name='q25-26' value='C'> global differences in consumption</label><br>D. <label><input type='checkbox' name='q25-26' value='D'> sustainable agriculture</label><br>E. <label><input type='checkbox' name='q25-26' value='E'> digital technology and food</label>",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 27,
+          "type": "matching",
+          "instruction": "Complete the flow-chart below.<br>Choose FOUR answers from the box and write the correct letter, A-F, next to Questions 27-30.<br>Opinions: A This was challenging but enjoyable. B This led to some disagreement. C This was easy to decide on. D This was helped by the guidelines provided. E This seemed like an unnecessary stage. F This involved selecting a new ingredient.",
+          "content": "Initial aim <input type='text' data-qid='27' class='ielts-input' maxlength='1' />",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 28,
+          "type": "matching",
+          "instruction": "Complete the flow-chart below.<br>Choose FOUR answers from the box and write the correct letter, A-F, next to Questions 27-30.<br>Opinions: A This was challenging but enjoyable. B This led to some disagreement. C This was easy to decide on. D This was helped by the guidelines provided. E This seemed like an unnecessary stage. F This involved selecting a new ingredient.",
+          "content": "Literature review <input type='text' data-qid='28' class='ielts-input' maxlength='1' />",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 29,
+          "type": "matching",
+          "instruction": "Complete the flow-chart below.<br>Choose FOUR answers from the box and write the correct letter, A-F, next to Questions 27-30.<br>Opinions: A This was challenging but enjoyable. B This led to some disagreement. C This was easy to decide on. D This was helped by the guidelines provided. E This seemed like an unnecessary stage. F This involved selecting a new ingredient.",
+          "content": "Product development <input type='text' data-qid='29' class='ielts-input' maxlength='1' />",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 30,
+          "type": "matching",
+          "instruction": "Complete the flow-chart below.<br>Choose FOUR answers from the box and write the correct letter, A-F, next to Questions 27-30.<br>Opinions: A This was challenging but enjoyable. B This led to some disagreement. C This was easy to decide on. D This was helped by the guidelines provided. E This seemed like an unnecessary stage. F This involved selecting a new ingredient.",
+          "content": "Product production <input type='text' data-qid='30' class='ielts-input' maxlength='1' />",
+          "answer": "ANSWER_REQUIRED"
+        }
+      ]
+    },
+    {
+      "part_number": 4,
+      "title": "Challenges facing the cruise ship industry",
+      "audio_file": "C21T2P4.mp3",
+      "passage": "",
+      "questions": [
+        {
+          "id": 31,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below.<br>Write ONE WORD ONLY for each answer.",
+          "content": "Problems with overtourism<br>• 31. <input type='text' data-qid='31' class='ielts-input' /> is one of the worst problems.",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 32,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below.<br>Write ONE WORD ONLY for each answer.",
+          "content": "• A tourist 32. <input type='text' data-qid='32' class='ielts-input' /> is being introduced in some cities to reduce numbers, e.g. Barcelona.",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 33,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below.<br>Write ONE WORD ONLY for each answer.",
+          "content": "• Bruges: action was taken to limit day trips from the nearby port because the city was becoming a 'theme park' (e.g. many shops were only stocking 33. <input type='text' data-qid='33' class='ielts-input' /> and souvenirs).",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 34,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below.<br>Write ONE WORD ONLY for each answer.",
+          "content": "• Dubrovnik: limits the number of tourists by managing the 34. <input type='text' data-qid='34' class='ielts-input' /> of cruise ship arrivals.",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 35,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below.<br>Write ONE WORD ONLY for each answer.",
+          "content": "Problems of perception<br>• There is an assumption about the 35. <input type='text' data-qid='35' class='ielts-input' /> of cruises.",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 36,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below.<br>Write ONE WORD ONLY for each answer.",
+          "content": "• People think there may be too many 36. <input type='text' data-qid='36' class='ielts-input' />.",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 37,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below.<br>Write ONE WORD ONLY for each answer.",
+          "content": "Cruise lines are attracting younger customers by:<br>• having a wide range of activities e.g. boxing, 37. <input type='text' data-qid='37' class='ielts-input' /> and well-being programmes.",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 38,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below.<br>Write ONE WORD ONLY for each answer.",
+          "content": "• offering a diverse selection of food including 38. <input type='text' data-qid='38' class='ielts-input' /> options.",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 39,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below.<br>Write ONE WORD ONLY for each answer.",
+          "content": "• providing reliable 39. <input type='text' data-qid='39' class='ielts-input' />.",
+          "answer": "ANSWER_REQUIRED"
+        },
+        {
+          "id": 40,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below.<br>Write ONE WORD ONLY for each answer.",
+          "content": "• improving marketing on social media with high quality 40. <input type='text' data-qid='40' class='ielts-input' />.",
+          "answer": "ANSWER_REQUIRED"
+        }
+      ]
+    }
+  ]
+}

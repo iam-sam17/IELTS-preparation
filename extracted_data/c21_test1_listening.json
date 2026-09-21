@@ -1,0 +1,320 @@
+{
+  "book": 21,
+  "test": 1,
+  "module": "Listening",
+  "title": "Cambridge 21 Listening Test 1",
+  "parts": [
+    {
+      "part_number": 1,
+      "title": "PART 1 Questions 1-10",
+      "audio_file": "C21T1P1.1.mp3",
+      "passage": "<p>Questions 1-6</p><p>Complete the table below.</p><p>Write ONE WORD AND/OR A NUMBER for each answer.</p><p>Oyster Bay Sailing Club Courses</p><p>Questions 7-10</p><p>Complete the notes below.</p><p>Write ONE WORD ONLY for each answer.</p><p>General information</p>",
+      "questions": [
+        {
+          "id": 1,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "<p>Name of course: Taster day</p><p>What you learn: introduction to sailing</p><p>Cost: £120 if booking one place</p><p>Other information: small groups (max <input type='text' data-qid='1' class='ielts-input' /> people)</p>",
+          "answer": "ten"
+        },
+        {
+          "id": 2,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "<p>Name of course: Level 1</p><p>What you learn: basic theory e.g. understanding the <input type='text' data-qid='2' class='ielts-input' /> and tides</p>",
+          "answer": "weather"
+        },
+        {
+          "id": 3,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "<p>Name of course: Level 1</p><p>What you learn: basic sailing skills including <input type='text' data-qid='3' class='ielts-input' /> information useful</p>",
+          "answer": "safety"
+        },
+        {
+          "id": 4,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "<p>Name of course: Level 1</p><p>Cost: £200 a <input type='text' data-qid='4' class='ielts-input' /> available for club members</p>",
+          "answer": "discount"
+        },
+        {
+          "id": 5,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "<p>Name of course: Level 1</p><p>Other information: all inclusive (plus a <input type='text' data-qid='5' class='ielts-input' />)</p>",
+          "answer": "dictionary"
+        },
+        {
+          "id": 6,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "<p>Name of course: Level 1</p><p>Other information: a <input type='text' data-qid='6' class='ielts-input' /> at the end of the course for all participants</p>",
+          "answer": "certificate"
+        },
+        {
+          "id": 7,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "<p>General information</p><ul><li>Participants must be able to swim.</li><li>Bring suitable clothing, a <input type='text' data-qid='7' class='ielts-input' /> and toiletries (e.g. shampoo).</li></ul>",
+          "answer": "towel"
+        },
+        {
+          "id": 8,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "<p>General information</p><ul><li>There is a <input type='text' data-qid='8' class='ielts-input' /> at the club.</li></ul>",
+          "answer": "shop"
+        },
+        {
+          "id": 9,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "<p>General information</p><ul><li>Online training <input type='text' data-qid='9' class='ielts-input' /> are recommended.</li></ul>",
+          "answer": "videos"
+        },
+        {
+          "id": 10,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "<p>General information</p><ul><li><input type='text' data-qid='10' class='ielts-input' /> are available for course participants.</li></ul>",
+          "answer": "lockers"
+        }
+      ]
+    },
+    {
+      "part_number": 2,
+      "title": "PART 2 Questions 11-20",
+      "audio_file": "C21T1P2.1.mp3",
+      "passage": "<p>Working as a makeup trainee</p>",
+      "questions": [
+        {
+          "id": 11,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "<p>11 What should trainees always expect to get when working on low budget short films?</p><label><input type='radio' name='q11' value='A'> A travel expenses</label><br><label><input type='radio' name='q11' value='B'> B a minimum wage</label><br><label><input type='radio' name='q11' value='C'> C meals</label>",
+          "answer": "C"
+        },
+        {
+          "id": 12,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "<p>12 According to the speaker, on big budget films trainees may get experience of</p><label><input type='radio' name='q12' value='A'> A makeup for special effects.</label><br><label><input type='radio' name='q12' value='B'> B working with different ethnicities.</label><br><label><input type='radio' name='q12' value='C'> C creating a variety of hair styles.</label>",
+          "answer": "A"
+        },
+        {
+          "id": 13,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "<p>13 The speaker says a problem for makeup artists is</p><label><input type='radio' name='q13' value='A'> A dealing with difficult directors.</label><br><label><input type='radio' name='q13' value='B'> B being shouted at by their supervisor.</label><br><label><input type='radio' name='q13' value='C'> C waiting around for hours doing nothing.</label>",
+          "answer": "C"
+        },
+        {
+          "id": 14,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "<p>14 How did the speaker feel when she met famous actors for the first time?</p><label><input type='radio' name='q14' value='A'> A very shy</label><br><label><input type='radio' name='q14' value='B'> B very proud</label><br><label><input type='radio' name='q14' value='C'> C very disappointed</label>",
+          "answer": "A"
+        },
+        {
+          "id": 15,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "<p>15 What advice does the speaker give about makeup kits?</p><label><input type='radio' name='q15' value='A'> A Always carry a basic kit with you.</label><br><label><input type='radio' name='q15' value='B'> B Only buy the best products for a makeup kit.</label><br><label><input type='radio' name='q15' value='C'> C Ask other makeup artists to check your kit.</label>",
+          "answer": "A"
+        },
+        {
+          "id": 16,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "<p>16 What advice does the speaker give about creating a portfolio?</p><label><input type='radio' name='q16' value='A'> A Keep print and digital photos.</label><br><label><input type='radio' name='q16' value='B'> B Only include a small selection of photos.</label><br><label><input type='radio' name='q16' value='C'> C Get permission to use photos.</label>",
+          "answer": "C"
+        },
+        {
+          "id": 17,
+          "type": "matching",
+          "instruction": "What ability is required for each of the following duties? Write the correct letter, A, B, or C, next to Questions 17-20.",
+          "content": "<p>Opinions</p><ul><li>A being well-organised</li><li>B being flexible</li><li>C working quickly</li></ul><p>Duties</p><p>17 Prepping an actor <input type='text' data-qid='17' class='ielts-input' /></p>",
+          "answer": "C"
+        },
+        {
+          "id": 18,
+          "type": "matching",
+          "instruction": "What ability is required for each of the following duties? Write the correct letter, A, B, or C, next to Questions 17-20.",
+          "content": "<p>Opinions</p><ul><li>A being well-organised</li><li>B being flexible</li><li>C working quickly</li></ul><p>Duties</p><p>18 Continuity <input type='text' data-qid='18' class='ielts-input' /></p>",
+          "answer": "A"
+        },
+        {
+          "id": 19,
+          "type": "matching",
+          "instruction": "What ability is required for each of the following duties? Write the correct letter, A, B, or C, next to Questions 17-20.",
+          "content": "<p>Opinions</p><ul><li>A being well-organised</li><li>B being flexible</li><li>C working quickly</li></ul><p>Duties</p><p>19 General <input type='text' data-qid='19' class='ielts-input' /></p>",
+          "answer": "B"
+        },
+        {
+          "id": 20,
+          "type": "matching",
+          "instruction": "What ability is required for each of the following duties? Write the correct letter, A, B, or C, next to Questions 17-20.",
+          "content": "<p>Opinions</p><ul><li>A being well-organised</li><li>B being flexible</li><li>C working quickly</li></ul><p>Duties</p><p>20 Applying makeup <input type='text' data-qid='20' class='ielts-input' /></p>",
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "part_number": 3,
+      "title": "PART 3 Questions 21-30",
+      "audio_file": "C21T1P3.1.mp3",
+      "passage": "",
+      "questions": [
+        {
+          "id": 21,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E. Which TWO features of the lecture on ocean biodiversity had the greatest impact on the students?",
+          "content": "<p>Which TWO features of the lecture on ocean biodiversity had the greatest impact on the students?</p><label><input type='checkbox' name='q21_22' value='A'> A the references to local problems</label><br><label><input type='checkbox' name='q21_22' value='B'> B the broad focus of the examples</label><br><label><input type='checkbox' name='q21_22' value='C'> C the practical suggestions for solutions</label><br><label><input type='checkbox' name='q21_22' value='D'> D the type of issues discussed</label><br><label><input type='checkbox' name='q21_22' value='E'> E the implications for government policy</label>",
+          "answer": "C,E"
+        },
+        {
+          "id": 22,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E. Which TWO features of the lecture on ocean biodiversity had the greatest impact on the students?",
+          "content": "<p>Which TWO features of the lecture on ocean biodiversity had the greatest impact on the students?</p><label><input type='checkbox' name='q21_22' value='A'> A the references to local problems</label><br><label><input type='checkbox' name='q21_22' value='B'> B the broad focus of the examples</label><br><label><input type='checkbox' name='q21_22' value='C'> C the practical suggestions for solutions</label><br><label><input type='checkbox' name='q21_22' value='D'> D the type of issues discussed</label><br><label><input type='checkbox' name='q21_22' value='E'> E the implications for government policy</label>",
+          "answer": "C,E"
+        },
+        {
+          "id": 23,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E. Which TWO details about the research project particularly impressed the students?",
+          "content": "<p>Which TWO details about the research project particularly impressed the students?</p><label><input type='checkbox' name='q23_24' value='A'> A the team's previous successes</label><br><label><input type='checkbox' name='q23_24' value='B'> B its wide geographical scale</label><br><label><input type='checkbox' name='q23_24' value='C'> C the use of new technology</label><br><label><input type='checkbox' name='q23_24' value='D'> D the extensive statistical evidence</label><br><label><input type='checkbox' name='q23_24' value='E'> E the large range of specialists involved</label>",
+          "answer": "C,E"
+        },
+        {
+          "id": 24,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E. Which TWO details about the research project particularly impressed the students?",
+          "content": "<p>Which TWO details about the research project particularly impressed the students?</p><label><input type='checkbox' name='q23_24' value='A'> A the team's previous successes</label><br><label><input type='checkbox' name='q23_24' value='B'> B its wide geographical scale</label><br><label><input type='checkbox' name='q23_24' value='C'> C the use of new technology</label><br><label><input type='checkbox' name='q23_24' value='D'> D the extensive statistical evidence</label><br><label><input type='checkbox' name='q23_24' value='E'> E the large range of specialists involved</label>",
+          "answer": "C,E"
+        },
+        {
+          "id": 25,
+          "type": "matching",
+          "instruction": "What is the students' opinion of each of the following resources related to ocean biodiversity? Choose SIX answers from the box and write the correct letter, A-H, next to Questions 25-30.",
+          "content": "<p>Opinions</p><ul><li>A This is aimed at a very specialist audience.</li><li>B This is now rather outdated.</li><li>C This was an effective description of a new danger.</li><li>D This suggests possible ways to improve the situation.</li><li>E This does not give a balanced account.</li><li>F This is too predictable to be useful.</li><li>G This gives insufficient evidence for its claims.</li><li>H This gives a clear explanation of the problems.</li></ul><p>Resources</p><p>25 Article on invasive lionfish <input type='text' data-qid='25' class='ielts-input' /></p>",
+          "answer": "C"
+        },
+        {
+          "id": 26,
+          "type": "matching",
+          "instruction": "What is the students' opinion of each of the following resources related to ocean biodiversity? Choose SIX answers from the box and write the correct letter, A-H, next to Questions 25-30.",
+          "content": "<p>Opinions</p><ul><li>A This is aimed at a very specialist audience.</li><li>B This is now rather outdated.</li><li>C This was an effective description of a new danger.</li><li>D This suggests possible ways to improve the situation.</li><li>E This does not give a balanced account.</li><li>F This is too predictable to be useful.</li><li>G This gives insufficient evidence for its claims.</li><li>H This gives a clear explanation of the problems.</li></ul><p>Resources</p><p>26 Documentary on microplastics <input type='text' data-qid='26' class='ielts-input' /></p>",
+          "answer": "H"
+        },
+        {
+          "id": 27,
+          "type": "matching",
+          "instruction": "What is the students' opinion of each of the following resources related to ocean biodiversity? Choose SIX answers from the box and write the correct letter, A-H, next to Questions 25-30.",
+          "content": "<p>Opinions</p><ul><li>A This is aimed at a very specialist audience.</li><li>B This is now rather outdated.</li><li>C This was an effective description of a new danger.</li><li>D This suggests possible ways to improve the situation.</li><li>E This does not give a balanced account.</li><li>F This is too predictable to be useful.</li><li>G This gives insufficient evidence for its claims.</li><li>H This gives a clear explanation of the problems.</li></ul><p>Resources</p><p>27 Podcast on ocean pollution <input type='text' data-qid='27' class='ielts-input' /></p>",
+          "answer": "D"
+        },
+        {
+          "id": 28,
+          "type": "matching",
+          "instruction": "What is the students' opinion of each of the following resources related to ocean biodiversity? Choose SIX answers from the box and write the correct letter, A-H, next to Questions 25-30.",
+          "content": "<p>Opinions</p><ul><li>A This is aimed at a very specialist audience.</li><li>B This is now rather outdated.</li><li>C This was an effective description of a new danger.</li><li>D This suggests possible ways to improve the situation.</li><li>E This does not give a balanced account.</li><li>F This is too predictable to be useful.</li><li>G This gives insufficient evidence for its claims.</li><li>H This gives a clear explanation of the problems.</li></ul><p>Resources</p><p>28 Book on coastal ecosystems <input type='text' data-qid='28' class='ielts-input' /></p>",
+          "answer": "B"
+        },
+        {
+          "id": 29,
+          "type": "matching",
+          "instruction": "What is the students' opinion of each of the following resources related to ocean biodiversity? Choose SIX answers from the box and write the correct letter, A-H, next to Questions 25-30.",
+          "content": "<p>Opinions</p><ul><li>A This is aimed at a very specialist audience.</li><li>B This is now rather outdated.</li><li>C This was an effective description of a new danger.</li><li>D This suggests possible ways to improve the situation.</li><li>E This does not give a balanced account.</li><li>F This is too predictable to be useful.</li><li>G This gives insufficient evidence for its claims.</li><li>H This gives a clear explanation of the problems.</li></ul><p>Resources</p><p>29 Article on metal toxicity <input type='text' data-qid='29' class='ielts-input' /></p>",
+          "answer": "G"
+        },
+        {
+          "id": 30,
+          "type": "matching",
+          "instruction": "What is the students' opinion of each of the following resources related to ocean biodiversity? Choose SIX answers from the box and write the correct letter, A-H, next to Questions 25-30.",
+          "content": "<p>Opinions</p><ul><li>A This is aimed at a very specialist audience.</li><li>B This is now rather outdated.</li><li>C This was an effective description of a new danger.</li><li>D This suggests possible ways to improve the situation.</li><li>E This does not give a balanced account.</li><li>F This is too predictable to be useful.</li><li>G This gives insufficient evidence for its claims.</li><li>H This gives a clear explanation of the problems.</li></ul><p>Resources</p><p>30 Podcast on floating marine cities <input type='text' data-qid='30' class='ielts-input' /></p>",
+          "answer": "F"
+        }
+      ]
+    },
+    {
+      "part_number": 4,
+      "title": "PART 4 Questions 31-40",
+      "audio_file": "C21T1P4.mp3",
+      "passage": "<h3>Sources of rubber</h3>",
+      "questions": [
+        {
+          "id": 31,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "<p>Three resources which are essential for industrial civilisation</p><ul><li><input type='text' data-qid='31' class='ielts-input' /></li><li>fossil fuels</li><li>rubber</li></ul>",
+          "answer": "metals"
+        },
+        {
+          "id": 32,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "<p>Natural rubber</p><p>This mainly comes from the Para rubber tree, now cultivated in South-East Asia.</p><p>The supply is limited because</p><ul><li>the growth of the tree is <input type='text' data-qid='32' class='ielts-input' />.</li></ul>",
+          "answer": "slow"
+        },
+        {
+          "id": 33,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "<p>The supply is limited because</p><ul><li>production cannot easily be adjusted because of increasing or decreasing <input type='text' data-qid='33' class='ielts-input' />.</li></ul>",
+          "answer": "demand"
+        },
+        {
+          "id": 34,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "<p>The supply is limited because</p><ul><li>the tree only grows near the <input type='text' data-qid='34' class='ielts-input' />.</li></ul>",
+          "answer": "equator"
+        },
+        {
+          "id": 35,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "<p>The supply is limited because</p><ul><li>extracting the latex (rubber) is labour-intensive</li><li>it is very difficult to <input type='text' data-qid='35' class='ielts-input' /> rubber after production.</li></ul>",
+          "answer": "recycle"
+        },
+        {
+          "id": 36,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "<p>New threats include</p><ul><li>lack of genetic diversity, leading to danger of disease caused by a <input type='text' data-qid='36' class='ielts-input' />.</li></ul>",
+          "answer": "fungus"
+        },
+        {
+          "id": 37,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "<p>New threats include</p><ul><li>a shift to the cultivation of palm oil</li><li>extreme <input type='text' data-qid='37' class='ielts-input' /> events.</li></ul>",
+          "answer": "weather"
+        },
+        {
+          "id": 38,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "<p>Synthetic rubber</p><ul><li>may be used for engine parts and cooking utensils</li><li>is less <input type='text' data-qid='38' class='ielts-input' /> than natural rubber</li><li>is unsuitable for many purposes e.g. the tyres of aircraft.</li></ul>",
+          "answer": "elastic"
+        },
+        {
+          "id": 39,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "<p>An alternative source of natural rubber</p><ul><li>A wild flower (a type of dandelion) has rubber in its <input type='text' data-qid='39' class='ielts-input' />.</li></ul>",
+          "answer": "roots"
+        },
+        {
+          "id": 40,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "<p>An alternative source of natural rubber</p><ul><li>It can be grown in many locations and does not require good <input type='text' data-qid='40' class='ielts-input' />.</li></ul>",
+          "answer": "soil"
+        }
+      ]
+    }
+  ]
+}

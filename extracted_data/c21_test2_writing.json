@@ -1,0 +1,36 @@
+{
+  "book": 21,
+  "test": 2,
+  "module": "Writing",
+  "title": "Cambridge 21 Writing Test 2",
+  "parts": [
+    {
+      "part_number": 1,
+      "title": "WRITING TASK 1",
+      "passage": "<h3>The plans below show a college cafe before it was redesigned and how it looks now.</h3><p>Summarise the information by selecting and reporting the main features, and make comparisons where relevant.</p><p>Write at least 150 words.</p><p><strong>Description of the plans:</strong></p><p>The first plan, 'Kitchen Cafe before redesign', shows a rectangular space. At the top left is the 'Serving area (hot food & drink)'. To its right is the 'Staff dining room'. The majority of the central space is filled with 'Tables and chairs'. At the bottom right are 'Toilets'.</p><p>The second plan, 'Kitchen Cafe today', shows a redesigned layout. The 'Serving area (hot meals)' is now smaller and located at the top left. Next to it, there is a 'Take away food bar' and a 'Coffee bar'. The 'Tables and chairs' area is rearranged. The 'Toilets' remain in a similar position at the bottom right. A new feature is 'Outdoor seating' located outside the bottom wall of the cafe.",
+      "questions": [
+        {
+          "id": 1,
+          "type": "essay",
+          "instruction": "Write at least 150 words.",
+          "content": "<textarea data-qid='1' class='ielts-textarea' rows='15'></textarea>",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "part_number": 2,
+      "title": "WRITING TASK 2",
+      "passage": "<h3>Write about the following topic:</h3><p>Some people say that in the digital age, theatres and cinemas are no longer important as people can watch all the entertainment they want online. Others argue that theatres and cinemas are still important both economically and culturally.</p><p>Discuss both these views and give your own opinion.</p><p>Give reasons for your answer and include any relevant examples from your own knowledge or experience.</p><p>Write at least 250 words.</p>",
+      "questions": [
+        {
+          "id": 2,
+          "type": "essay",
+          "instruction": "Write at least 250 words.",
+          "content": "<textarea data-qid='2' class='ielts-textarea' rows='15'></textarea>",
+          "answer": ""
+        }
+      ]
+    }
+  ]
+}

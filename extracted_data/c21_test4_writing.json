@@ -1,0 +1,36 @@
+{
+  "book": 21,
+  "test": 4,
+  "module": "Writing",
+  "title": "Cambridge 21 Writing Test 4",
+  "parts": [
+    {
+      "part_number": 1,
+      "title": "WRITING TASK 1",
+      "passage": "<p>The chart and table below show the results of a survey of library users at a university.</p><h3>Categories of library users</h3><p><strong>Pie Chart data:</strong></p><ul><li>Full-time undergraduate: 40%</li><li>Full-time postgraduate: 25%</li><li>Part-time postgraduate: 20%</li><li>Distance learning (all courses): 15%</li></ul><h3>Library user satisfaction (%)</h3><table border=\"1\" cellpadding=\"5\" cellspacing=\"0\"><thead><tr><th></th><th>Very satisfied</th><th>Fairly satisfied</th><th>Not satisfied</th></tr></thead><tbody><tr><td>Library opening hours</td><td>65</td><td>35</td><td>0</td></tr><tr><td>Helpfulness of staff</td><td>95</td><td>5</td><td>0</td></tr><tr><td>Availability of books</td><td>50</td><td>40</td><td>10</td></tr><tr><td>Availability of journals</td><td>45</td><td>35</td><td>20</td></tr><tr><td>Reliability of wi-fi</td><td>48</td><td>33</td><td>19</td></tr></tbody></table>",
+      "questions": [
+        {
+          "id": 1,
+          "type": "writing_task_1",
+          "instruction": "You should spend about 20 minutes on this task.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\nWrite at least 150 words.",
+          "content": "<p>The chart and table below show the results of a survey of library users at a university.</p><p>Summarise the information by selecting and reporting the main features, and make comparisons where relevant.</p><p>Write at least 150 words.</p>",
+          "answer": "See Sample Writing answers on pages 135-136."
+        }
+      ]
+    },
+    {
+      "part_number": 2,
+      "title": "WRITING TASK 2",
+      "passage": "<p>Some people argue that primary schools focus too much on formal learning.</p><p>To what extent do you agree with this opinion?</p><p>How important do you think it is for children to play as well as learn in the primary school classroom?</p>",
+      "questions": [
+        {
+          "id": 2,
+          "type": "writing_task_2",
+          "instruction": "You should spend about 40 minutes on this task.\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\nWrite at least 250 words.",
+          "content": "<p>Some people argue that primary schools focus too much on formal learning.</p><p>To what extent do you agree with this opinion?</p><p>How important do you think it is for children to play as well as learn in the primary school classroom?</p><p>Give reasons for your answer and include any relevant examples from your own knowledge or experience.</p><p>Write at least 250 words.</p>",
+          "answer": "See Sample Writing answers on pages 137-139."
+        }
+      ]
+    }
+  ]
+}
