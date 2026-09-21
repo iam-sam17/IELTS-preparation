@@ -113,42 +113,42 @@
           "id": 14,
           "type": "matching_headings",
           "instruction": "Reading Passage 2 has seven paragraphs, A-G. Which paragraph contains the following information?",
-          "content": "14. a mention of the uncertainty regarding the purpose of certain objects",
+          "content": "14. a mention of the uncertainty regarding the purpose of certain objects <input type='text' data-qid='14' class='ielts-input' style='width:50px; text-transform:uppercase;' />",
           "answer": "E"
         },
         {
           "id": 15,
           "type": "matching_headings",
           "instruction": "Reading Passage 2 has seven paragraphs, A-G. Which paragraph contains the following information?",
-          "content": "15. the likelihood that a climatic factor increased the problems Mapungubwe faced",
+          "content": "15. the likelihood that a climatic factor increased the problems Mapungubwe faced <input type='text' data-qid='15' class='ielts-input' style='width:50px; text-transform:uppercase;' />",
           "answer": "G"
         },
         {
           "id": 16,
           "type": "matching_headings",
           "instruction": "Reading Passage 2 has seven paragraphs, A-G. Which paragraph contains the following information?",
-          "content": "16. a mention of the location where members of the king's family are thought to have lived",
+          "content": "16. a mention of the location where members of the king's family are thought to have lived <input type='text' data-qid='16' class='ielts-input' style='width:50px; text-transform:uppercase;' />",
           "answer": "C"
         },
         {
           "id": 17,
           "type": "matching_headings",
           "instruction": "Reading Passage 2 has seven paragraphs, A-G. Which paragraph contains the following information?",
-          "content": "17. a reference to people who brought goods by ship",
+          "content": "17. a reference to people who brought goods by ship <input type='text' data-qid='17' class='ielts-input' style='width:50px; text-transform:uppercase;' />",
           "answer": "D"
         },
         {
           "id": 18,
           "type": "matching_headings",
           "instruction": "Reading Passage 2 has seven paragraphs, A-G. Which paragraph contains the following information?",
-          "content": "18. an estimate of the size to which the Mapungubwe community grew",
+          "content": "18. an estimate of the size to which the Mapungubwe community grew <input type='text' data-qid='18' class='ielts-input' style='width:50px; text-transform:uppercase;' />",
           "answer": "B"
         },
         {
           "id": 19,
           "type": "matching_headings",
           "instruction": "Reading Passage 2 has seven paragraphs, A-G. Which paragraph contains the following information?",
-          "content": "19. a mention of agricultural produce being exchanged for other items",
+          "content": "19. a mention of agricultural produce being exchanged for other items <input type='text' data-qid='19' class='ielts-input' style='width:50px; text-transform:uppercase;' />",
           "answer": "A"
         },
         {
