@@ -6,16 +6,31 @@
   "parts": [
     {
       "part_number": 1,
-      "title": "Cambridge 18 Test 4 Writing Part 1",
-      "audio_file": null,
-      "passage": "<p>Passage content for Cambridge 18 Test 4 Writing. Loaded from archive.</p>",
+      "title": "WRITING TASK 1",
+      "audio_file": "",
+      "passage": "<h3>WRITING TASK 1</h3><p>You should spend about 20 minutes on this task.</p><p>The graph below shows the average monthly change in the prices of three metals during 2014.</p><p>Summarise the information by selecting and reporting the main features, and make comparisons where relevant.</p><p>Write at least 150 words.</p><p>Average monthly change in prices of copper, nickel and zinc (2014)</p>",
       "questions": [
         {
           "id": 1,
           "type": "fill_in_the_blank",
-          "instruction": "Write ONE WORD ONLY for each answer.",
-          "content": "<p>Sample extracted question 1: <input type='text' data-qid='1' class='ielts-input' /></p>",
-          "answer": ""
+          "instruction": "Write at least 150 words.",
+          "content": "<p>Write your response for Task 1 here.</p><textarea data-qid='1' class='ielts-input' rows='10' cols='50'></textarea>",
+          "answer": "Sample answer or model response provided in official key"
+        }
+      ]
+    },
+    {
+      "part_number": 2,
+      "title": "WRITING TASK 2",
+      "audio_file": "",
+      "passage": "<h3>WRITING TASK 2</h3><p>You should spend about 40 minutes on this task.</p><p>Write about the following topic:</p><p>In many countries, people are now living longer than ever before. Some people say an ageing population creates problems for governments. Other people think there are benefits if society has more elderly people.</p><p>To what extent do the advantages of having an ageing population outweigh the disadvantages?</p><p>Give reasons for your answer and include any relevant examples from your own knowledge or experience.</p><p>Write at least 250 words.</p>",
+      "questions": [
+        {
+          "id": 2,
+          "type": "fill_in_the_blank",
+          "instruction": "Write at least 250 words.",
+          "content": "<p>Write your response for Task 2 here.</p><textarea data-qid='2' class='ielts-input' rows='15' cols='50'></textarea>",
+          "answer": "Sample answer or model response provided in official key"
         }
       ]
     }

@@ -6,16 +6,313 @@
   "parts": [
     {
       "part_number": 1,
-      "title": "Cambridge 18 Test 2 Listening Part 1",
-      "audio_file": null,
-      "passage": "<p>Passage content for Cambridge 18 Test 2 Listening. Loaded from archive.</p>",
+      "title": "Working at Milo’s Restaurants",
+      "audio_file": "C 18 test 2 [@cambridge_library]/C 18 section2-part1[@cambridge_library].mp3",
+      "passage": "<h3>PART 1</h3><h3>Questions 1-5</h3><p>Complete the notes below.</p><p>Write ONE WORD ONLY for each answer.</p><h3>Working at Milo’s Restaurants</h3><p>Benefits:</p><p>• provided for all staff <input type='text' data-qid='1' class='ielts-input' /></p><p>• <input type='text' data-qid='2' class='ielts-input' /> during weekdays at all Milo’s Restaurants</p><p>• <input type='text' data-qid='3' class='ielts-input' /> provided after midnight</p><p>Person specification:</p><p>• must be prepared to work well in a team</p><p>• must care about maintaining a high standard of <input type='text' data-qid='4' class='ielts-input' /></p><p>• must have a qualification in <input type='text' data-qid='5' class='ielts-input' /></p><h3>Questions 6-10</h3><p>Complete the table below.</p><p>Write ONE WORD AND/OR A NUMBER for each answer.</p>",
       "questions": [
         {
           "id": 1,
           "type": "fill_in_the_blank",
           "instruction": "Write ONE WORD ONLY for each answer.",
-          "content": "<p>Sample extracted question 1: <input type='text' data-qid='1' class='ielts-input' /></p>",
-          "answer": ""
+          "content": "Benefits provided for all staff: <input type='text' data-qid='1' class='ielts-input' />",
+          "answer": "training"
+        },
+        {
+          "id": 2,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "<input type='text' data-qid='2' class='ielts-input' /> during weekdays at all Milo’s Restaurants",
+          "answer": "discount"
+        },
+        {
+          "id": 3,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "<input type='text' data-qid='3' class='ielts-input' /> provided after midnight",
+          "answer": "taxi"
+        },
+        {
+          "id": 4,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "must care about maintaining a high standard of <input type='text' data-qid='4' class='ielts-input' />",
+          "answer": "service"
+        },
+        {
+          "id": 5,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "must have a qualification in <input type='text' data-qid='5' class='ielts-input' />",
+          "answer": "English"
+        },
+        {
+          "id": 6,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Location: <input type='text' data-qid='6' class='ielts-input' /> Street | Job title: Breakfast supervisor | Responsibilities include: Checking portions, etc. are correct | Pay and conditions: Starting salary £9.75 per hour",
+          "answer": "Wivenhoe"
+        },
+        {
+          "id": 7,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Location: City Road | Job title: Breakfast supervisor | Responsibilities include: Making sure <input type='text' data-qid='7' class='ielts-input' /> is clean | Pay and conditions: Start work at 5.30 a.m.",
+          "answer": "equipment"
+        },
+        {
+          "id": 8,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Location: City Road | Job title: Breakfast supervisor | Responsibilities include: Making sure equipment is clean | Pay and conditions: Starting salary £<input type='text' data-qid='8' class='ielts-input' /> per hour",
+          "answer": "9.75"
+        },
+        {
+          "id": 9,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Location: <input type='text' data-qid='9' class='ielts-input' /> | Job title: Junior chef | Responsibilities include: Supporting senior chefs | Pay and conditions: Annual salary £23,000",
+          "answer": "deliveries"
+        },
+        {
+          "id": 10,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Location: City Road | Job title: Junior chef | Responsibilities include: Maintaining stock and organising <input type='text' data-qid='10' class='ielts-input' /> once a month | Pay and conditions: No work on a Sunday",
+          "answer": "Sunday"
+        }
+      ]
+    },
+    {
+      "part_number": 2,
+      "title": "Housing Development & Map",
+      "audio_file": "C 18 test 2 [@cambridge_library]/C 18 section2-part2[@cambridge_library].mp3",
+      "passage": "<h3>PART 2</h3><h3>Questions 11 and 12</h3><p>Choose TWO letters, A-E.</p><p>What are the TWO main reasons why this site has been chosen for the housing development?</p><p>A It has suitable geographical features.<br>B There is easy access to local facilities.<br>C It has good connections with the airport.<br>D The land is of little agricultural value.<br>E It will be convenient for workers.</p><h3>Questions 13 and 14</h3><p>Choose TWO letters, A-E.</p><p>Which TWO aspects of the planned housing development have people given positive feedback about?</p><p>A the facilities for cyclists<br>B the impact on the environment<br>C the encouragement of good relations between residents<br>D the low cost of all the accommodation<br>E the rural location</p><h3>Questions 15-20</h3><p>Label the map below.</p><p>Write the correct letter, A–I, next to Questions 15-20.</p>",
+      "questions": [
+        {
+          "id": 11,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.",
+          "content": "What are the TWO main reasons why this site has been chosen for the housing development?",
+          "answer": "B, E"
+        },
+        {
+          "id": 12,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.",
+          "content": "What are the TWO main reasons why this site has been chosen for the housing development?",
+          "answer": "B, E"
+        },
+        {
+          "id": 13,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.",
+          "content": "Which TWO aspects of the planned housing development have people given positive feedback about?",
+          "answer": "B, C"
+        },
+        {
+          "id": 14,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.",
+          "content": "Which TWO aspects of the planned housing development have people given positive feedback about?",
+          "answer": "B, C"
+        },
+        {
+          "id": 15,
+          "type": "fill_in_the_blank",
+          "instruction": "Label the map below. Write the correct letter, A–I.",
+          "content": "15 School",
+          "answer": "G"
+        },
+        {
+          "id": 16,
+          "type": "fill_in_the_blank",
+          "instruction": "Label the map below. Write the correct letter, A–I.",
+          "content": "16 Sports centre",
+          "answer": "C"
+        },
+        {
+          "id": 17,
+          "type": "fill_in_the_blank",
+          "instruction": "Label the map below. Write the correct letter, A–I.",
+          "content": "17 Clinic",
+          "answer": "D"
+        },
+        {
+          "id": 18,
+          "type": "fill_in_the_blank",
+          "instruction": "Label the map below. Write the correct letter, A–I.",
+          "content": "18 Community centre",
+          "answer": "B"
+        },
+        {
+          "id": 19,
+          "type": "fill_in_the_blank",
+          "instruction": "Label the map below. Write the correct letter, A–I.",
+          "content": "19 Supermarket",
+          "answer": "H"
+        },
+        {
+          "id": 20,
+          "type": "fill_in_the_blank",
+          "instruction": "Label the map below. Write the correct letter, A–I.",
+          "content": "20 Playground",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "part_number": 3,
+      "title": "The Laki Eruption of 1783",
+      "audio_file": "C 18 test 2 [@cambridge_library]/C 18 section2- part3 [@cambridge_library].mp3",
+      "passage": "<h3>PART 3</h3><h3>Questions 21-24</h3><p>Choose the correct letter, A, B or C.</p><h3>Questions 25 and 26</h3><p>Choose TWO letters, A-E.</p><p>Which TWO issues following the Laki eruption surprised the students?</p><p>A how widespread the effects were<br>B how long-lasting the effects were<br>C the number of deaths it caused<br>D the speed at which the volcanic ash cloud spread<br>E how people ignored the warning signs</p><h3>Questions 27-30</h3><p>What comment do the students make about the impact of the Laki eruption on the following countries?</p><p>Choose FOUR answers from the box and write the correct letter, A-F, next to Questions 27-30.</p><p>Countries:<br>27 Iceland<br>28 Egypt<br>29 UK<br>30 USA</p><p>Comments:<br>A This country suffered the most severe loss of life.<br>B The impact on agriculture was predictable.<br>C There was a significant increase in deaths of young people.<br>D Animals suffered from a sickness.<br>E This country saw the highest rise in food prices in the world.<br>F It caused a particularly harsh winter.</p>",
+      "questions": [
+        {
+          "id": 21,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "Why do the students think the Laki eruption of 1783 is so important?<br>A It was the most severe eruption in modern times.<br>B It led to the formal study of volcanoes.<br>C It had a profound effect on society.",
+          "answer": "C"
+        },
+        {
+          "id": 22,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "What surprised Adam about observations made at the time?<br>A the number of places producing them<br>B the contradictions in them<br>C the lack of scientific data to support them",
+          "answer": "A"
+        },
+        {
+          "id": 23,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "According to Michelle, what did the contemporary sources say about the Laki haze?<br>A People thought it was similar to ordinary fog.<br>B It was associated with health issues.<br>C It completely blocked out the sun for weeks.",
+          "answer": "B"
+        },
+        {
+          "id": 24,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "Adam corrects Michelle when she claims that Benjamin Franklin<br>A came to the wrong conclusion about the cause of the haze.<br>B was the first to identify the reason for the haze.<br>C supported the opinions of other observers about the haze.",
+          "answer": "B"
+        },
+        {
+          "id": 25,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.",
+          "content": "Which TWO issues following the Laki eruption surprised the students?",
+          "answer": "A, B"
+        },
+        {
+          "id": 26,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.",
+          "content": "Which TWO issues following the Laki eruption surprised the students?",
+          "answer": "A, B"
+        },
+        {
+          "id": 27,
+          "type": "fill_in_the_blank",
+          "instruction": "Choose the correct letter, A-F.",
+          "content": "27 Iceland",
+          "answer": "D"
+        },
+        {
+          "id": 28,
+          "type": "fill_in_the_blank",
+          "instruction": "Choose the correct letter, A-F.",
+          "content": "28 Egypt",
+          "answer": "A"
+        },
+        {
+          "id": 29,
+          "type": "fill_in_the_blank",
+          "instruction": "Choose the correct letter, A-F.",
+          "content": "29 UK",
+          "answer": "C"
+        },
+        {
+          "id": 30,
+          "type": "fill_in_the_blank",
+          "instruction": "Choose the correct letter, A-F.",
+          "content": "30 USA",
+          "answer": "F"
+        }
+      ]
+    },
+    {
+      "part_number": 4,
+      "title": "History of Pockets",
+      "audio_file": "C 18 test 2 [@cambridge_library]/C 18 section2- part4[@cambridge_library].mp3",
+      "passage": "<h3>PART 4</h3><h3>Questions 31-40</h3><p>Complete the notes below.</p><p>Write ONE WORD ONLY for each answer.</p><h3>Reason for choice of subject</h3><p>Pockets</p><p>They are <input type='text' data-qid='31' class='ielts-input' /> but can be overlooked by consumers and designers.</p><h3>Pockets in men's clothes</h3><p>Men started to wear <input type='text' data-qid='32' class='ielts-input' /> in the 18th century.</p><p>A <input type='text' data-qid='33' class='ielts-input' /> sewed pockets into the lining of the garments.</p><p>The wearer could use the pockets for small items.</p><p>Bigger pockets might be made for men who belonged to a certain type of <input type='text' data-qid='34' class='ielts-input' />.</p><h3>Pockets in women's clothes</h3><p>Women's pockets were less <input type='text' data-qid='35' class='ielts-input' /> than men's.</p><p>Women were very concerned about pickpockets.</p><p>Pockets were produced in pairs using <input type='text' data-qid='36' class='ielts-input' /> to link them together.</p><p>Pockets hung from the women's <input type='text' data-qid='37' class='ielts-input' /> under skirts and petticoats.</p><p>Items such as <input type='text' data-qid='38' class='ielts-input' /> could be reached through a gap in the material.</p><p>Pockets, of various sizes, stayed inside clothing for many decades.</p><p>When dresses changed shape, hidden pockets had a negative effect on the <input type='text' data-qid='39' class='ielts-input' /> of women.</p><p>Bags called 'pouches' became popular, before women carried a <input type='text' data-qid='40' class='ielts-input' />.</p>",
+      "questions": [
+        {
+          "id": 31,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "They are <input type='text' data-qid='31' class='ielts-input' /> but can be overlooked by consumers and designers.",
+          "answer": "convenient"
+        },
+        {
+          "id": 32,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "Men started to wear <input type='text' data-qid='32' class='ielts-input' /> in the 18th century.",
+          "answer": "suits"
+        },
+        {
+          "id": 33,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "A <input type='text' data-qid='33' class='ielts-input' /> sewed pockets into the lining of the garments.",
+          "answer": "tailor"
+        },
+        {
+          "id": 34,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "Bigger pockets might be made for men who belonged to a certain type of <input type='text' data-qid='34' class='ielts-input' />.",
+          "answer": "profession"
+        },
+        {
+          "id": 35,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "Women's pockets were less <input type='text' data-qid='35' class='ielts-input' /> than men's.",
+          "answer": "visible"
+        },
+        {
+          "id": 36,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "Pockets were produced in pairs using <input type='text' data-qid='36' class='ielts-input' /> to link them together.",
+          "answer": "string"
+        },
+        {
+          "id": 37,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "Pockets hung from the women's <input type='text' data-qid='37' class='ielts-input' /> under skirts and petticoats.",
+          "answer": "waist"
+        },
+        {
+          "id": 38,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "Items such as <input type='text' data-qid='38' class='ielts-input' /> could be reached through a gap in the material.",
+          "answer": "perfume"
+        },
+        {
+          "id": 39,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "When dresses changed shape, hidden pockets had a negative effect on the <input type='text' data-qid='39' class='ielts-input' /> of women.",
+          "answer": "image"
+        },
+        {
+          "id": 40,
+          "type": "fill_in_the_blank",
+          "instruction": "Write ONE WORD ONLY for each answer.",
+          "content": "Bags called 'pouches' became popular, before women carried a <input type='text' data-qid='40' class='ielts-input' />.",
+          "answer": "handbag"
         }
       ]
     }

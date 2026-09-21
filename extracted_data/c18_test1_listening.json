@@ -6,16 +6,313 @@
   "parts": [
     {
       "part_number": 1,
-      "title": "Cambridge 18 Test 1 Listening Part 1",
-      "audio_file": null,
-      "passage": "<p>Passage content for Cambridge 18 Test 1 Listening. Loaded from archive.</p>",
+      "title": "Transport survey",
+      "audio_file": "C 18 Test 1 [@cambridge_library]/C 18 section1-part1[@cambridge_library].mp3",
+      "passage": "<h3>PART 1</h3><p>Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.</p><h3>Transport survey</h3><p>Name: Sadie Jones<br>Year of birth: <input type='text' data-qid='1' class='ielts-input' /><br>Postcode: <input type='text' data-qid='2' class='ielts-input' /></p><p><b>Travelling by bus</b><br>Date of bus journey: <input type='text' data-qid='3' class='ielts-input' /><br>Reason for trip: shopping and visit to the <input type='text' data-qid='4' class='ielts-input' /><br>Travelled by bus because cost of <input type='text' data-qid='5' class='ielts-input' /> too high<br>Got on bus at <input type='text' data-qid='6' class='ielts-input' /><br>Complaints about bus service: - bus today was <input type='text' data-qid='7' class='ielts-input' /><br>- frequency of buses in the <input type='text' data-qid='8' class='ielts-input' /></p><p><b>Travelling by car</b><br>Goes to the <input type='text' data-qid='9' class='ielts-input' /></p><p><b>Travelling by bicycle</b><br>Dislikes travelling by bike in the city centre because of the <input type='text' data-qid='10' class='ielts-input' /><br>Doesn’t own a bike because of a lack of <input type='text' data-qid='11' class='ielts-input' /></p>",
       "questions": [
         {
           "id": 1,
           "type": "fill_in_the_blank",
-          "instruction": "Write ONE WORD ONLY for each answer.",
-          "content": "<p>Sample extracted question 1: <input type='text' data-qid='1' class='ielts-input' /></p>",
-          "answer": ""
+          "instruction": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Year of birth: <input type='text' data-qid='1' class='ielts-input' />",
+          "answer": "1994"
+        },
+        {
+          "id": 2,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Postcode: <input type='text' data-qid='2' class='ielts-input' />",
+          "answer": "DW30 7YZ"
+        },
+        {
+          "id": 3,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Date of bus journey: <input type='text' data-qid='3' class='ielts-input' />",
+          "answer": "24th April"
+        },
+        {
+          "id": 4,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Reason for trip: shopping and visit to the <input type='text' data-qid='4' class='ielts-input' />",
+          "answer": "dentist"
+        },
+        {
+          "id": 5,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Travelled by bus because cost of <input type='text' data-qid='5' class='ielts-input' /> too high",
+          "answer": "parking"
+        },
+        {
+          "id": 6,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Got on bus at <input type='text' data-qid='6' class='ielts-input' />",
+          "answer": "Claxby"
+        },
+        {
+          "id": 7,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "bus today was <input type='text' data-qid='7' class='ielts-input' />",
+          "answer": "late"
+        },
+        {
+          "id": 8,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "frequency of buses in the <input type='text' data-qid='8' class='ielts-input' />",
+          "answer": "evening"
+        },
+        {
+          "id": 9,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Goes to the <input type='text' data-qid='9' class='ielts-input' />",
+          "answer": "supermarket"
+        },
+        {
+          "id": 10,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Dislikes travelling by bike in the city centre because of the <input type='text' data-qid='10' class='ielts-input' />",
+          "answer": "pollution"
+        },
+        {
+          "id": 11,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Doesn’t own a bike because of a lack of <input type='text' data-qid='11' class='ielts-input' />",
+          "answer": "storage"
+        }
+      ]
+    },
+    {
+      "part_number": 2,
+      "title": "Becoming a volunteer for ACE",
+      "audio_file": "C 18 Test 1 [@cambridge_library]/C 18 section1-part2[@cambridge_library].mp3",
+      "passage": "<h3>PART 2</h3><p><b>Questions 11-13</b><br>Choose the correct letter, A, B or C.</p><p><b>11</b> Why does the speaker apologise about the seats?<br>A They are too small.<br>B There are not enough of them.<br>C Some of them are very close together.</p><p><b>12</b> What does the speaker say about the age of volunteers?<br>A The age of volunteers is less important than other factors.<br>B Young volunteers are less reliable than older ones.<br>C Most volunteers are about 60 years old.</p><p><b>13</b> What does the speaker say about training?<br>A It is continuous.<br>B It is conducted by a manager.<br>C It takes place online.</p><p><b>Questions 14 and 15</b><br>Choose TWO letters, A-E.<br>Which TWO issues does the speaker ask the audience to consider before they apply to be volunteers?<br>A their financial situation<br>B their level of commitment<br>C their work experience<br>D their ambition<br>E their availability</p><p><b>Questions 16–20</b><br>What does the speaker suggest would be helpful for each of the following areas of voluntary work?<br>Choose FIVE answers from the box and write the correct letter, A-G, next to Questions 16-20.</p><p><b>Helpful things volunteers might offer</b><br>A experience on stage<br>B original, new ideas<br>C parenting skills<br>D an understanding of food and diet<br>E retail experience<br>F a good memory<br>G a good level of fitness</p><p><b>Area of voluntary work</b><br>16 Fundraising <input type='text' data-qid='16' class='ielts-input' /><br>17 Litter collection <input type='text' data-qid='17' class='ielts-input' /><br>18 'Playmates' <input type='text' data-qid='18' class='ielts-input' /><br>19 Storyclub <input type='text' data-qid='19' class='ielts-input' /><br>20 First Aid <input type='text' data-qid='20' class='ielts-input' /></p>",
+      "questions": [
+        {
+          "id": 12,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "Why does the speaker apologise about the seats?",
+          "answer": "C"
+        },
+        {
+          "id": 13,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "What does the speaker say about the age of volunteers?",
+          "answer": "A"
+        },
+        {
+          "id": 14,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "What does the speaker say about training?",
+          "answer": "A"
+        },
+        {
+          "id": 15,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.",
+          "content": "Which TWO issues does the speaker ask the audience to consider before they apply to be volunteers?",
+          "answer": "B, E"
+        },
+        {
+          "id": 16,
+          "type": "fill_in_the_blank",
+          "instruction": "Choose FIVE answers from the box and write the correct letter, A-G.",
+          "content": "16 Fundraising",
+          "answer": "B"
+        },
+        {
+          "id": 17,
+          "type": "fill_in_the_blank",
+          "instruction": "Choose FIVE answers from the box and write the correct letter, A-G.",
+          "content": "17 Litter collection",
+          "answer": "G"
+        },
+        {
+          "id": 18,
+          "type": "fill_in_the_blank",
+          "instruction": "Choose FIVE answers from the box and write the correct letter, A-G.",
+          "content": "18 'Playmates'",
+          "answer": "D"
+        },
+        {
+          "id": 19,
+          "type": "fill_in_the_blank",
+          "instruction": "Choose FIVE answers from the box and write the correct letter, A-G.",
+          "content": "19 Storyclub",
+          "answer": "A"
+        },
+        {
+          "id": 20,
+          "type": "fill_in_the_blank",
+          "instruction": "Choose FIVE answers from the box and write the correct letter, A-G.",
+          "content": "20 First Aid",
+          "answer": "F"
+        }
+      ]
+    },
+    {
+      "part_number": 3,
+      "title": "Talk on jobs in fashion design",
+      "audio_file": "C 18 Test 1 [@cambridge_library]/C 18 section1-part3[@cambridge_library].mp3",
+      "passage": "<h3>PART 3</h3><p><b>Questions 21-26</b><br>Choose the correct letter, A, B or C.</p><p><b>21</b> What problem did Chantal have at the start of the talk?<br>A Her view of the speaker was blocked.<br>B She was unable to find an empty seat.<br>C The students next to her were talking.</p><p><b>22</b> What were Hugo and Chantal surprised to hear about the job market?<br>A It has become more competitive than it used to be.<br>B There is more variety in it than they had realised.<br>C Some areas of it are more exciting than others.</p><p><b>23</b> Hugo and Chantal agree that the speaker's message was<br>A unfair to them at times.<br>B hard for them to follow.<br>C critical of the industry.</p><p><b>24</b> What do Hugo and Chantal criticise about their school careers advice?<br>A when they received the advice<br>B how much advice was given<br>C who gave the advice</p><p><b>25</b> When discussing their future, Hugo and Chantal disagree on<br>A which is the best career in fashion.<br>B when to choose a career in fashion.<br>C why they would like a career in fashion.</p><p><b>26</b> How does Hugo feel about being an unpaid assistant?<br>A He is realistic about the practice.<br>B He feels the practice is dishonest.<br>C He thinks others want to change the practice.</p><p><b>Questions 27 and 28</b><br>Choose TWO letters, A-E.<br>Which TWO mistakes did the speaker admit she made in her first job?<br>A being dishonest to her employer<br>B paying too much attention to how she looked<br>C expecting to become well known<br>D trying to earn a lot of money<br>E openly disliking her client</p><p><b>Questions 29 and 30</b><br>Choose TWO letters, A-E.<br>Which TWO pieces of retail information do Hugo and Chantal agree would be useful?<br>A the reasons people return fashion items<br>B how much time people have to shop for clothes<br>C fashion designs people want but can't find<br>D the best time of year for fashion buying<br>E the most popular fashion sizes</p>",
+      "questions": [
+        {
+          "id": 21,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "What problem did Chantal have at the start of the talk?",
+          "answer": "A"
+        },
+        {
+          "id": 22,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "What were Hugo and Chantal surprised to hear about the job market?",
+          "answer": "B"
+        },
+        {
+          "id": 23,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "Hugo and Chantal agree that the speaker's message was",
+          "answer": "A"
+        },
+        {
+          "id": 24,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "What do Hugo and Chantal criticise about their school careers advice?",
+          "answer": "C"
+        },
+        {
+          "id": 25,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "When discussing their future, Hugo and Chantal disagree on",
+          "answer": "B"
+        },
+        {
+          "id": 26,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "How does Hugo feel about being an unpaid assistant?",
+          "answer": "A"
+        },
+        {
+          "id": 27,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.",
+          "content": "Which TWO mistakes did the speaker admit she made in her first job?",
+          "answer": "B, E"
+        },
+        {
+          "id": 28,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.",
+          "content": "Which TWO mistakes did the speaker admit she made in her first job?",
+          "answer": "B, E"
+        },
+        {
+          "id": 29,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.",
+          "content": "Which TWO pieces of retail information do Hugo and Chantal agree would be useful?",
+          "answer": "A, C"
+        },
+        {
+          "id": 30,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.",
+          "content": "Which TWO pieces of retail information do Hugo and Chantal agree would be useful?",
+          "answer": "A, C"
+        }
+      ]
+    },
+    {
+      "part_number": 4,
+      "title": "Elephant translocation",
+      "audio_file": "C 18 Test 1 [@cambridge_library]/C 18 section1-part4[@cambridge_library].mp3",
+      "passage": "<h3>PART 4</h3><p>Complete the notes below. Write ONE WORD ONLY for each answer.</p><h3>Elephant translocation</h3><p><b>Reasons for overpopulation at Majete National Park</b><br>- strict enforcement of anti-poaching laws<br>- successful breeding</p><p><b>Problems caused by elephant overpopulation</b><br>- greater competition, causing hunger for elephants<br>- damage to <input type='text' data-qid='31' class='ielts-input' /> in the park</p><p><b>The translocation process</b><br>- a suitable group of elephants from the same <input type='text' data-qid='32' class='ielts-input' /> was selected<br>- vets and park staff made use of <input type='text' data-qid='33' class='ielts-input' /> to help guide the elephants into an open plain<br>- elephants were immobilised with tranquilisers<br>- this process had to be completed quickly to reduce <input type='text' data-qid='34' class='ielts-input' /><br>- elephants had to be turned on their <input type='text' data-qid='35' class='ielts-input' /> to avoid damage to their lungs<br>- elephants' <input type='text' data-qid='36' class='ielts-input' /> had to be monitored constantly<br>- tracking devices were fitted to the matriarchs<br>- data including the size of their tusks and <input type='text' data-qid='37' class='ielts-input' /> was taken<br>- elephants were taken by truck to their new reserve</p><p><b>Advantages of translocation at Nkhotakota Wildlife Park</b><br>- <input type='text' data-qid='38' class='ielts-input' /> opportunities<br>- a reduction in the number of poachers and <input type='text' data-qid='39' class='ielts-input' /><br>- an example of conservation that other parks can follow<br>- an increase in <input type='text' data-qid='40' class='ielts-input' /> as a contributor to GDP</p>",
+      "questions": [
+        {
+          "id": 31,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "damage to <input type='text' data-qid='31' class='ielts-input' /> in the park",
+          "answer": "fences"
+        },
+        {
+          "id": 32,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "a suitable group of elephants from the same <input type='text' data-qid='32' class='ielts-input' /> was selected",
+          "answer": "family"
+        },
+        {
+          "id": 33,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "vets and park staff made use of <input type='text' data-qid='33' class='ielts-input' /> to help guide the elephants",
+          "answer": "helicopters"
+        },
+        {
+          "id": 34,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "this process had to be completed quickly to reduce <input type='text' data-qid='34' class='ielts-input' />",
+          "answer": "stress"
+        },
+        {
+          "id": 35,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "elephants had to be turned on their <input type='text' data-qid='35' class='ielts-input' /> to avoid damage",
+          "answer": "sides"
+        },
+        {
+          "id": 36,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "elephants' <input type='text' data-qid='36' class='ielts-input' /> had to be monitored constantly",
+          "answer": "breathing"
+        },
+        {
+          "id": 37,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "data including the size of their tusks and <input type='text' data-qid='37' class='ielts-input' /> was taken",
+          "answer": "feet"
+        },
+        {
+          "id": 38,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "<input type='text' data-qid='38' class='ielts-input' /> opportunities",
+          "answer": "employment"
+        },
+        {
+          "id": 39,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "a reduction in the number of poachers and <input type='text' data-qid='39' class='ielts-input' />",
+          "answer": "weapons"
+        },
+        {
+          "id": 40,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "an increase in <input type='text' data-qid='40' class='ielts-input' /> as a contributor to GDP",
+          "answer": "tourism"
         }
       ]
     }

@@ -6,16 +6,313 @@
   "parts": [
     {
       "part_number": 1,
-      "title": "Cambridge 18 Test 3 Listening Part 1",
-      "audio_file": null,
-      "passage": "<p>Passage content for Cambridge 18 Test 3 Listening. Loaded from archive.</p>",
+      "title": "Part 1",
+      "audio_file": "C 18 test 3 [@cambridge_library]/C 18 section3 part1 [@cambridge_library].mp3",
+      "passage": "<h3>PART 1</h3><p>Questions 1-10<br>Complete the form below.<br>Write ONE WORD AND/OR A NUMBER for each answer.</p><h3>Wayside Camera Club membership form</h3><p>Name: Dan Green<br>Email address: dan1068@market.com<br>Home address: 52 <input type='text' data-qid='1' class='ielts-input' /> Street, Peacetown<br>Heard about us: from a <input type='text' data-qid='2' class='ielts-input' /><br>Reasons for joining: to enter competitions, to <input type='text' data-qid='3' class='ielts-input' /><br>Type of membership: <input type='text' data-qid='4' class='ielts-input' /> membership (£30)</p><h3>Photography competitions</h3><table><tr><th>Title of competition</th><th>Instructions</th><th>Feedback to Dan</th></tr><tr><td>'Beautiful Sunsets'</td><td>Scene must show some <input type='text' data-qid='5' class='ielts-input' /></td><td>The picture's composition was not good.</td></tr><tr><td>81</td><td>Scene must show <input type='text' data-qid='6' class='ielts-input' /></td><td>The <input type='text' data-qid='7' class='ielts-input' /> was wrong.</td></tr><tr><td>Animal Magic</td><td><input type='text' data-qid='8' class='ielts-input' /></td><td>The photograph was too <input type='text' data-qid='9' class='ielts-input' />.</td></tr></table>",
       "questions": [
         {
           "id": 1,
           "type": "fill_in_the_blank",
-          "instruction": "Write ONE WORD ONLY for each answer.",
-          "content": "<p>Sample extracted question 1: <input type='text' data-qid='1' class='ielts-input' /></p>",
-          "answer": ""
+          "instruction": "Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Home address: 52 <input type='text' data-qid='1' class='ielts-input' /> Street, Peacetown",
+          "answer": "Marrowfield"
+        },
+        {
+          "id": 2,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Heard about us: from a <input type='text' data-qid='2' class='ielts-input' />",
+          "answer": "relative"
+        },
+        {
+          "id": 3,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Reasons for joining: to enter competitions, to <input type='text' data-qid='3' class='ielts-input' />",
+          "answer": "socialise"
+        },
+        {
+          "id": 4,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "content": "Type of membership: <input type='text' data-qid='4' class='ielts-input' /> membership (£30)",
+          "answer": "full"
+        },
+        {
+          "id": 5,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer.",
+          "content": "Scene must show some <input type='text' data-qid='5' class='ielts-input' />",
+          "answer": "Domestic Life"
+        },
+        {
+          "id": 6,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer.",
+          "content": "Scene must show <input type='text' data-qid='6' class='ielts-input' />",
+          "answer": "clouds"
+        },
+        {
+          "id": 7,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer.",
+          "content": "The <input type='text' data-qid='7' class='ielts-input' /> was wrong.",
+          "answer": "timing"
+        },
+        {
+          "id": 8,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer.",
+          "content": "<input type='text' data-qid='8' class='ielts-input' />",
+          "answer": "Animal Magic"
+        },
+        {
+          "id": 9,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer.",
+          "content": "Scene must show <input type='text' data-qid='9' class='ielts-input' /> (Wait, mapping to question 9 in instructions: The photograph was too <input type='text' data-qid='9' class='ielts-input' />.)",
+          "answer": "dark"
+        },
+        {
+          "id": 10,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer.",
+          "content": "Feedback item: <input type='text' data-qid='10' class='ielts-input' />",
+          "answer": "animal movement"
+        }
+      ]
+    },
+    {
+      "part_number": 2,
+      "title": "Part 2",
+      "audio_file": "C 18 test 3 [@cambridge_library]/C 18 section3 part2[@cambridge_library].mp3",
+      "passage": "<h3>PART 2</h3><p>Questions 11-20</p>",
+      "questions": [
+        {
+          "id": 11,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.",
+          "content": "<p>Which TWO warnings does Dan give about picking mushrooms?</p><p><label><input type='checkbox' name='q11' value='A' /> A Don't pick more than one variety of mushroom at a time.</label></p><p><label><input type='checkbox' name='q11' value='B' /> B Don't pick mushrooms near busy roads.</label></p><p><label><input type='checkbox' name='q11' value='C' /> C Don't eat mushrooms given to you.</label></p><p><label><input type='checkbox' name='q11' value='D' /> D Don't eat mushrooms while picking them.</label></p><p><label><input type='checkbox' name='q11' value='E' /> E Don't pick old mushrooms.</label></p>",
+          "answer": "B"
+        },
+        {
+          "id": 12,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.",
+          "content": "<p>Which TWO warnings does Dan give about picking mushrooms? (Second part of 11-12)</p>",
+          "answer": "C"
+        },
+        {
+          "id": 13,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.",
+          "content": "<p>Which TWO ideas about wild mushrooms does Dan say are correct?</p><p><label><input type='checkbox' name='q13' value='A' /> A Mushrooms should always be peeled before eating.</label></p><p><label><input type='checkbox' name='q13' value='B' /> B Mushrooms eaten by animals may be unsafe.</label></p><p><label><input type='checkbox' name='q13' value='C' /> C Cooking destroys toxins in mushrooms.</label></p><p><label><input type='checkbox' name='q13' value='D' /> D Brightly coloured mushrooms can be edible.</label></p><p><label><input type='checkbox' name='q13' value='E' /> E All poisonous mushrooms have a bad smell.</label></p>",
+          "answer": "B"
+        },
+        {
+          "id": 14,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.",
+          "content": "<p>Which TWO ideas about wild mushrooms does Dan say are correct? (Second part of 13-14)</p>",
+          "answer": "D"
+        },
+        {
+          "id": 15,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "<p>What advice does Dan give about picking mushrooms in parks?</p><p><label><input type='radio' name='q15' value='A' /> A Choose wooded areas.</label></p><p><label><input type='radio' name='q15' value='B' /> B Don't disturb wildlife.</label></p><p><label><input type='radio' name='q15' value='C' /> C Get there early.</label></p>",
+          "answer": "C"
+        },
+        {
+          "id": 16,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "<p>Dan says it is a good idea for beginners to</p><p><label><input type='radio' name='q16' value='A' /> A use a mushroom app.</label></p><p><label><input type='radio' name='q16' value='B' /> B join a group.</label></p><p><label><input type='radio' name='q16' value='C' /> C take a reference book.</label></p>",
+          "answer": "B"
+        },
+        {
+          "id": 17,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "<p>What does Dan say is important for conservation?</p><p><label><input type='radio' name='q17' value='A' /> A selecting only fully grown mushrooms</label></p><p><label><input type='radio' name='q17' value='B' /> B picking a limited amount of mushrooms</label></p><p><label><input type='radio' name='q17' value='C' /> C avoiding areas where rare mushroom species grow</label></p>",
+          "answer": "B"
+        },
+        {
+          "id": 18,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "<p>According to Dan, some varieties of wild mushrooms are in decline because there is</p><p><label><input type='radio' name='q18' value='A' /> A a huge demand for them from restaurants.</label></p><p><label><input type='radio' name='q18' value='B' /> B a lack of rain in this part of the country.</label></p><p><label><input type='radio' name='q18' value='C' /> C a rise in building developments locally.</label></p>",
+          "answer": "C"
+        },
+        {
+          "id": 19,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "<p>Dan says that when storing mushrooms, people should</p><p><label><input type='radio' name='q19' value='A' /> A keep them in the fridge for no more than two days.</label></p><p><label><input type='radio' name='q19' value='B' /> B keep them in a brown bag in a dark room.</label></p><p><label><input type='radio' name='q19' value='C' /> C leave them for a period after washing them.</label></p>",
+          "answer": "A"
+        },
+        {
+          "id": 20,
+          "type": "multiple_choice",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "content": "<p>What does Dan say about trying new varieties of mushrooms?</p><p><label><input type='radio' name='q20' value='A' /> A Experiment with different recipes.</label></p><p><label><input type='radio' name='q20' value='B' /> B Expect some to have a strong taste.</label></p><p><label><input type='radio' name='q20' value='C' /> C Cook them for a long time.</label></p>",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "part_number": 3,
+      "title": "Part 3",
+      "audio_file": "C 18 test 3 [@cambridge_library]/C 18 section3 part3[@cambridge_library].mp3",
+      "passage": "<h3>PART 3</h3><p>Questions 21-30</p>",
+      "questions": [
+        {
+          "id": 21,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.",
+          "content": "<p>Which TWO opinions about the Luddites do the students express?</p><p><label><input type='checkbox' name='q21' value='A' /> A Their actions were ineffective.</label></p><p><label><input type='checkbox' name='q21' value='B' /> B They are still influential today.</label></p><p><label><input type='checkbox' name='q21' value='C' /> C They have received unfair criticism.</label></p><p><label><input type='checkbox' name='q21' value='D' /> D They were proved right.</label></p><p><label><input type='checkbox' name='q21' value='E' /> E Their attitude is understandable.</label></p>",
+          "answer": "A"
+        },
+        {
+          "id": 22,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.",
+          "content": "<p>Which TWO opinions about the Luddites do the students express? (Second part)</p>",
+          "answer": "E"
+        },
+        {
+          "id": 23,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.",
+          "content": "<p>Which TWO predictions about the future of work are the students doubtful about?</p><p><label><input type='checkbox' name='q23' value='A' /> A Work will be more rewarding.</label></p><p><label><input type='checkbox' name='q23' value='B' /> B Unemployment will fall.</label></p><p><label><input type='checkbox' name='q23' value='C' /> C People will want to delay retiring.</label></p><p><label><input type='checkbox' name='q23' value='D' /> D Working hours will be shorter.</label></p><p><label><input type='checkbox' name='q23' value='E' /> E People will change jobs more frequently.</label></p>",
+          "answer": "B"
+        },
+        {
+          "id": 24,
+          "type": "multiple_choice",
+          "instruction": "Choose TWO letters, A-E.",
+          "content": "<p>Which TWO predictions about the future of work are the students doubtful about? (Second part)</p>",
+          "answer": "D"
+        },
+        {
+          "id": 25,
+          "type": "fill_in_the_blank",
+          "instruction": "What comment do the students make about each of the following jobs? Choose SIX answers from the box (A-G).",
+          "content": "<p>25 Accountants <input type='text' data-qid='25' class='ielts-input' /></p>",
+          "answer": "G"
+        },
+        {
+          "id": 26,
+          "type": "fill_in_the_blank",
+          "instruction": "What comment do the students make about each of the following jobs? Choose SIX answers from the box (A-G).",
+          "content": "<p>26 Hairdressers <input type='text' data-qid='26' class='ielts-input' /></p>",
+          "answer": "E"
+        },
+        {
+          "id": 27,
+          "type": "fill_in_the_blank",
+          "instruction": "What comment do the students make about each of the following jobs? Choose SIX answers from the box (A-G).",
+          "content": "<p>27 Administrative staff <input type='text' data-qid='27' class='ielts-input' /></p>",
+          "answer": "B"
+        },
+        {
+          "id": 28,
+          "type": "fill_in_the_blank",
+          "instruction": "What comment do the students make about each of the following jobs? Choose SIX answers from the box (A-G).",
+          "content": "<p>28 Agricultural workers <input type='text' data-qid='28' class='ielts-input' /></p>",
+          "answer": "C"
+        },
+        {
+          "id": 29,
+          "type": "fill_in_the_blank",
+          "instruction": "What comment do the students make about each of the following jobs? Choose SIX answers from the box (A-G).",
+          "content": "<p>29 Care workers <input type='text' data-qid='29' class='ielts-input' /></p>",
+          "answer": "F"
+        },
+        {
+          "id": 30,
+          "type": "fill_in_the_blank",
+          "instruction": "What comment do the students make about each of the following jobs? Choose SIX answers from the box (A-G).",
+          "content": "<p>30 Bank clerks <input type='text' data-qid='30' class='ielts-input' /></p>",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "part_number": 4,
+      "title": "Part 4",
+      "audio_file": "C 18 test 3 [@cambridge_library]/C 18 section3 part4[@cambridge_library].mp3",
+      "passage": "<h3>PART 4</h3><p>Questions 31-40<br>Complete the notes below.<br>Write ONE WORD ONLY for each answer.</p><h3>Space Traffic Management</h3><ul><li>A Space Traffic Management system is a concept similar to Air Traffic Control, but for satellites rather than planes.</li><li>would aim to set up legal and <input type='text' data-qid='31' class='ielts-input' /> ways of improving safety.</li><li>does not actually exist at present.</li></ul><h3>Problems in developing effective Space Traffic Management</h3><ul><li>Satellites are now quite <input type='text' data-qid='32' class='ielts-input' /> and therefore more widespread (e.g. there are constellations made up of <input type='text' data-qid='33' class='ielts-input' /> of satellites).</li><li>At present, satellites are not required to transmit information to help with their <input type='text' data-qid='34' class='ielts-input' />.</li><li>There are few systems for <input type='text' data-qid='35' class='ielts-input' /> satellites.</li><li>Small pieces of debris may be difficult to identify.</li><li>Operators may be unwilling to share details of satellites used for <input type='text' data-qid='36' class='ielts-input' /> or commercial reasons.</li><li>It may be hard to collect details of the object's <input type='text' data-qid='37' class='ielts-input' /> at a given time.</li><li>Scientists can only make a <input type='text' data-qid='38' class='ielts-input' /> about where the satellite will go.</li></ul><h3>Solutions</h3><ul><li>Common standards should be agreed on for the presentation of information.</li><li>The information should be combined in one <input type='text' data-qid='39' class='ielts-input' />.</li><li>A coordinated system must be designed to create <input type='text' data-qid='40' class='ielts-input' /> among its users.</li></ul>",
+      "questions": [
+        {
+          "id": 31,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "would aim to set up legal and <input type='text' data-qid='31' class='ielts-input' /> ways of improving safety.",
+          "answer": "technical"
+        },
+        {
+          "id": 32,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "Satellites are now quite <input type='text' data-qid='32' class='ielts-input' /> and therefore more widespread",
+          "answer": "cheap"
+        },
+        {
+          "id": 33,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "constellations made up of <input type='text' data-qid='33' class='ielts-input' /> of satellites",
+          "answer": "thousands"
+        },
+        {
+          "id": 34,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "satellites are not required to transmit information to help with their <input type='text' data-qid='34' class='ielts-input' />",
+          "answer": "identification"
+        },
+        {
+          "id": 35,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "There are few systems for <input type='text' data-qid='35' class='ielts-input' /> satellites.",
+          "answer": "tracking"
+        },
+        {
+          "id": 36,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "satellites used for <input type='text' data-qid='36' class='ielts-input' /> or commercial reasons.",
+          "answer": "military"
+        },
+        {
+          "id": 37,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "collect details of the object's <input type='text' data-qid='37' class='ielts-input' /> at a given time.",
+          "answer": "location"
+        },
+        {
+          "id": 38,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "Scientists can only make a <input type='text' data-qid='38' class='ielts-input' /> about where the satellite will go.",
+          "answer": "prediction"
+        },
+        {
+          "id": 39,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "The information should be combined in one <input type='text' data-qid='39' class='ielts-input' />.",
+          "answer": "database"
+        },
+        {
+          "id": 40,
+          "type": "fill_in_the_blank",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "content": "A coordinated system must be designed to create <input type='text' data-qid='40' class='ielts-input' /> among its users.",
+          "answer": "trust"
         }
       ]
     }

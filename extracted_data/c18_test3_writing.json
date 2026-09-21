@@ -6,16 +6,31 @@
   "parts": [
     {
       "part_number": 1,
-      "title": "Cambridge 18 Test 3 Writing Part 1",
-      "audio_file": null,
-      "passage": "<p>Passage content for Cambridge 18 Test 3 Writing. Loaded from archive.</p>",
+      "title": "WRITING TASK 1",
+      "audio_file": "",
+      "passage": "<h3>WRITING TASK 1</h3><p>You should spend about 20 minutes on this task.</p><p>The diagram below shows the floor plan of a public library 20 years ago and how it looks now.</p><p>Summarise the information by selecting and reporting the main features, and make comparisons where relevant.</p><p>Write at least 150 words.</p>",
       "questions": [
         {
           "id": 1,
           "type": "fill_in_the_blank",
-          "instruction": "Write ONE WORD ONLY for each answer.",
-          "content": "<p>Sample extracted question 1: <input type='text' data-qid='1' class='ielts-input' /></p>",
-          "answer": ""
+          "instruction": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+          "content": "<p>Write at least 150 words.</p><input type='text' data-qid='1' class='ielts-input' />",
+          "answer": "Model answer not provided for Writing tasks."
+        }
+      ]
+    },
+    {
+      "part_number": 2,
+      "title": "WRITING TASK 2",
+      "audio_file": "",
+      "passage": "<h3>WRITING TASK 2</h3><p>You should spend about 40 minutes on this task.</p><p>Write about the following topic:</p><p>In many countries around the world, rural people are moving to cities, so the population in the countryside is decreasing.</p><p>Do you think this is a positive or a negative development?</p><p>Give reasons for your answer and include any relevant examples from your own knowledge or experience.</p><p>Write at least 250 words.</p>",
+      "questions": [
+        {
+          "id": 2,
+          "type": "fill_in_the_blank",
+          "instruction": "Write an essay discussing whether the migration from rural areas to cities is a positive or negative development.",
+          "content": "<p>Write at least 250 words.</p><input type='text' data-qid='2' class='ielts-input' />",
+          "answer": "Model answer not provided for Writing tasks."
         }
       ]
     }
