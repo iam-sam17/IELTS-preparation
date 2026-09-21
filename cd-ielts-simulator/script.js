@@ -188,7 +188,17 @@ document.addEventListener('DOMContentLoaded', () => {
         } else if (currentModule === 'listening') {
             const audioElem = document.getElementById('listening-audio');
             if (part.audio_file) {
-                audioElem.src = part.audio_file;
+                let audioSrc = part.audio_file;
+                if (!audioSrc.startsWith('http') && !audioSrc.startsWith('/') && !audioSrc.startsWith('../')) {
+                    const bookNum = parseInt(book, 10);
+                    const bookFolder = bookNum < 10 ? `Cambridge IELTS 0${bookNum}` : `Cambridge IELTS ${bookNum}`;
+                    audioSrc = `../${bookFolder}/${audioSrc}`;
+                }
+                audioElem.src = audioSrc;
+                audioElem.onerror = () => {
+                    console.warn(`Could not load audio from ${audioSrc}, falling back to default listening audio.`);
+                    audioElem.src = 'data/listening.mp3';
+                };
             }
             const questionsContainer = document.getElementById('listening-questions-content');
             questionsContainer.innerHTML = '';
